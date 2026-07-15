@@ -1,0 +1,68 @@
+ol{
+    width: 200px;
+    height: 200px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    display: grid;
+    justify-content: space-around;
+    align-content: space-around;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    grid-template-areas: "topLeft topMiddle topRight"
+                    "middleLeft middleMiddle middleRight"
+                    "bottomLeft bottomMiddle bottomRight";
+    
+
+}
+ol li{
+    background-color: black ;
+    border-radius: 500px;
+}
+body{
+    height: 100vh;
+    display: grid;
+    
+    grid-template-columns: repeat(3, min-content);
+    grid-template-rows: min-content min-content;
+    justify-content: space-around;
+    align-content: space-around;
+    
+}
+ol:nth-child(odd){
+    & :nth-child(1){
+        grid-area: middleMiddle;
+    }
+    & :nth-child(3){
+        grid-area: bottomRight;
+    }
+    & :nth-child(4){
+        grid-area: bottomLeft;
+    }
+    & :nth-child(5){
+        grid-area: topRight;
+    }
+}
+ol:nth-child(even){
+    & :nth-child(2){
+        grid-area: bottomRight;
+    }
+    & :nth-child(3){
+        grid-area: topRight;
+    }
+    & :nth-child(4){
+        grid-area: bottomLeft;
+    }
+    & :nth-child(5){
+        grid-area: middleLeft;
+    }
+    & :nth-child(6){
+        grid-area: middleRight;
+    }
+}
+ol{
+    
+    padding: 0;
+}
+li{
+    list-style: none;
+}
