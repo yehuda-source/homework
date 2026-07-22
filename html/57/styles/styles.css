@@ -1,0 +1,185 @@
+body{
+    display: grid;
+    grid-template-columns: 10% 1fr 10%;
+    margin-left: 0;
+    margin-top: 0;
+    
+}
+nav ul{
+    display: flex;
+    background-color: black;
+   
+    width: 100%;
+    padding-left: 10%;
+    gap: 1em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0;
+    
+    
+    
+}
+nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+a:hover{
+    color: red;
+    text-decoration:underline;
+}
+li{
+    
+}
+html{
+    font-family: Helvetica, Arial, sans-serif;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+header{
+    background-color:lightgray;
+    padding: 40px;
+    border-radius: 0px 0px 5px 5px;
+    margin-top: 60px;
+    
+}
+header h1{
+    text-transform: uppercase;
+}
+h1, h2{
+    text-align: center;
+}
+section h2{
+    text-align: left;
+}
+#aboutUs{
+    margin-bottom: 60px;
+}
+#computer h2, .choir h2 , #candy h2, .form h2{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    padding-left: 10%;
+    
+}
+h3{
+    color: white;
+}
+header, section, form{
+    grid-column: 2;
+}
+input{
+    /* box-shadow: 3px 3px 3px black; */
+    border-bottom: 3px black;
+    border-right: 3px black;
+    border-style: solid;
+    
+
+    border-radius: 7px;
+    
+}
+form{
+    background-color: lightgray;  
+    padding: 10px
+}
+
+div{
+    display: block;
+    margin: 0 auto;
+    max-width: max-content;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+button{
+    max-width: max-content;
+    display: block;
+    margin: 0 auto;
+    margin-top: 3px;
+    background-color: lightgray;
+    border-radius: 3px;
+}
+th, td{
+    border: 1px solid black;
+    
+}
+td{
+    text-align: right;
+}
+table{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+td:nth-child(1){
+    font-weight: bold;
+}
+.even{
+    background-color: aqua;
+}
+
+tr:hover{
+    background-color: blue;
+}
+#total, td:nth-child(6){
+    color: red;
+}
+caption{
+    font-weight: bold;
+    font-size: x-large;
+    margin: 20px;
+}
+video{
+    width: 100%;
+}
+@media(min-width: 800px){
+    #products{
+        display: grid;
+        column-gap: 2px;
+        grid-template-columns: repeat(3, 1fr);
+        background-color: lightgray;
+        margin-bottom: 1.5em;
+    }
+    #products *{
+        background-color: white;
+    }
+    #products h2, #products p{
+        margin: 0;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        width: 100%;
+    }
+    #products h2, #products p{
+        grid-column: 1 / 4;
+    }
+    #computer{
+        grid-column: 1;
+
+    }
+    .choir{
+        grid-column: 2;
+    }
+    #candy{
+        grid-column: 3;
+    }
+    #computer, .choir{
+        padding-right: 5px;
+    }
+    .choir, #candy{
+        padding-left: 5px;
+    }
+
+     .user-input{
+        display: flex;
+       gap: .5em;
+     }
+}
