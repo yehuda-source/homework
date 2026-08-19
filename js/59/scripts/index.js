@@ -7,13 +7,13 @@ function multiply(x, y){
 console.log(multiply(5,5));
 console.log(multiply(3,7));
    //2
-function GetMultiplier(x,y){
-    return function(){
+function GetMultiplier(){
+    return function(x, y){
         return x * y;
     }
 }
-const multiplier = GetMultiplier(8,7);
-console.log(multiplier());
+const multiplier = GetMultiplier();
+console.log(multiplier(8,7));
 //3
 function GetMultiplier2(x){
     return function(y){
