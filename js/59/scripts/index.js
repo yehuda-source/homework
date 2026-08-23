@@ -34,19 +34,20 @@ function myEvery(array, func){
         }
     }
     return true;
+   // for(const num of array){
+    //    if(!func(num)){
+    //        return false;
+     //   }
+   // }
+   // return true;
 }
 var letters = ["a", "b", "c",];
 function isUpper(str){
-    if(str === str.toUpperCase()){
-        return true;
-    }
-    return false;
+    return str === str.toUpperCase();
+
 }
 function isLower(str){
-    if(str === str.toLowerCase()){
-        return true
-    }
-    return false
+    return str === str.toLowerCase();
 }
 var result = myEvery(letters, isUpper);
 console.log(result);
@@ -66,7 +67,7 @@ function mySome(array, func){
     }
     return false;
 }
-const letters2 = ["a", "B", "c"]
+const letters2 = ["a", "B", "c"];
 var someResult = mySome(letters2, isUpper);
 console.log(someResult);
 someResult = letters2.some(isUpper);
