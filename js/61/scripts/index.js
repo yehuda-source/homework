@@ -1,6 +1,6 @@
 //a
-function bankAccount(balance){ return {
-    balance: balance,
+function bankAccount(startingBalance){ return {
+    balance: startingBalance,
    performTransaction(amount){
     this.balance += amount;
    }
