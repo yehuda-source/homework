@@ -9,7 +9,6 @@ function setCss(elements, property, value) {
   :Array.isArray(elements)
   ? elements
   : [elements]
-  // element.style.property = value;
   elements.forEach(element => {
     element.style[property] = value;
   });
@@ -17,7 +16,7 @@ function setCss(elements, property, value) {
 }
 
 function getCss(elements, property) {
-  // return element.style[property];
+  
    elements = elements instanceof NodeList || elements instanceof HTMLCollection
   ? [...elements]
   :Array.isArray(elements)
@@ -89,7 +88,7 @@ export default function (selector) {
 
   return {
     css: function (property, value) {
-      //console.log(arguments);
+      
 
       if (arguments.length < 2) {
         return getCss(elements, property);
