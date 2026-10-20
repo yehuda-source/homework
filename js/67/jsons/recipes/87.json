@@ -1,0 +1,110 @@
+{
+  "id": 87,
+  "source_id": 78574,
+  "name": "Steak with Caramelized Onions",
+  "slug": "steak-with-caramelized-onions-8661",
+  "url": "https://www.kosher.com/recipe/steak-with-caramelized-onions-8661/",
+  "description": "Submitted by Liela Yidis Linshe\nMy mother was the inspiration for this recipe. When my second son was born she cooked a heavenly prime bola dish for the vachnacht. That recipe was a bit long-winded but it was delicious and I prepared it for the next Yom Tov and for many other occasions after that. One fine day, as I was thinking of supper, this recipe fell into my head, and although the results are completely different from the original recipe, I like to remember that the inspiration came from my mother.\nWhenever I serve it I get rave reviews, and almost always need to share the recipe!",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/t/Steak_with_Caramelized_Onions.jpg",
+  "extra_images": [],
+  "published": "2020-06-02T10:25:05",
+  "modified": "2020-06-03T09:55:06",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 10,
+    "total_minutes": 70
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "caramelized onions",
+    "carmelized onions",
+    "delicious",
+    "Liela Yidis Linshe",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "onions",
+    "rib steaks",
+    "simple",
+    "steak"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "8",
+          "item": "small onions, sliced thin",
+          "text": "8 small onions, sliced thin"
+        },
+        {
+          "amount": null,
+          "item": "oil for sautéing",
+          "text": "oil for sautéing"
+        },
+        {
+          "amount": "3 Tablespoons",
+          "item": "brown sugar",
+          "text": "3 Tablespoons brown sugar"
+        },
+        {
+          "amount": "1 Tablespoon",
+          "item": "Osem chicken soup powder",
+          "text": "1 Tablespoon Osem chicken soup powder"
+        },
+        {
+          "amount": "1.5 kg",
+          "item": "rib steak cut into strips (ask your butcher to do this for you)",
+          "text": "1.5 kg rib steak cut into strips (ask your butcher to do this for you)"
+        },
+        {
+          "amount": null,
+          "item": "salt to taste",
+          "text": "salt to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper to taste",
+          "text": "pepper to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Steak",
+      "steps": [
+        "Sauté onions in oil, on low flame until light brown (approx 30 minutes).",
+        "Add sugar and soup powder and mix well to combine.",
+        "Pour onion mixture into a large bowl.",
+        "Rinse and pat dry the steak.",
+        "Season steak with salt and pepper to taste.",
+        "Heat a non-stick pan on a high flame, add steak and fry until it is done to your taste – you will probably need to do this in batches. You want to have control over how the steaks get cooked, so do not overcrowd the pan.",
+        "Put the cooked steak into the bowl with the onion mixture.",
+        "Once all the steak is cooked mix well to combine.",
+        "Eat and enjoy."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

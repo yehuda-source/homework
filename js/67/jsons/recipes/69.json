@@ -1,0 +1,124 @@
+{
+  "id": 69,
+  "source_id": 67981,
+  "name": "Summer Strawberry Muffins",
+  "slug": "summer-strawberry-muffins-5978",
+  "url": "https://www.kosher.com/recipe/summer-strawberry-muffins-5978/",
+  "description": "I love fresh summer strawberries, and these muffins are packed with them. Sweet, bright strawberries are all wrapped up in a fluffy sponge. It's a breakfast that my kids can't get enough of!",
+  "chefs": [
+    "Tamar Teitelbaum"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/t/Strawberry_Muffins_-_Tamar_Teitelbaum.jpg",
+  "extra_images": [],
+  "published": "2018-08-08T08:58:20",
+  "modified": "2018-08-08T03:56:02",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Breakfast"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [],
+  "tags": [
+    "breakfast",
+    "kid-friendly",
+    "kids",
+    "muffins",
+    "strawberries",
+    "strawberry"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3 and 1/4 cups",
+          "item": "flour",
+          "text": "3 and 1/4 cups flour"
+        },
+        {
+          "amount": "1 and 1/4 cups",
+          "item": "sugar",
+          "text": "1 and 1/4 cups sugar"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Haddar Baking Powder",
+          "text": "2 tablespoons Haddar Baking Powder"
+        },
+        {
+          "amount": "1 and 3/4 teaspoons",
+          "item": "kosher salt",
+          "text": "1 and 3/4 teaspoons kosher salt"
+        },
+        {
+          "amount": "2",
+          "item": "whole eggs plus 1 yolk",
+          "text": "2 whole eggs plus 1 yolk"
+        },
+        {
+          "amount": "1 and 1/4 cups",
+          "item": "milk or milk substitute",
+          "text": "1 and 1/4 cups milk or milk substitute"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "Gefen Vanilla Extract",
+          "text": "2 teaspoons Gefen Vanilla Extract"
+        },
+        {
+          "amount": "3/4 cup",
+          "item": "Gefen Olive Oil",
+          "text": "3/4 cup Gefen Olive Oil"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "strawberries, diced",
+          "text": "1 and 1/2 cups strawberries, diced"
+        },
+        {
+          "amount": null,
+          "item": "brown sugar for sprinkling (optional)",
+          "text": "brown sugar for sprinkling (optional)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Muffins",
+      "steps": [
+        "Preheat oven to 400 degrees Fahrenheit. Grease a muffin pan with baking spray, or oil and dust with flour.",
+        "Mix flour, sugar, baking powder and kosher salt in a large bowl. Set aside.",
+        "Mix eggs, yolk,milk, vanilla, and olive oil in a separate bowl until fully combined.",
+        "Pour the wet ingredients into the dry ingredients. Whisk until combined. Do NOT try to beat out the lumps. Just fully combine the ingredients.",
+        "Fold in the strawberries.",
+        "Using an old-style ice cream scoop, take one level scoop of batter per muffin cup.",
+        "Sprinkle the tops with a little brown sugar if using. The brown sugar creates a little crisp crust on the muffin top. Without it the muffins have a soft top. Either way is very good!",
+        "Bake for 20-25 minutes. A toothpick inserted in the center of the center muffins should come out clean, and the tops should be golden and starting to crack."
+      ]
+    }
+  ],
+  "tips": "Description:\nYields 18-24 muffins",
+  "wine_pairing": [],
+  "video": null
+}

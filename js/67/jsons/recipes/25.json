@@ -1,0 +1,166 @@
+{
+  "id": 25,
+  "source_id": 49222,
+  "name": "Sauteed Liver over White Bean Puree",
+  "slug": "sauteed-liver-over-white-bean-puree-1010",
+  "url": "https://www.kosher.com/recipe/sauteed-liver-over-white-bean-puree-1010/",
+  "description": null,
+  "chefs": [
+    "Kiki Fisher"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/a/Saut%C3%A9ed_Liver_Over_White_Bean_Pur%C3%A9e.jpg",
+  "extra_images": [],
+  "published": "2017-03-06T07:08:16",
+  "modified": "2019-09-03T00:37:37",
+  "cook_time": {
+    "hours": 3,
+    "minutes": 0,
+    "total_minutes": 180
+  },
+  "servings": "10",
+  "difficulty": "Medium",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Appetizers"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Sukkot"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "beans",
+    "elegant",
+    "liver",
+    "savory",
+    "savory appetizers",
+    "savory sides",
+    "starter",
+    "Succos",
+    "Succot",
+    "Sukkos"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Bean Puree",
+      "ingredients": [
+        {
+          "amount": "1/2 teaspoon",
+          "item": "baking soda",
+          "text": "1/2 teaspoon baking soda"
+        },
+        {
+          "amount": "1 (16-ounce) bag",
+          "item": "Glicks Navy Beans, picked through and rinsed",
+          "text": "1 (16-ounce) bag Glicks Navy Beans, picked through and rinsed"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "coarse Gefen Black Pepper, to taste",
+          "text": "coarse Gefen Black Pepper, to taste"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "oil",
+          "text": "1/4 cup oil"
+        },
+        {
+          "amount": "2",
+          "item": "onions, diced",
+          "text": "2 onions, diced"
+        },
+        {
+          "amount": "8 cloves",
+          "item": "garlic, minced",
+          "text": "8 cloves garlic, minced"
+        }
+      ]
+    },
+    {
+      "title": "Liver",
+      "ingredients": [
+        {
+          "amount": "1/2 cup",
+          "item": "Bartenura Olive Oil",
+          "text": "1/2 cup Bartenura Olive Oil"
+        },
+        {
+          "amount": "2",
+          "item": "large onions, sliced into thin rings",
+          "text": "2 large onions, sliced into thin rings"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "flour (optional)",
+          "text": "3 tablespoons flour (optional)"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Manischewitz Chicken Broth",
+          "text": "1 cup Manischewitz Chicken Broth"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "coarse Gefen Black Pepper, to taste",
+          "text": "coarse Gefen Black Pepper, to taste"
+        },
+        {
+          "amount": null,
+          "item": "paprika, to taste",
+          "text": "paprika, to taste"
+        },
+        {
+          "amount": "1 and 1/2 pounds",
+          "item": "chicken liver (pre-broiled by the butcher to kasher)",
+          "text": "1 and 1/2 pounds chicken liver (pre-broiled by the butcher to kasher)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare Beans",
+      "steps": [
+        "Dissolve baking soda in a large bowl of water.",
+        "Add beans and soak for at least one hour, and rinse well.",
+        "In a saucepan over medium-low heat, add soaked beans. Cover with water and add salt and pepper.",
+        "Bring to a boil and simmer for 30 minutes to one hour. Keep a close eye on the beans, adding additional water as necessary so they don’t burn.",
+        "Once beans are soft, drain remaining water and set aside.",
+        "Heat oil in a sauté pan over medium heat.",
+        "Add onions and garlic and sauté until dark golden brown, about 20 minutes.",
+        "In the bowl of a food processor, combine beans with onion/garlic mixture (and their oil). Blend until mixture is a fine purée, and set aside."
+      ]
+    },
+    {
+      "title": "Prepare Liver",
+      "steps": [
+        "Heat oil in a sauté pan over medium heat. Add onions and sauté until golden, 10 to 15 minutes.",
+        "Stir in flour (if using). Slowly stir in chicken broth. Mix well so mixture remains smooth. Season with salt, pepper, and paprika.",
+        "Add liver and cook over low heat for 15 to 20 minutes.",
+        "Serve over white bean purée."
+      ]
+    }
+  ],
+  "tips": "Description:\nFood Styling and Design by Kiki Fisher. Contact Kiki at fooddesignbykiki@gmail.com.",
+  "wine_pairing": [],
+  "video": null
+}

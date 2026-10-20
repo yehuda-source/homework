@@ -1,0 +1,162 @@
+{
+  "id": 35,
+  "source_id": 51288,
+  "name": "Bunny Chow",
+  "slug": "bunny-chow-1476",
+  "url": "https://www.kosher.com/recipe/bunny-chow-1476/",
+  "description": "Being an ex-Durbanite, I feel honoured to share a simple, culinary delight from my hometown – the famous Bunny Chow. This hollowed-out half-loaf of bread is filled with any available curry, whether it's beef, lamb, chicken or vegetable. The piece of bread, hollowed out of the loaf, should be placed on top of the curry. Some like to add sambals such as chutney to their 'Bunnies' but it's unnecessary.\nIt has become quite novel for miniature versions of this informal 'hands on' meal to be passed around at some of the most formal dinner parties! This 'finger food' option can be easily achieved by using 'two-bite' small round cocktail rolls. Cut off their tops/lids about a quarter of the way down, scoop out some bread, fill them with curried mince and top them with the lids you initially cut off.",
+  "chefs": [
+    "Sharon Lurie"
+  ],
+  "image": "https://images.kosher.com/details.slide/1/01_bunnys-chow_018.jpg",
+  "extra_images": [],
+  "published": "2017-05-14T22:08:45",
+  "modified": "2017-05-25T19:11:42",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 35,
+    "total_minutes": 95
+  },
+  "servings": "6",
+  "difficulty": "Medium",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "curry",
+    "ground beef",
+    "ground chicken",
+    "ground meat",
+    "ground turkey",
+    "mince",
+    "rustic",
+    "sandwiches",
+    "spice",
+    "stovetop meals"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "7 tablespoons",
+          "item": "oil, divided",
+          "text": "7 tablespoons oil, divided"
+        },
+        {
+          "amount": "2",
+          "item": "medium onions, peeled and chopped",
+          "text": "2 medium onions, peeled and chopped"
+        },
+        {
+          "amount": "1 ounce",
+          "item": "chopped coriander",
+          "text": "1 ounce chopped coriander"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "crushed garlic or 1 cube Gefen Frozen Garlic",
+          "text": "1 teaspoon crushed garlic or 1 cube Gefen Frozen Garlic"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "finely grated fresh ginger or 3 cubes Dorot Gardens Frozen Ginger",
+          "text": "1 tablespoon finely grated fresh ginger or 3 cubes Dorot Gardens Frozen Ginger"
+        },
+        {
+          "amount": "1",
+          "item": "fresh hot chili pepper, deseeded and chopped (add 2 if you prefer a hot curry)",
+          "text": "1 fresh hot chili pepper, deseeded and chopped (add 2 if you prefer a hot curry)"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "ground cumin",
+          "text": "1 teaspoon ground cumin"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "ground turmeric",
+          "text": "1 teaspoon ground turmeric"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "coarsely ground Gefen Black Pepper",
+          "text": "1 teaspoon coarsely ground Gefen Black Pepper"
+        },
+        {
+          "amount": "2 (12-oz.) cans",
+          "item": "chopped, peeled tomatoes (preferably Italian)",
+          "text": "2 (12-oz.) cans chopped, peeled tomatoes (preferably Italian)"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "sugar",
+          "text": "1 teaspoon sugar"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "sweet chili sauce",
+          "text": "1/4 cup sweet chili sauce"
+        },
+        {
+          "amount": "2 pounds",
+          "item": "ground beef",
+          "text": "2 pounds ground beef"
+        },
+        {
+          "amount": "1",
+          "item": "large head lettuce, coarsely shredded",
+          "text": "1 large head lettuce, coarsely shredded"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper, to taste",
+          "text": "pepper, to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Curry",
+      "steps": [
+        "Heat three tablespoons oil in a large frying pan and brown the onion.",
+        "Add the coriander, garlic, ginger and chili and fry for a further two minutes.",
+        "Add the cumin, turmeric and black pepper and give a good stir.",
+        "Add the tomatoes and sugar and bring to the boil. Reduce temperature and allow sauce to simmer without a lid for about 20 minutes allowing some of the liquid to evaporate and reduce. You don't want the mixture to be too loose, as the liquid will seep through the bread.",
+        "Remove from heat, add sweet chili sauce, mix well, cover with a lid and set aside.",
+        "Meanwhile, add the remaining four tablepsoons oil to another saucepan and fry the mince meat until golden brown. Keep breaking up the mince with a fork while stirring, otherwise it will go lumpy. The secret to the hearty taste of this dish lies in the color of the mince. You want to get it a dark golden color. The bottom of the pan should also turn dark brown. However, you don't want it to burn, so keep an eye on it and keep mixing.",
+        "Add the reduced tomato mixture to the meat, give it a good stir and bring to a boil. Scrape all the brown bits off the bottom of the pan.",
+        "Add the lettuce and continue to cook until the lettuce goes limp. Season with salt and stir well.",
+        "Reduce the heat and simmer for about 20 minutes, with the lid on.",
+        "Turn off the heat and leave the pan on the stove for about another 30 minutes, so that the mince can absorb the flavors."
+      ]
+    },
+    {
+      "title": "To Serve",
+      "steps": [
+        "Reheat the curry when ready to serve.",
+        "Serve in scooped-out bread rolls (see above), pita halves or on a bed of rice. You could also share it with the rest of the family in two half-loaves of bread!"
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

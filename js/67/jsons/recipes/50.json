@@ -1,0 +1,105 @@
+{
+  "id": 50,
+  "source_id": 58245,
+  "name": "Chocolate Clusters",
+  "slug": "chocolate-clusters-recipe-3280",
+  "url": "https://www.kosher.com/recipe/chocolate-clusters-recipe-3280/",
+  "description": "Yields 36 chocolate clusters.",
+  "chefs": [
+    "Nitra Ladies Auxiliary"
+  ],
+  "image": "https://images.kosher.com/details.slide/c/h/Chocolate-clusters-H.jpg",
+  "extra_images": [],
+  "published": "2017-10-19T17:57:57",
+  "modified": "2019-12-24T08:25:36",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "36",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Peanuts",
+    "Tree nuts"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "The Heimishe Kitchen (Nitra Cookbook)"
+  ],
+  "tags": [
+    "chocolate",
+    "hanukkah kids",
+    "kid-friendly",
+    "kids",
+    "peanut butter",
+    "rice crispies",
+    "rice krispies"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3 tablespoons",
+          "item": "Gefen Peanut Butter",
+          "text": "3 tablespoons Gefen Peanut Butter"
+        },
+        {
+          "amount": "1/2 pound",
+          "item": "baking chocolate",
+          "text": "1/2 pound baking chocolate"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Gefen Confectioners' Sugar",
+          "text": "1 cup Gefen Confectioners' Sugar"
+        },
+        {
+          "amount": "3 cups",
+          "item": "crisp rice cereal, crushed",
+          "text": "3 cups crisp rice cereal, crushed"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Vanilla Sugar",
+          "text": "1 teaspoon Gefen Vanilla Sugar"
+        },
+        {
+          "amount": "1/2 pound",
+          "item": "chopped nuts or raisins",
+          "text": "1/2 pound chopped nuts or raisins"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Melt",
+      "steps": [
+        "In double boiler, melt peanut butter, chocolate and sugar, stirring until smooth.",
+        "Remove from heat."
+      ]
+    },
+    {
+      "title": "Combine",
+      "steps": [
+        "Add remaining ingredients and stir to coat.",
+        "Drop by teaspoonful onto cookie sheet.",
+        "Cool thoroughly before removing."
+      ]
+    }
+  ],
+  "tips": "Description:\nStyling and Photography by Jennifer E. Bitton",
+  "wine_pairing": [],
+  "video": null
+}

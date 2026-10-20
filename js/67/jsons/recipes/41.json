@@ -1,0 +1,145 @@
+{
+  "id": 41,
+  "source_id": 56973,
+  "name": "Caramel Apple Crisp",
+  "slug": "caramel-apple-crisp-2989",
+  "url": "https://www.kosher.com/recipe/caramel-apple-crisp-2989/",
+  "description": "Apples and caramel are always a dynamic duo. This sure-bet winner is one of my personal favorites. Special thanks to my friend Batsheva K., who gave me this recipe years ago and now graciously allowed me to share it with you.",
+  "chefs": [
+    "Rivky Kleiman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_505_kleinman_Caramel_Apple_Crisp.jpg",
+  "extra_images": [],
+  "published": "2017-06-28T17:38:00",
+  "modified": "2019-10-12T08:01:56",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 20,
+    "total_minutes": 80
+  },
+  "servings": "12",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "apple pie",
+    "apples",
+    "caramel",
+    "caramel filling",
+    "crumble",
+    "crumbs",
+    "fruity desserts",
+    "shabbat",
+    "Shabbos",
+    "Succos",
+    "Succot",
+    "Sukkos",
+    "sukkos desserts",
+    "sukkot"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Apples",
+      "ingredients": [
+        {
+          "amount": "5",
+          "item": "Granny Smith apples, peeled and diced",
+          "text": "5 Granny Smith apples, peeled and diced"
+        }
+      ]
+    },
+    {
+      "title": "Crumble",
+      "ingredients": [
+        {
+          "amount": "2 cups",
+          "item": "flour",
+          "text": "2 cups flour"
+        },
+        {
+          "amount": "1 cup",
+          "item": "brown sugar",
+          "text": "1 cup brown sugar"
+        },
+        {
+          "amount": "1/2 cup (1 stick)",
+          "item": "margarine (use soy-free, if needed), sliced",
+          "text": "1/2 cup (1 stick) margarine (use soy-free, if needed), sliced"
+        },
+        {
+          "amount": "generous 1/2 cup",
+          "item": "quick oats",
+          "text": "generous 1/2 cup quick oats"
+        }
+      ]
+    },
+    {
+      "title": "Caramel Filling",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "sugar",
+          "text": "1 cup sugar"
+        },
+        {
+          "amount": "1 cup",
+          "item": "water",
+          "text": "1 cup water"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "flour",
+          "text": "1/4 cup flour"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Vanilla Extract",
+          "text": "1 teaspoon Gefen Vanilla Extract"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cinnamon",
+          "text": "1 teaspoon cinnamon"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Caramel Apple Crisp",
+      "steps": [
+        "Place all crumble ingredients in a medium-sized bowl and mix together by hand, until you have coarse crumbs. Set aside.",
+        "Place peeled and diced apples in another medium-sized bowl and set aside.",
+        "Preheat oven to 350 degres Fahrenheit (175 degrees Celsius).",
+        "Place all filling ingredients in a small saucepan. Over medium heat, whisk until smooth. Whisk occasionally as mixture slowly reaches a boil and thickens. Remove from heat and allow mixture to cool.",
+        "Pour caramel filling over diced apples. Mix well and transfer to a 9x13-inch (23x33-cm) oven-to-tableware. Top with crumble mixture.",
+        "Bake for one hour."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

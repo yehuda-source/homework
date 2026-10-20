@@ -1,0 +1,114 @@
+{
+  "id": 65,
+  "source_id": 51415,
+  "name": "Last-minute Purim Appetizer",
+  "slug": "last-minute-appetizer-deli-salad-skewers-1505",
+  "url": "https://www.kosher.com/recipe/last-minute-appetizer-deli-salad-skewers-1505/",
+  "description": "This recipe can easily be scaled to serve however many guests are invited to your seuda – or any number of last-minute (or last-second!) invitees.",
+  "chefs": [
+    "Chanie Nayman"
+  ],
+  "image": "https://images.kosher.com/uploads/Nayman-Chanie.-Last-Minute-Purim-Appetizer.jpg",
+  "extra_images": [],
+  "published": "2018-06-10T18:44:47",
+  "modified": "2025-12-23T05:36:57",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 10,
+    "total_minutes": 10
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Appetizers"
+  ],
+  "allergens": [
+    "Egg"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Purim",
+    "Shabbat"
+  ],
+  "sources": [
+    "Kosher.com Exclusive"
+  ],
+  "tags": [
+    "Chanie Nayman",
+    "deli meat",
+    "fresh greens",
+    "fresh vegetables",
+    "kid-friendly",
+    "mayonnaise dressing",
+    "quick-and-easy",
+    "simple",
+    "skewers"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Deli Salad Skewers",
+      "ingredients": [
+        {
+          "amount": null,
+          "item": "cherry tomatoes",
+          "text": "cherry tomatoes"
+        },
+        {
+          "amount": null,
+          "item": "gherkins, sliced into rounds",
+          "text": "gherkins, sliced into rounds"
+        },
+        {
+          "amount": null,
+          "item": "lettuce, torn",
+          "text": "lettuce, torn"
+        },
+        {
+          "amount": null,
+          "item": "deli meat, cubed",
+          "text": "deli meat, cubed"
+        }
+      ]
+    },
+    {
+      "title": "Dressing",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "mayonnaise",
+          "text": "1 cup mayonnaise"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "honey",
+          "text": "2 tablespoons honey"
+        },
+        {
+          "amount": "2 cubes",
+          "item": "frozen garlic",
+          "text": "2 cubes frozen garlic"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Assemble",
+      "steps": [
+        "Skewer lettuce, deli cubes, gherkin rounds, and cherry tomatoes alternately as shown.",
+        "Mix together dressing ingredients in a small bowl. Serve alongside deli salad skewers."
+      ]
+    }
+  ],
+  "tips": "Description:\nPhotography: Hudi Greenberger.",
+  "wine_pairing": [],
+  "video": null
+}

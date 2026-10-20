@@ -1,0 +1,104 @@
+{
+  "id": 19,
+  "source_id": 49283,
+  "name": "Flanken Roast over French String Beans",
+  "slug": "flanken-roast-over-french-string-beans-1025",
+  "url": "https://www.kosher.com/recipe/flanken-roast-over-french-string-beans-1025/",
+  "description": null,
+  "chefs": [
+    "Shulamith Betesh"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/l/Flanken_Roast_Over_French_String_Beans.jpg",
+  "extra_images": [],
+  "published": "2017-01-25T18:16:59",
+  "modified": "2019-07-09T23:02:23",
+  "cook_time": {
+    "hours": 28,
+    "minutes": 30,
+    "total_minutes": 1710
+  },
+  "servings": "12",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Low Carb"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "beef",
+    "flanken",
+    "garlic",
+    "green beans",
+    "greenbeans",
+    "meal in one",
+    "roast",
+    "string beans"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3 pounds",
+          "item": "string beans",
+          "text": "3 pounds string beans"
+        },
+        {
+          "amount": "8 cloves",
+          "item": "garlic, chopped or 8 cubes Gefen Frozen Garlic",
+          "text": "8 cloves garlic, chopped or 8 cubes Gefen Frozen Garlic"
+        },
+        {
+          "amount": "1 packet",
+          "item": "Good Seasons Italian Dressing Mix",
+          "text": "1 packet Good Seasons Italian Dressing Mix"
+        },
+        {
+          "amount": "1 (6 pound)",
+          "item": "flanken roast",
+          "text": "1 (6 pound) flanken roast"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Montreal steak seasoning",
+          "text": "1 tablespoon Montreal steak seasoning"
+        },
+        {
+          "amount": "1 1/2 cups",
+          "item": "garlic sauce (such as Mikee Garlic Stir Fry and Rib Sauce or Dai-Day)",
+          "text": "1 1/2 cups garlic sauce (such as Mikee Garlic Stir Fry and Rib Sauce or Dai-Day)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the roast",
+      "steps": [
+        "Place string beans in large roaster. Top with garlic and Italian Dressing Mix. Place roast on top of string beans. Sprinkle steak seasoning on top. Pour garlic sauce on top. Cover and let marinate 24 hours.",
+        "Preheat oven to 300 degrees Fahrenheit.",
+        "Remove roast from refrigerator and uncover. The garlic sauce will have sunken to the bottom. Pour out sauce into a separate bowl, then pour back over top of roast.",
+        "Place 1/4 cup water in the bottom of the pan. Cover and cook for 4 hours. Check roast every hour once it has been in the oven to 2 hours. Roast is ready if juices run clear when skewer is inserted."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

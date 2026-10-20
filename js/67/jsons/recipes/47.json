@@ -1,0 +1,149 @@
+{
+  "id": 47,
+  "source_id": 59040,
+  "name": "Apple and Honey Rosh Hashanah Muffins",
+  "slug": "apple-and-honey-rosh-hashanah-muffins-recipe-3571",
+  "url": "https://www.kosher.com/recipe/apple-and-honey-rosh-hashanah-muffins-recipe-3571/",
+  "description": "At our house, Rosh Hashanah cannot happen without honey muffins. At least, that’s the way my kids see it. It’s a family project, and by now, a family tradition, too. This recipe was given to me by a relative in Israel who bakes them all the time and claims that no matter how many batches she bakes, there are never enough. She’s absolutely right. We once baked a quadruple batch of these (sans the apples) for a bake sale on our block and we were left without a crumb!",
+  "chefs": [
+    "Renee Muller"
+  ],
+  "image": "https://images.kosher.com/details.slide/b/r/Breads_Cookies_and_Cakes_Rosh_hashana_muffins.jpg",
+  "extra_images": [
+    "https://images.kosher.com/details.slide/o/u/Our_Table_crop.jpg"
+  ],
+  "published": "2017-09-13T18:11:18",
+  "modified": "2021-04-08T00:49:53",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 45,
+    "total_minutes": 45
+  },
+  "servings": "48",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Dairy",
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "ArtScroll"
+  ],
+  "tags": [
+    "apples",
+    "apples and honey",
+    "kid-friendly",
+    "kids",
+    "muffins",
+    "Rosh Hashana",
+    "Rosh Hashanna"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Apple Filling",
+      "ingredients": [
+        {
+          "amount": "2 tablespoons",
+          "item": "butter or margarine",
+          "text": "2 tablespoons butter or margarine"
+        },
+        {
+          "amount": "4",
+          "item": "Granny Smith apples, diced",
+          "text": "4 Granny Smith apples, diced"
+        },
+        {
+          "amount": "4 tablespoons",
+          "item": "sugar",
+          "text": "4 tablespoons sugar"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cinnamon",
+          "text": "1 teaspoon cinnamon"
+        }
+      ]
+    },
+    {
+      "title": "Batter",
+      "ingredients": [
+        {
+          "amount": "2 cups",
+          "item": "prepared tea, lukewarm",
+          "text": "2 cups prepared tea, lukewarm"
+        },
+        {
+          "amount": "2 cups",
+          "item": "sugar",
+          "text": "2 cups sugar"
+        },
+        {
+          "amount": "2 cups",
+          "item": "oil",
+          "text": "2 cups oil"
+        },
+        {
+          "amount": "2 cups",
+          "item": "Gefen Honey",
+          "text": "2 cups Gefen Honey"
+        },
+        {
+          "amount": "12",
+          "item": "eggs",
+          "text": "12 eggs"
+        },
+        {
+          "amount": "6 cups",
+          "item": "flour",
+          "text": "6 cups flour"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Haddar Baking Powder",
+          "text": "2 tablespoons Haddar Baking Powder"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Baking Soda",
+          "text": "1 teaspoon Gefen Baking Soda"
+        },
+        {
+          "amount": "2 heaping tablespoons",
+          "item": "cinnamon",
+          "text": "2 heaping tablespoons cinnamon"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Muffins",
+      "steps": [
+        "In a saucepan, melt butter over a medium-low flame. Add apples, sugar, and cinnamon; cook until apples are fragrant and soften a bit, about 15 minutes. Set aside to cool.",
+        "Preheat oven to 350 degrees Fahrenheit. Line a muffin pan with cupcake liners.",
+        "In the bowl of a stand mixer, on medium speed, combine tea, sugar, oil, honey, and eggs. Mix until smooth. Reduce speed; gradually add flour, baking powder, baking soda, and cinnamon. Scrape down sides of bowl as needed.",
+        "Fill each muffin cup halfway with batter. (I like to use a cupcake pen for this; I find it very helpful.) Top with a teaspoon of prepared apples.",
+        "Bake for 15-20 minutes, or until an inserted toothpick comes out almost dry with some moist crumbs attached."
+      ]
+    }
+  ],
+  "tips": "Tips:\nI recently discovered an amazing gadget called “The Cupcake (or Muffin) Pen.” It really removes the whole messy aspect of filling cupcake pans with batter. Look for it in specialty equipment stores.\nNotes:\nThe apples are optional; I find that some children prefer the muffins plain. We add the apples for Rosh Hashanah (very loudly singing, \"Dip the apple in the hoooonneeeeyyy\" as we do so) but throughout the year, we bake them plain.\nDescription:\nYields about 48 muffins\nDescription:\nReproduced from Our Table by Renee Muller, with permission from the copyright holders ArtScroll/Mesorah Publications, LTD. Click here for more great recipes and tips from Renee's Table.",
+  "wine_pairing": [],
+  "video": null
+}

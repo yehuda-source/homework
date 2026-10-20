@@ -1,0 +1,98 @@
+{
+  "id": 86,
+  "source_id": 79751,
+  "name": "Deli Roses",
+  "slug": "deli-roses-9106",
+  "url": "https://www.kosher.com/recipe/deli-roses-9106/",
+  "description": "Try this pretty twist on classic deli roll.",
+  "chefs": [
+    "The Peppermill"
+  ],
+  "image": "https://images.kosher.com/details.slide/7/3/73-deli_roses-new.jpg",
+  "extra_images": [
+    "https://images.kosher.com/details.slide/7/3/73-deli_roses-1.jpg",
+    "https://images.kosher.com/details.slide/7/3/73-deli_roses-4.jpg"
+  ],
+  "published": "2020-05-21T09:20:00",
+  "modified": "2020-05-21T08:48:29",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "12",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Appetizers",
+    "Sides"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [
+    "Shabbat",
+    "Shavuot"
+  ],
+  "sources": [
+    "The Peppermill"
+  ],
+  "tags": [
+    "deli",
+    "puff pastry",
+    "roses",
+    "Shabbos",
+    "Shavuos",
+    "super easy"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 package",
+          "item": "Gefen Puff Pastry, thawed",
+          "text": "1 package Gefen Puff Pastry, thawed"
+        },
+        {
+          "amount": "1 pound",
+          "item": "pastrami, thinly-sliced",
+          "text": "1 pound pastrami, thinly-sliced"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Haddar Honey Mustard",
+          "text": "1 cup Haddar Honey Mustard"
+        },
+        {
+          "amount": null,
+          "item": "Betty Bossi Rose Roller",
+          "text": "Betty Bossi Rose Roller"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Deli Roses",
+      "steps": [
+        "Preheat oven to 375 degrees Fahrenheit.",
+        "Lightly grease two twelve-cup muffin pans with oil.",
+        "On a lightly-floured work surface, roll out one piece of puff pastry to a 14 inch x20 inch rectangle. Position the dough horizontally, facing you. Using the Betty Bossi Rose Roller, cut the dough into six scalloped strips.",
+        "Brush honey mustard on the dough. Top with sliced pastrami. Brush with some more honey mustard.",
+        "Roll up the pastry and slice in half through the center of the roll so you have two roses.",
+        "Place “rose” in the muffin pan, scalloped side up. Repeat with remaining sheet of puff pastry.",
+        "Bake for 20 minutes or until dough is puffed and golden brown."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

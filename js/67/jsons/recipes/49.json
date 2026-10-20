@@ -1,0 +1,206 @@
+{
+  "id": 49,
+  "source_id": 59331,
+  "name": "London Broil Salad with Savory Vanilla-Infused Dressing",
+  "slug": "london-broil-salad-with-savory-vanilla-infused-dressing-recipe-3665",
+  "url": "https://www.kosher.com/recipe/london-broil-salad-with-savory-vanilla-infused-dressing-recipe-3665/",
+  "description": "This special dressing turns a standard salad into a memorable dish.",
+  "chefs": [
+    "Elky Friedman"
+  ],
+  "image": "https://images.kosher.com/details.slide/l/o/London-Broil-Salad-with-Savory-Vanilla-Infused-Dressing-.jpg",
+  "extra_images": [],
+  "published": "2017-09-28T03:57:14",
+  "modified": "2019-05-19T17:40:12",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 25,
+    "total_minutes": 25
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Salads"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Soy",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [
+    "Sukkot"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "beef",
+    "brisket",
+    "Elky Friedman",
+    "fresh",
+    "healthy",
+    "london broil",
+    "steak",
+    "steak salad",
+    "Succos",
+    "Sukkos"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Meat",
+      "ingredients": [
+        {
+          "amount": "2 pounds",
+          "item": "London broil",
+          "text": "2 pounds London broil"
+        },
+        {
+          "amount": null,
+          "item": "salt",
+          "text": "salt"
+        },
+        {
+          "amount": null,
+          "item": "pepper",
+          "text": "pepper"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "light soy sauce",
+          "text": "2 tablespoons light soy sauce"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "sriracha sauce",
+          "text": "1 tablespoon sriracha sauce"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Garlic Powder",
+          "text": "1 teaspoon Gefen Garlic Powder"
+        }
+      ]
+    },
+    {
+      "title": "Salad",
+      "ingredients": [
+        {
+          "amount": "2 heads",
+          "item": "romaine lettuce or 16 ounces chopped romaine",
+          "text": "2 heads romaine lettuce or 16 ounces chopped romaine"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "sugar snap peas",
+          "text": "1/2 cup sugar snap peas"
+        },
+        {
+          "amount": "1 cup",
+          "item": "button mushrooms, sliced",
+          "text": "1 cup button mushrooms, sliced"
+        },
+        {
+          "amount": "1",
+          "item": "red or yellow pepper, diced finely (or 1/2 of each)",
+          "text": "1 red or yellow pepper, diced finely (or 1/2 of each)"
+        },
+        {
+          "amount": "1",
+          "item": "red onion, thinly sliced",
+          "text": "1 red onion, thinly sliced"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "toasted slivered almonds",
+          "text": "1/2 cup toasted slivered almonds"
+        }
+      ]
+    },
+    {
+      "title": "Dressing",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "Gefen Light Mayonnaise",
+          "text": "1 cup Gefen Light Mayonnaise"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "lemon juice",
+          "text": "2 tablespoons lemon juice"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "water",
+          "text": "2 tablespoons water"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Gefen Pure Vanilla Extract",
+          "text": "1 tablespoon Gefen Pure Vanilla Extract"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "Gefen Honey",
+          "text": "3 tablespoons Gefen Honey"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "celery seed",
+          "text": "1 teaspoon celery seed"
+        },
+        {
+          "amount": "3 cloves",
+          "item": "garlic, crushed or 3 cubes Gefen Frozen Garlic",
+          "text": "3 cloves garlic, crushed or 3 cubes Gefen Frozen Garlic"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "pepper",
+          "text": "1/4 teaspoon pepper"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "parsley flakes",
+          "text": "1 teaspoon parsley flakes"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Broil",
+      "steps": [
+        "Preheat oven to broil.",
+        "Place meat in a baking pan and sprinkle with salt and pepper.",
+        "Combine the soy sauce, sriracha sauce, and garlic powder. Drizzle over the meat.",
+        "Broil for six to eight minutes on each side, turning halfway through."
+      ]
+    },
+    {
+      "title": "Prepare the Salad",
+      "steps": [
+        "Meanwhile, in a bowl, combine the lettuce, sugar snap peas, mushrooms, pepper, red onion, and almonds.",
+        "Prepare the dressing: Combine the mayonnaise, lemon juice, water, vanilla extract, honey, celery seed, garlic, salt, pepper, and parsley flakes.",
+        "Slice London broil into thin, small slices.",
+        "Toss the dressing into the salad bowl, add the sliced meat, and toss again."
+      ]
+    }
+  ],
+  "tips": "Notes:\nAlternatively, you can plate this salad individually. Drizzle each plated salad with the dressing and top with slices of London broil for a great appetizer.",
+  "wine_pairing": [],
+  "video": null
+}

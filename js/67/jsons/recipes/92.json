@@ -1,0 +1,132 @@
+{
+  "id": 92,
+  "source_id": 80039,
+  "name": "Mom’s Sweet N Sour Meatballs",
+  "slug": "moms-sweet-n-sour-meatballs-9219",
+  "url": "https://www.kosher.com/recipe/moms-sweet-n-sour-meatballs-9219/",
+  "description": "Submitted by Musha Tusk\nA family fave! My mom made these delicious meatballs for Yomim Tovim and we all looked forward!",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/m/o/Moms_Sweet_n_Sour_Meatballs.jpg",
+  "extra_images": [],
+  "published": "2020-06-10T10:52:32",
+  "modified": "2020-06-09T23:03:43",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 20,
+    "total_minutes": 140
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "chopped meat",
+    "ground beef",
+    "ground meat",
+    "meatballs",
+    "mince",
+    "minced meat",
+    "Musha Tusk",
+    "mushrooms",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "sweet and sour",
+    "sweet and sour meatballs",
+    "tomato sauce"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Meat",
+      "ingredients": [
+        {
+          "amount": "3 to 3 and 1/2 lbs",
+          "item": "chopped meat",
+          "text": "3 to 3 and 1/2 lbs chopped meat"
+        },
+        {
+          "amount": "1/2 c.",
+          "item": "oats",
+          "text": "1/2 c. oats"
+        },
+        {
+          "amount": "1/2 c.",
+          "item": "water",
+          "text": "1/2 c. water"
+        },
+        {
+          "amount": "1/4 tsp",
+          "item": "onion powder",
+          "text": "1/4 tsp onion powder"
+        }
+      ]
+    },
+    {
+      "title": "For the Sauce",
+      "ingredients": [
+        {
+          "amount": "2",
+          "item": "diced onions",
+          "text": "2 diced onions"
+        },
+        {
+          "amount": "1",
+          "item": "15-oz can mushrooms",
+          "text": "1 15-oz can mushrooms"
+        },
+        {
+          "amount": "1",
+          "item": "15-oz can tomato sauce",
+          "text": "1 15-oz can tomato sauce"
+        },
+        {
+          "amount": "2 c.",
+          "item": "sugar",
+          "text": "2 c. sugar"
+        },
+        {
+          "amount": "1 c.",
+          "item": "lemon juice",
+          "text": "1 c. lemon juice"
+        },
+        {
+          "amount": "1 c.",
+          "item": "water",
+          "text": "1 c. water"
+        },
+        {
+          "amount": null,
+          "item": "a pinch of salt",
+          "text": "a pinch of salt"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Meatballs",
+      "steps": [
+        "Pour water over oats to soften.",
+        "Combine the meat ingredients. Form into balls.",
+        "Combine sauce ingredients in a pot and bring to a boil. Add meatballs and simmer covered for 2 hours."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

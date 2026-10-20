@@ -1,0 +1,106 @@
+{
+  "id": 94,
+  "source_id": 79466,
+  "name": "Salami Roulade",
+  "slug": "salami-roulade-9012",
+  "url": "https://www.kosher.com/recipe/salami-roulade-9012/",
+  "description": "Submitted by Miriam Bromberg\nMove over hassle-back salami, there's a new salami in town! Mouthwatering, succulent salami layered with pesto and duck sauce, wrapped in delicate layers of puffed pastry, baked to perfection. Makes for a beautiful presentation when sliced.",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/a/Salami_Roulade.jpg",
+  "extra_images": [],
+  "published": "2020-06-15T17:01:22",
+  "modified": "2020-06-15T10:05:00",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 5,
+    "total_minutes": 65
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "duck sauce",
+    "Miriam Bromberg",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "pesto",
+    "puff pastry",
+    "puffed pastry",
+    "salami",
+    "shabbat",
+    "Shabbos",
+    "side dishes",
+    "sides"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "One",
+          "item": "whole salami",
+          "text": "One whole salami"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "of pesto",
+          "text": "2 tablespoons of pesto"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "of duck sauce",
+          "text": "1/2 cup of duck sauce"
+        },
+        {
+          "amount": null,
+          "item": "Puff pastry",
+          "text": "Puff pastry"
+        },
+        {
+          "amount": null,
+          "item": "Sesame seeds (optional)",
+          "text": "Sesame seeds (optional)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Roulade",
+      "steps": [
+        "Preheat oven to 425F.",
+        "Take the salami and cut a quarter inch indentation lengthwise and cut salami into a spiral. [*I found it easier to do one side at a time}.",
+        "Mix pesto and duck sauce until combined.",
+        "Roll out puff pastry with a rolling pin and brush with 1/2 of the pesto mixture.",
+        "Place salami on top of the puff pastry and spread remaining pesto mixture on the inside of the salami.",
+        "Roll together like a jelly roll and tuck in edges.",
+        "Brush with egg and sprinkle with sesame seeds.",
+        "Bake for 45 minutes to an hour."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

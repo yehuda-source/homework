@@ -1,0 +1,103 @@
+{
+  "id": 24,
+  "source_id": 50827,
+  "name": "Cookie Brittle",
+  "slug": "cookie-brittle-1384",
+  "url": "https://www.kosher.com/recipe/cookie-brittle-1384/",
+  "description": "This quick and easy recipe came from my friend Karen Zomick Finkelstein. Zomick is the key word here, as she comes from a famous name in kosher bakeries. This recipe is a great way to get a large batch of cookies on the table very quickly.",
+  "chefs": [
+    "Susie Fishbein"
+  ],
+  "image": "https://images.kosher.com/details.slide/c/o/CookieBrittle-002V14c_KBDSOT.jpg",
+  "extra_images": [
+    "https://images.kosher.com/details.slide/k/o/Kosher_by_Design_crop16.JPG"
+  ],
+  "published": "2017-02-27T03:03:08",
+  "modified": "2019-08-08T01:34:41",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "22",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "ArtScroll"
+  ],
+  "tags": [
+    "brittle",
+    "cookies",
+    "Kosher By Design",
+    "quick-and-easy",
+    "Short on Time",
+    "super easy",
+    "susie fishbein"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 cup (2 sticks)",
+          "item": "unsalted butter or margarine, at room temperature",
+          "text": "1 cup (2 sticks) unsalted butter or margarine, at room temperature"
+        },
+        {
+          "amount": "1 cup",
+          "item": "sugar",
+          "text": "1 cup sugar"
+        },
+        {
+          "amount": "1 and 1/2 teaspoons",
+          "item": "Gefen Pure Vanilla Extract",
+          "text": "1 and 1/2 teaspoons Gefen Pure Vanilla Extract"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Tuscanini Fine Sea Salt",
+          "text": "1 teaspoon Tuscanini Fine Sea Salt"
+        },
+        {
+          "amount": "2 cups",
+          "item": "all-purpose flour",
+          "text": "2 cups all-purpose flour"
+        },
+        {
+          "amount": "10 ounces",
+          "item": "Glicks Chocolate Chips or other good-quality chocolate chips",
+          "text": "10 ounces Glicks Chocolate Chips or other good-quality chocolate chips"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Cookie Brittle",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit. Line a 10- by 15-inch jelly roll pan with Gefen Parchment Paper.",
+        "With an electric stand mixer, cream the butter or margarine with the sugar on medium speed until light yellow and smooth. Add the vanilla and salt.",
+        "Slowly add the flour and mix until incorporated. Stir in the chocolate chips.",
+        "Press the dough into a thin, even layer in the prepared pan. I like to cover the dough with a sheet of parchment paper and use a small rolling pin or a heavy can to quickly and evenly spread the dough.",
+        "Bake 20–25 minutes or until golden-brown.",
+        "Cool completely. Break into pieces with your hands to create uneven shards of cookie brittle."
+      ]
+    }
+  ],
+  "tips": "Description:\nYield: 20–25 servings\nDescription:\nReproduced from Kosher by Design Short on Time by Susie Fishbein with permission from the copyright holders ArtScroll/Mesorah Publications, LTD.",
+  "wine_pairing": [],
+  "video": null
+}

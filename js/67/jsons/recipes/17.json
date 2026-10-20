@@ -1,0 +1,130 @@
+{
+  "id": 17,
+  "source_id": 49412,
+  "name": "London Broil",
+  "slug": "london-broil-1054",
+  "url": "https://www.kosher.com/recipe/london-broil-1054/",
+  "description": null,
+  "chefs": [
+    "Leah Schapira",
+    "Victoria Dwek"
+  ],
+  "image": "https://images.kosher.com/details.slide/l/o/London_Broil.jpg",
+  "extra_images": [],
+  "published": "2017-01-23T04:26:34",
+  "modified": "2019-08-28T10:28:46",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 25,
+    "total_minutes": 25
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Gluten",
+    "Soy",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "beef",
+    "brisket",
+    "juicy",
+    "london broil",
+    "marinade",
+    "roast beef",
+    "Shabbos",
+    "steak",
+    "sweet"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 and 1/2-2 pound",
+          "item": "London broil",
+          "text": "1 and 1/2-2 pound London broil"
+        },
+        {
+          "amount": "1/2 small",
+          "item": "onion, diced",
+          "text": "1/2 small onion, diced"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Gefen Honey",
+          "text": "1/2 cup Gefen Honey"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "lemon juice",
+          "text": "1 tablespoon lemon juice"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "chili powder",
+          "text": "1/4 teaspoon chili powder"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "ground mustard",
+          "text": "1/4 teaspoon ground mustard"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "ground ginger or 1 cube Dorot Gardens Frozen Ginger",
+          "text": "1/4 teaspoon ground ginger or 1 cube Dorot Gardens Frozen Ginger"
+        },
+        {
+          "amount": "3 cloves",
+          "item": "garlic, crushed or 3 cubes Gefen Frozen Garlic",
+          "text": "3 cloves garlic, crushed or 3 cubes Gefen Frozen Garlic"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "black pepper",
+          "text": "1/4 teaspoon black pepper"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "soy sauce",
+          "text": "2 tablespoons soy sauce"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "ketchup",
+          "text": "1 tablespoon ketchup"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Meat",
+      "steps": [
+        "Combine onion, honey, lemon juice, spices, soy sauce, and ketchup. Rub into meat and marinate overnight.",
+        "Broil London broil for 20 minutes, rotating after 10 minutes. Leave oven door open a few inches while cooking. Serve hot."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [
+    "Binyamina Reserve Shiraz"
+  ],
+  "video": null
+}

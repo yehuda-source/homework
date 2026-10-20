@@ -1,0 +1,162 @@
+{
+  "id": 79,
+  "source_id": 74327,
+  "name": "Goldie’s Mandelbroit",
+  "slug": "goldies-mandelbroit-7525",
+  "url": "https://www.kosher.com/recipe/goldies-mandelbroit-7525/",
+  "description": "My mom's good friend, Goldie, is old enough to be my grandmother. She's been making this mandelbroit for as long as I could remember and it's fabulous. I've changed the add-ins, but the base remains the same.",
+  "chefs": [
+    "Erin Grunstein"
+  ],
+  "image": "https://images.kosher.com/details.slide/i/m/IMG_7641_-_Erin_Grunstein-Halpern_rotated.jpg",
+  "extra_images": [],
+  "published": "2019-09-04T02:34:01",
+  "modified": "2019-09-04T00:45:17",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 10,
+    "total_minutes": 70
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [],
+  "tags": [
+    "classic Jewish foods",
+    "craisins",
+    "dairy free",
+    "Erin Grunstein",
+    "erin.eats.mtl",
+    "mandel bread",
+    "mandel brodt",
+    "mandelbreit",
+    "mandelbrodt",
+    "mandelbroit",
+    "non-dairy desserts",
+    "pareve",
+    "parve",
+    "Shabbos",
+    "traditional"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Mandelboidt",
+      "ingredients": [
+        {
+          "amount": "3",
+          "item": "eggs",
+          "text": "3 eggs"
+        },
+        {
+          "amount": "1 cup",
+          "item": "oil (grape seed, avocado, vegetable or even melted coconut for a more buttery texture)",
+          "text": "1 cup oil (grape seed, avocado, vegetable or even melted coconut for a more buttery texture)"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "vanilla",
+          "text": "1 teaspoon vanilla"
+        },
+        {
+          "amount": "1 cup",
+          "item": "sugar",
+          "text": "1 cup sugar"
+        },
+        {
+          "amount": "3 cups",
+          "item": "flour",
+          "text": "3 cups flour"
+        },
+        {
+          "amount": "2 and 1/2 teaspoons",
+          "item": "Haddar Baking Powder",
+          "text": "2 and 1/2 teaspoons Haddar Baking Powder"
+        },
+        {
+          "amount": null,
+          "item": "pinch of salt",
+          "text": "pinch of salt"
+        }
+      ]
+    },
+    {
+      "title": "Add-In Option 1 (Choose 1)",
+      "ingredients": [
+        {
+          "amount": "2/3 cup",
+          "item": "candied pecans",
+          "text": "2/3 cup candied pecans"
+        },
+        {
+          "amount": "2/3 cup",
+          "item": "dried cherries",
+          "text": "2/3 cup dried cherries"
+        },
+        {
+          "amount": "2/3 cup",
+          "item": "slivered almonds",
+          "text": "2/3 cup slivered almonds"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cinnamon",
+          "text": "1 teaspoon cinnamon"
+        }
+      ]
+    },
+    {
+      "title": "Add-In Option 2 (Choose 1)",
+      "ingredients": [
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "cereal with mixed-in toppings (I used Special K Nourish Coconut, Cranberry & Almond Cereal)",
+          "text": "1 and 1/2 cups cereal with mixed-in toppings (I used Special K Nourish Coconut, Cranberry & Almond Cereal)"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Gefen Dried Cranberries",
+          "text": "1/2 cup Gefen Dried Cranberries"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Mandelbroit",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit. Line a baking sheet with Gefen Easy Baking Parchment Paper.",
+        "In a large bowl, mix together wet ingredients. Add in dry ingredients. Once dough starts to form, mix in your desired add-in combo.",
+        "Form into logs on the prepared baking sheet. Use a knife to mark where you’ll be slicing the biscotti after it bakes.",
+        "Bake for 30 minutes.",
+        "Remove from oven and let cool. Slice into biscotti and lay each piece on its side.",
+        "Reduce oven temperature to 300 degrees Fahrenheit and bake until biscotti hardens, about 30 minutes."
+      ]
+    }
+  ],
+  "tips": "Variations:\nYou can also add in chocolate chips if you’re a chocolate lover.\nDescription:\nYields approximately 25 cookies",
+  "wine_pairing": [],
+  "video": null
+}

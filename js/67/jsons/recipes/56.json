@@ -1,0 +1,122 @@
+{
+  "id": 56,
+  "source_id": 60463,
+  "name": "Lamb Chops and Sweet Potatoes a l’ Orange",
+  "slug": "lamb-chops-and-sweet-potatoes-ala-orange-recipe-4041",
+  "url": "https://www.kosher.com/recipe/lamb-chops-and-sweet-potatoes-ala-orange-recipe-4041/",
+  "description": "This is the ultimate gourmet dinner. No one will ever guess it took you five minutes to prepare. You can use butternut squash instead of, or in addition to, the sweet potatoes. You can try this recipe using chicken cutlets instead of lamb, although nothing can compare to the melt-in- your-mouth taste of lamb after it has cooked for six hours.",
+  "chefs": [
+    "Draizy Wercberger"
+  ],
+  "image": "https://images.kosher.com/details.slide/l/a/Lamb-Chops-and-Sweet-Potatoes-a-l-Orange.jpg",
+  "extra_images": [],
+  "published": "2017-11-28T12:06:47",
+  "modified": "2017-11-28T05:36:02",
+  "cook_time": {
+    "hours": 6,
+    "minutes": 30,
+    "total_minutes": 390
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "complex carbs",
+    "crockpot",
+    "easy supper",
+    "lamb",
+    "lamb chops",
+    "sweet potatoes"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Sweet Potatoes",
+      "ingredients": [
+        {
+          "amount": "3",
+          "item": "sweet potatoes, peeled and cut into circles",
+          "text": "3 sweet potatoes, peeled and cut into circles"
+        },
+        {
+          "amount": "1 cup",
+          "item": "orange juice",
+          "text": "1 cup orange juice"
+        },
+        {
+          "amount": "6 tablespoons",
+          "item": "Gefen Honey",
+          "text": "6 tablespoons Gefen Honey"
+        },
+        {
+          "amount": "3 teaspoons",
+          "item": "salt",
+          "text": "3 teaspoons salt"
+        }
+      ]
+    },
+    {
+      "title": "Lamb Chops",
+      "ingredients": [
+        {
+          "amount": "2/3 cup",
+          "item": "flour",
+          "text": "2/3 cup flour"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "salt",
+          "text": "1 teaspoon salt"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "cinnamon",
+          "text": "1/2 teaspoon cinnamon"
+        },
+        {
+          "amount": null,
+          "item": "black pepper, to taste",
+          "text": "black pepper, to taste"
+        },
+        {
+          "amount": null,
+          "item": "Gefen Garlic Powder, to taste",
+          "text": "Gefen Garlic Powder, to taste"
+        },
+        {
+          "amount": "8",
+          "item": "shoulder lamb chops",
+          "text": "8 shoulder lamb chops"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Lamb",
+      "steps": [
+        "Place sweet potato slices on the bottom of the slow cooker.",
+        "Combine flour, salt, cinnamon, black pepper, and garlic powder in a plastic bag. Place one lamb chop in the bag with the flour mixture and shake until it is fully coated with flour. Remove from bag and place lamb chop on top of sweet potatoes. Repeat with all lamb chops",
+        "In a small bowl, combine orange juice, honey, and salt. Mix well and pour over lamb chops. Cook on high for six hours."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

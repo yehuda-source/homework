@@ -1,0 +1,174 @@
+{
+  "id": 71,
+  "source_id": 66156,
+  "name": "Chocolate-Honey Mousse Pie",
+  "slug": "chocolate-honey-mousse-pie-5545",
+  "url": "https://www.kosher.com/recipe/chocolate-honey-mousse-pie-5545/",
+  "description": "An impressive, festive, easy to prepare cake – perfect for Rosh Hashana! A chocolate and honey mousse with a quick biscuit crust and a fragrant honey cream that everyone will love. Yields 1 9-inch (24-centimeter) round pan",
+  "chefs": [
+    "Sweet Moments: Rega Matok"
+  ],
+  "image": "https://images.kosher.com/details.slide/c/h/chocolate_and_honey_pie.jpg",
+  "extra_images": [],
+  "published": "2018-08-23T08:27:00",
+  "modified": "2019-09-11T10:34:55",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 0,
+    "total_minutes": 120
+  },
+  "servings": "12",
+  "difficulty": "Medium",
+  "kosher_type": "Dairy",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Dairy",
+    "Gluten",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [],
+  "tags": [
+    "chocolate",
+    "festive",
+    "fragrant",
+    "honey",
+    "impressive",
+    "mousse pie",
+    "rega matok",
+    "Rosh Hashana",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "Rosh Hashannah",
+    "roshhashana",
+    "sweet moments"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Crust",
+      "ingredients": [
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "any biscuits or butter cookies",
+          "text": "7 ounces (200 grams) any biscuits or butter cookies"
+        },
+        {
+          "amount": "3 and 1/2 ounces (100 grams)",
+          "item": "melted butter",
+          "text": "3 and 1/2 ounces (100 grams) melted butter"
+        }
+      ]
+    },
+    {
+      "title": "Chocolate-Honey Mousse",
+      "ingredients": [
+        {
+          "amount": "3 and 1/2 ounces (100 grams)",
+          "item": "Elite 70% Dark Chocolate (or milk chocolate)",
+          "text": "3 and 1/2 ounces (100 grams) Elite 70% Dark Chocolate (or milk chocolate)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Honey",
+          "text": "2 tablespoons Gefen Honey"
+        },
+        {
+          "amount": "8 and 1/2 ounces (250 milliliters)",
+          "item": "whipping cream",
+          "text": "8 and 1/2 ounces (250 milliliters) whipping cream"
+        }
+      ]
+    },
+    {
+      "title": "Honey Cream",
+      "ingredients": [
+        {
+          "amount": "1/2 cup (125 milliliters)",
+          "item": "whipping cream",
+          "text": "1/2 cup (125 milliliters) whipping cream"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Gefen Honey",
+          "text": "1 tablespoon Gefen Honey"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "instant vanilla pudding",
+          "text": "1 tablespoon instant vanilla pudding"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "ground cinnamon",
+          "text": "1/4 teaspoon ground cinnamon"
+        }
+      ]
+    },
+    {
+      "title": "Garnish",
+      "ingredients": [
+        {
+          "amount": null,
+          "item": "squares of Elite 70% Dark Chocolate",
+          "text": "squares of Elite 70% Dark Chocolate"
+        },
+        {
+          "amount": null,
+          "item": "whole nuts",
+          "text": "whole nuts"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Crust",
+      "steps": [
+        "In a food processor with a steel blade, grind the biscuits into a thin powder.",
+        "Add melted butter and mix until smooth.",
+        "Press the crumbs onto the bottom and sides of a nine-inch (24-centimeter) round springform pan to form a crust.",
+        "Cool for 30 minutes in the freezer."
+      ]
+    },
+    {
+      "title": "Prepare the Chocolate-Honey Mousse",
+      "steps": [
+        "Chop the chocolate and put in a bowl. Melt in the microwave or a double boiler until it is melted.",
+        "In a mixer bowl whip honey and whipping cream into a very firm cream.",
+        "Add about two tablespoons of whipped cream into the chocolate and stir well to equalize the temperatures and textures.",
+        "Add the chocolate mixture to the remaining whipped cream and fold gently until a smooth mousse is obtained.",
+        "Pour the mousse into the cold crust and level the top.",
+        "Chill for about an hour in the refrigerator until firm."
+      ]
+    },
+    {
+      "title": "Prepare the Honey Cream",
+      "steps": [
+        "In a mixer bowl, whip together cream, honey, instant pudding and cinnamon until you get a very stable whipped cream.",
+        "Transfer the whipped cream to a piping bag with a serrated tip and pipe mounds around the pie."
+      ]
+    },
+    {
+      "title": "To Serve",
+      "steps": [
+        "Decorate with squares of chocolate and nuts and serve."
+      ]
+    }
+  ],
+  "tips": "Notes:\nKeep the pie in a closed container for up to a week.",
+  "wine_pairing": [],
+  "video": null
+}

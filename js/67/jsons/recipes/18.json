@@ -1,0 +1,137 @@
+{
+  "id": 18,
+  "source_id": 49497,
+  "name": "Mini Short Ribs with Potatoes & Shallots",
+  "slug": "mini-short-ribs-with-potatoes-shallots-1074",
+  "url": "https://www.kosher.com/recipe/mini-short-ribs-with-potatoes-shallots-1074/",
+  "description": null,
+  "chefs": [
+    "Shulamith Betesh"
+  ],
+  "image": "https://images.kosher.com/details.slide/m/i/Mini_Short_Ribs_with_Potatoes___Shallots.jpg",
+  "extra_images": [],
+  "published": "2017-01-25T18:05:13",
+  "modified": "2019-09-01T23:26:38",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 45,
+    "total_minutes": 165
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains",
+    "Sides"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "No Refined Sugar"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "beef",
+    "gluten free",
+    "low and slow",
+    "meal in one",
+    "meat",
+    "meat and potatoes",
+    "mini potatoes",
+    "montreal steak seasoning",
+    "orange juice",
+    "potatoes",
+    "ribs",
+    "Rosh Hashana",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "Rosh Hashannah",
+    "roshhashana",
+    "shallots",
+    "short ribs",
+    "slow cooked",
+    "succulent",
+    "yom tov meats"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3 pounds",
+          "item": "assorted mini potatoes, unpeeled, cut in halves or thirds",
+          "text": "3 pounds assorted mini potatoes, unpeeled, cut in halves or thirds"
+        },
+        {
+          "amount": "3 pounds",
+          "item": "short ribs, cut in half (ask the butcher to do it for you)",
+          "text": "3 pounds short ribs, cut in half (ask the butcher to do it for you)"
+        },
+        {
+          "amount": "1/2",
+          "item": "red onion, diced",
+          "text": "1/2 red onion, diced"
+        },
+        {
+          "amount": "2",
+          "item": "shallots, diced",
+          "text": "2 shallots, diced"
+        },
+        {
+          "amount": "5",
+          "item": "garlic cloves, chopped or 5 cubes Gefen Frozen Garlic",
+          "text": "5 garlic cloves, chopped or 5 cubes Gefen Frozen Garlic"
+        },
+        {
+          "amount": null,
+          "item": "salt to taste",
+          "text": "salt to taste"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Montreal steak seasoning",
+          "text": "1 tablespoon Montreal steak seasoning"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Paprika",
+          "text": "1 teaspoon Gefen Paprika"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "orange juice",
+          "text": "1/4 cup orange juice"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "oil",
+          "text": "1/4 cup oil"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the ribs",
+      "steps": [
+        "Preheat oven to 300ºF.",
+        "In a large roaster, add potatoes. Top with short ribs. Sprinkle onion, shallots, and garlic on top of potatoes and ribs. Add salt, steak seasoning, and paprika. Add orange juice and oil, tossing so the meat and all potatoes are well-coated.",
+        "To prevent sticking, right before baking, add some water to just cover the bottom of the pan.",
+        "Cover and cook for 2 ½ hours.",
+        "For any meat that cooks for a long time, always check after 2 hours. If needed, cook an additional hour. Every oven is different."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

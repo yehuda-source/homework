@@ -1,0 +1,180 @@
+{
+  "id": 39,
+  "source_id": 54955,
+  "name": "Cheese or Potato Blintzes",
+  "slug": "cheese-or-potato-blintzes-2393",
+  "url": "https://www.kosher.com/recipe/cheese-or-potato-blintzes-2393/",
+  "description": "Author unknown; in my files for years and years. Yields 8–10 blintzes.",
+  "chefs": [
+    "Eileen Goltz"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/h/shutterstock_588271673.jpg",
+  "extra_images": [],
+  "published": "2017-05-24T17:09:50",
+  "modified": "2018-10-07T12:42:15",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "10",
+  "difficulty": "Medium",
+  "kosher_type": "Dairy",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Dairy",
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shavuot"
+  ],
+  "sources": [
+    "OU Kosher"
+  ],
+  "tags": [
+    "blinchiki",
+    "blintzes",
+    "crepes",
+    "dairy or pareve",
+    "farmers' cheese",
+    "mashed potatoes",
+    "potatoes",
+    "savory",
+    "Shavuos",
+    "sweet"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Blintz Leaves",
+      "ingredients": [
+        {
+          "amount": "2",
+          "item": "eggs, well beaten",
+          "text": "2 eggs, well beaten"
+        },
+        {
+          "amount": "1 cup",
+          "item": "flour",
+          "text": "1 cup flour"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        },
+        {
+          "amount": "1 cup",
+          "item": "milk or non-dairy substitute",
+          "text": "1 cup milk or non-dairy substitute"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "sugar (omit for potato blintzes)",
+          "text": "1 tablespoon sugar (omit for potato blintzes)"
+        }
+      ]
+    },
+    {
+      "title": "Cheese Filling",
+      "ingredients": [
+        {
+          "amount": "3/4 pound",
+          "item": "pot cheese or farmer cheese",
+          "text": "3/4 pound pot cheese or farmer cheese"
+        },
+        {
+          "amount": "1 large",
+          "item": "egg, lightly beaten",
+          "text": "1 large egg, lightly beaten"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "sugar",
+          "text": "2 teaspoons sugar"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "cinnamon (optional)",
+          "text": "1/2 teaspoon cinnamon (optional)"
+        }
+      ]
+    },
+    {
+      "title": "Potato Filling",
+      "ingredients": [
+        {
+          "amount": "4",
+          "item": "potatoes",
+          "text": "4 potatoes"
+        },
+        {
+          "amount": "2",
+          "item": "onions",
+          "text": "2 onions"
+        },
+        {
+          "amount": "1 large",
+          "item": "egg, lightly beaten",
+          "text": "1 large egg, lightly beaten"
+        },
+        {
+          "amount": null,
+          "item": "salt to taste",
+          "text": "salt to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper to taste",
+          "text": "pepper to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Blintzes",
+      "steps": [
+        "Combine eggs with salt, sugar, and milk, stirring well to blend; gradually add flour, stirring until smooth.",
+        "Heat a six- to seven-inch skillet over moderately high heat, greased lightly. Pour in sufficient batter to thinly coat the bottom of the pan (one to two tablespoons), quickly rotate the pan to distribute batter evenly, and pour excess batter back into bowl.",
+        "Cook until the batter sets and the edge of the pancake starts to leave the sides of the pan. Turn out onto a clean cloth and repeat until all batter is used, greasing pan when needed. Regulate the heat and frying time so that each pancake will cook to a uniform pale gold color."
+      ]
+    },
+    {
+      "title": "Cheese Filling",
+      "steps": [
+        "In the work bowl of a food processor combine all ingredients and process until smooth."
+      ]
+    },
+    {
+      "title": "Potato Filling",
+      "steps": [
+        "Peel and cook potatoes.",
+        "Chop and saute onion.",
+        "In the work bowl of a food processor, combine all ingredients until smooth; adjust seasonings."
+      ]
+    },
+    {
+      "title": "Assemble the Blintzes",
+      "steps": [
+        "Place a tablespoon of filling in the center of the cooked side of the pancake and fold over to make a square pocket or place filling at one end of the blintz leaf and roll up encasing the filling.",
+        "Fry the blintzes on all sides until golden.",
+        "Serve with sour cream and or fruit sauces."
+      ]
+    }
+  ],
+  "tips": "Tips:\nReplace one third of the flour with potato starch for a very smooth batter\nNotes:\nThis recipe can be doubled or tripled.",
+  "wine_pairing": [],
+  "video": null
+}

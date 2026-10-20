@@ -1,0 +1,104 @@
+{
+  "id": 36,
+  "source_id": 54260,
+  "name": "Popcorn Cauliflower",
+  "slug": "popcorn-cauliflower-2221",
+  "url": "https://www.kosher.com/recipe/popcorn-cauliflower-2221/",
+  "description": null,
+  "chefs": [
+    "Family Table"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_152_Beck_Popcorn_Cauliflower.photo_Adelman.jpg",
+  "extra_images": [],
+  "published": "2017-05-15T14:12:41",
+  "modified": "2020-10-25T06:26:18",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 50,
+    "total_minutes": 50
+  },
+  "servings": "4",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Keto",
+    "No Refined Sugar",
+    "Paleo",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover",
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "cauliflower",
+    "color",
+    "cruciferous vegetables",
+    "gluten free side dish",
+    "roasted vegetables"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "For Cauliflower",
+      "ingredients": [
+        {
+          "amount": "1 large",
+          "item": "cauliflower cut into florets (or 1 bag of Beleaf Frozen Cauliflower Florets)",
+          "text": "1 large cauliflower cut into florets (or 1 bag of Beleaf Frozen Cauliflower Florets)"
+        },
+        {
+          "amount": "1/8 teaspoon",
+          "item": "turmeric",
+          "text": "1/8 teaspoon turmeric"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "fresh garlic",
+          "text": "1/2 teaspoon fresh garlic"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper, to taste",
+          "text": "pepper, to taste"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Bartenura Olive Oil",
+          "text": "1 cup Bartenura Olive Oil"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare Cauliflower",
+      "steps": [
+        "Pour oil into a large mixing bowl and add turmeric, fresh garlic, salt and pepper. Mix until equally distributed.",
+        "Stir cauliflower florets into oil until evenly coated.",
+        "Place cauliflower pieces on cookie sheet and bake in oven at 500°F (250°C) about 30 minutes, until cauliflower is slightly wilted."
+      ]
+    }
+  ],
+  "tips": "Notes:\nServe in Bowl",
+  "wine_pairing": [],
+  "video": null
+}

@@ -1,0 +1,111 @@
+{
+  "id": 58,
+  "source_id": 62782,
+  "name": "Orange Beets with Almonds",
+  "slug": "orange-beets-with-almonds-4659",
+  "url": "https://www.kosher.com/recipe/orange-beets-with-almonds-4659/",
+  "description": "This flavorful beet salad is adapted from The Healthy Jewish Cookbook by Michael van Straten.",
+  "chefs": [
+    "Judy Bart Kancigor"
+  ],
+  "image": "https://images.kosher.com/details.slide/o/r/orange_beet_salad_shutterstock_502473136.jpg",
+  "extra_images": [],
+  "published": "2018-02-03T21:20:30",
+  "modified": "2020-10-25T04:34:10",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 45,
+    "total_minutes": 105
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Tree nuts"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Low Fat",
+    "Paleo",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "OU Kosher"
+  ],
+  "tags": [
+    "beets",
+    "healthy",
+    "Pesach",
+    "roasted vegetables",
+    "roasted veggies",
+    "root vegetables",
+    "traditional"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "6 medium",
+          "item": "beets (about 2 inches), with tops cut to within 1 inch",
+          "text": "6 medium beets (about 2 inches), with tops cut to within 1 inch"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "freshly-squeezed orange juice",
+          "text": "1 and 1/2 cups freshly-squeezed orange juice"
+        },
+        {
+          "amount": null,
+          "item": "zest of 1 orange, finely peeled into thin strips",
+          "text": "zest of 1 orange, finely peeled into thin strips"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Olive Oil",
+          "text": "2 tablespoons Gefen Olive Oil"
+        },
+        {
+          "amount": null,
+          "item": "salt and pepper, to taste",
+          "text": "salt and pepper, to taste"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "sliced almonds",
+          "text": "1/2 cup sliced almonds"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Beets",
+      "steps": [
+        "Preheat oven to 400°F",
+        "Scrub beets well and wrap them individually in foil. Place them on a baking sheet and roast until they can be easily pierced with a skewer, about one hour. Remove from oven and allow to cool.",
+        "When cool enough to handle, remove beets from foil, cut off tops and slip off skin (those gloves that food handlers wear are great for this purpose). Cut beets into one and a half-inch cubes.",
+        "Combine orange juice and orange zest in a large skillet and boil over medium-high heat until reduced to half a cup.",
+        "Whisk in the oil and add the beets. Continue cooking, stirring frequently, until liquid is reduced to a thick glaze. Add salt and pepper to taste.",
+        "Meanwhile, heat a medium skillet over medium heat and toast almonds until just golden, one to two minutes.",
+        "Serve beets in their juice with almonds scattered on top."
+      ]
+    }
+  ],
+  "tips": "Tips:\nBe sure not to include any pith (white part) with the orange zest or the dish will be bitter. An easier method (although not as dramatic in presentation) is to finely grate the zest with a Microplane or rasp.\nNotes:\nBegin testing the beets with a skewer after 45 minutes of roasting, and remove the smaller ones from the oven as they are done. Large beets can take up to one and a half hours.",
+  "wine_pairing": [],
+  "video": null
+}

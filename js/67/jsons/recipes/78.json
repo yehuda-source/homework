@@ -1,0 +1,118 @@
+{
+  "id": 78,
+  "source_id": 68264,
+  "name": "All-Purpose Dough",
+  "slug": "all-purpose-dough-6051",
+  "url": "https://www.kosher.com/recipe/all-purpose-dough-6051/",
+  "description": "This dough is great for cheese danishes, rugelach, apple or cheese pies, etc.",
+  "chefs": [
+    "Nitra Ladies Auxiliary"
+  ],
+  "image": "https://images.kosher.com/details.slide/a/l/all-purpose-dough-H.jpg",
+  "extra_images": [],
+  "published": "2019-03-11T05:21:03",
+  "modified": "2019-03-10T23:45:19",
+  "cook_time": {
+    "hours": 3,
+    "minutes": 0,
+    "total_minutes": 180
+  },
+  "servings": "60",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Breads"
+  ],
+  "allergens": [
+    "Dairy",
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "The Heimishe Kitchen (Nitra Cookbook)"
+  ],
+  "tags": [
+    "all purpose dough",
+    "dough",
+    "yeast dough"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "16 cups",
+          "item": "flour, divided",
+          "text": "16 cups flour, divided"
+        },
+        {
+          "amount": "2 pounds",
+          "item": "margarine",
+          "text": "2 pounds margarine"
+        },
+        {
+          "amount": "4 ounces",
+          "item": "yeast",
+          "text": "4 ounces yeast"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "warm water",
+          "text": "1/2 cup warm water"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "sugar",
+          "text": "1 and 1/2 cups sugar"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "salt",
+          "text": "2 teaspoons salt"
+        },
+        {
+          "amount": "2",
+          "item": "whole eggs plus 2 egg yolks",
+          "text": "2 whole eggs plus 2 egg yolks"
+        },
+        {
+          "amount": "3 cups",
+          "item": "club soda",
+          "text": "3 cups club soda"
+        },
+        {
+          "amount": "1 pound",
+          "item": "sour cream (optional)",
+          "text": "1 pound sour cream (optional)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Dough",
+      "steps": [
+        "Cut margarine into eight cups flour until crumbly. Set aside.",
+        "Make a \"well\" in remaining eight cups flour. Dissolve yeast in warm water and pour into \"well.\"",
+        "Add in remaining ingredients and mix well. Knead in sour cream if desired. Knead in flour-margarine mixture.",
+        "Refrigerate for several hours or overnight.",
+        "Divide into eight parts.",
+        "Keep parts of dough which are not being worked with in the refrigerator."
+      ]
+    }
+  ],
+  "tips": "Notes:\nBefore using the dough, remember to take challah. Read more about hafrashat challah here.\nDescription:\nPhotography and Styling by Tamara Friedman",
+  "wine_pairing": [],
+  "video": null
+}

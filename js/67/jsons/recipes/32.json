@@ -1,0 +1,95 @@
+{
+  "id": 32,
+  "source_id": 59844,
+  "name": "Munchy Crunchy Acorn Squash Chips",
+  "slug": "munchy-crunchy-chips-recipe-3872",
+  "url": "https://www.kosher.com/recipe/munchy-crunchy-chips-recipe-3872/",
+  "description": null,
+  "chefs": [
+    "Rachel Weiss"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_235_Ginsberg_Pesach_tri_colour_chips.jpg",
+  "extra_images": [],
+  "published": "2017-04-01T10:41:37",
+  "modified": "2018-10-31T02:05:38",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "4",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Paleo",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "acorn squash",
+    "chips",
+    "complex carbs",
+    "healthy snacks",
+    "homemade chips",
+    "Pesach",
+    "pesach snacks",
+    "veggie chips"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Ingredients",
+      "ingredients": [
+        {
+          "amount": "1 medium",
+          "item": "acorn squash (about 2 pounds / 1 kilogram), very firm",
+          "text": "1 medium acorn squash (about 2 pounds / 1 kilogram), very firm"
+        },
+        {
+          "amount": null,
+          "item": "oil, for frying",
+          "text": "oil, for frying"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Peel the Squash",
+      "steps": [
+        "Peel acorn squash with a very sharp potato peeler and cut away the peel from between the ridges with a small paring knife. Cut squash in half and discard pulp and seeds.",
+        "Peel squash into thin strips using the peeler. Pat strips dry with paper towel."
+      ]
+    },
+    {
+      "title": "Fry the Chips",
+      "steps": [
+        "In a deep, heavy-bottomed skillet or large frying pan, pour in oil to a depth of 1 inch. Heat to medium-high temperature, 350 degrees Fahrenheit (180 degrees Celsius) on a deep-fry thermometer. (If you don’t have a thermometer, heat oil until it shimmers.)",
+        "Carefully place squash strips flat into the oil without overlapping. Working quickly, fry chips on medium heat for 1 to 2 minutes, or until chips begin to brown lightly.",
+        "Remove chips immediately from skillet using a strainer spatula or deep-fry skimmer. Drain on a large plate lined with paper towels.",
+        "Sprinkle lightly with salt and enjoy!"
+      ]
+    }
+  ],
+  "tips": "Notes:\nThe firmer the squash, the crisp­ier the chips. Chips made from firm acorn squash are the closest thing in taste and texture to po­tato chips.\nTips:\nThese chips will stay crispy for a few days in the refrigerator, loosely covered. To reheat, spread in a single layer on a foil-lined baking sheet. Reheat uncovered at 375˚F (190°C) for 8 to 10 minutes.",
+  "wine_pairing": [],
+  "video": null
+}

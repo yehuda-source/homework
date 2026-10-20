@@ -1,0 +1,157 @@
+{
+  "id": 2,
+  "source_id": 65222,
+  "name": "Orange Squash Kugel",
+  "slug": "orange-squash-kugel-5318",
+  "url": "https://www.kosher.com/recipe/orange-squash-kugel-5318/",
+  "description": "This recipe is so versatile that if you are pressed for time, it can be made with frozen sweet potatoes and butternut squash and tastes equally delicious.",
+  "chefs": [
+    "Estee Kafra"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/h/shutterstock_388796515.jpg",
+  "extra_images": [],
+  "published": "2012-01-16T15:23:17",
+  "modified": "2022-11-14T11:39:14",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 30,
+    "total_minutes": 90
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Soy",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "butternut squash kugel",
+    "Estee Kafra",
+    "fall flavors",
+    "kugels",
+    "orange",
+    "squash",
+    "starchy sides",
+    "sweet",
+    "sweet potato",
+    "Thanksgiving"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Filling",
+      "ingredients": [
+        {
+          "amount": "1 large",
+          "item": "butternut squash (see note)",
+          "text": "1 large butternut squash (see note)"
+        },
+        {
+          "amount": "7 large",
+          "item": "sweet potatoes (see note)",
+          "text": "7 large sweet potatoes (see note)"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "soy milk",
+          "text": "1/2 cup soy milk"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "oil",
+          "text": "2 tablespoons oil"
+        },
+        {
+          "amount": "2",
+          "item": "eggs",
+          "text": "2 eggs"
+        },
+        {
+          "amount": "6 tablespoons",
+          "item": "sugar",
+          "text": "6 tablespoons sugar"
+        },
+        {
+          "amount": null,
+          "item": "pinch of salt",
+          "text": "pinch of salt"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "pumpkin pie spice",
+          "text": "1 teaspoon pumpkin pie spice"
+        }
+      ]
+    },
+    {
+      "title": "Topping",
+      "ingredients": [
+        {
+          "amount": "1/4 cup",
+          "item": "white sugar",
+          "text": "1/4 cup white sugar"
+        },
+        {
+          "amount": "1/3 cup",
+          "item": "lightly packed brown sugar",
+          "text": "1/3 cup lightly packed brown sugar"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "flour",
+          "text": "1/2 cup flour"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "margarine (1/2 stick)",
+          "text": "1/4 cup margarine (1/2 stick)"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "ground filberts or walnuts",
+          "text": "1/4 cup ground filberts or walnuts"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "chopped toasted pecans",
+          "text": "1/2 cup chopped toasted pecans"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Kugel",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit. Spray a 10-inch round oven-to-table baking dish with nonstick spray.",
+        "Peel squash and cut in cubes, discarding seeds. Peel sweet potatoes and cut in cubes. Cook in boiling salted water until soft, about 15 to 20 minutes. Drain thoroughly.",
+        "Place all ingredients for filling of kugel into a large bowl and mix vigorously until completely smooth, or use an immersion blender. Pour filling into baking dish.",
+        "Place all topping ingredients except toasted pecans in a large bowl and crumble with the tips of your fingers until fine crumbs form. Spread crumbs out on a baking sheet lined with parchment paper and bake for 10 minutes.",
+        "Remove toasted crumbs from oven, let cool for a few minutes, then sprinkle on top of prepared kugel filling.",
+        "Sprinkle toasted pecans evenly over the top of the kugel and bake for 35 minutes, on a lower rack in the oven (so the top doesn't burn). Serve warm."
+      ]
+    }
+  ],
+  "tips": "Notes:\nSubstitute 2 bags (14 ounces each) frozen butternut squash cubes and 1 (14-ounce) bag frozen sweet potato cubes. Defrost and pat dry with paper towels. Continue as directed in Step 3.",
+  "wine_pairing": [],
+  "video": null
+}

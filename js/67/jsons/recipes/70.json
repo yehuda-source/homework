@@ -1,0 +1,130 @@
+{
+  "id": 70,
+  "source_id": 66505,
+  "name": "Texas Caviar",
+  "slug": "texas-caviar-5628",
+  "url": "https://www.kosher.com/recipe/texas-caviar-5628/",
+  "description": "My favorite way to serve rubia as a siman heralds back to my Southern roots in this version of Texas caviar. There are many recipes for the Texas favorite, which got its name when the humble black-eyed pea made its way onto Houston’s Neiman Marcus menu in a salsa-style marinated salad. This winning variation gets its flavor boost from pineapple.\nThe recipe also calls for sweet onion. Sweet onion varieties such as Vidalia and Walla Walla onions are bred to be less pungent than the common yellow onion. A Spanish red onion will work just as well if can’t obtain the sweet yellow variety.\nCheck out our complete collection of Rosh Hashanah recipes for mains, sides, soups, desserts, and more inspiration for the holiday.",
+  "chefs": [
+    "Renee Chernin"
+  ],
+  "image": "https://images.kosher.com/details.slide/t/e/Texas_Caviar_9x10.jpg",
+  "extra_images": [],
+  "published": "2018-08-21T06:53:01",
+  "modified": "2020-08-12T20:40:02",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 35,
+    "total_minutes": 35
+  },
+  "servings": "12",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Appetizers"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [],
+  "tags": [
+    "appetizer",
+    "beans",
+    "black eyed peas",
+    "Cooking for the King",
+    "gluten free",
+    "kosher southern food",
+    "mashup",
+    "quick",
+    "Rosh Hashana",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "simanim",
+    "Southern food"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 (14 and 1/2 ounce) can",
+          "item": "black beans or black-eyed peas, drained",
+          "text": "1 (14 and 1/2 ounce) can black beans or black-eyed peas, drained"
+        },
+        {
+          "amount": "1 cup",
+          "item": "pineapple, diced",
+          "text": "1 cup pineapple, diced"
+        },
+        {
+          "amount": "1",
+          "item": "sweet onion, diced",
+          "text": "1 sweet onion, diced"
+        },
+        {
+          "amount": "2 stalks",
+          "item": "celery, diced",
+          "text": "2 stalks celery, diced"
+        },
+        {
+          "amount": "4",
+          "item": "red bell peppers, halved and seeded, or 1 (12-ounce) jar fire-roasted bell peppers, chopped",
+          "text": "4 red bell peppers, halved and seeded, or 1 (12-ounce) jar fire-roasted bell peppers, chopped"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "vegetable oil",
+          "text": "1/4 cup vegetable oil"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Haddar Dijon Mustard",
+          "text": "1/4 cup Haddar Dijon Mustard"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Honey",
+          "text": "2 tablespoons Gefen Honey"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "black pepper",
+          "text": "1/4 teaspoon black pepper"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Caviar",
+      "steps": [
+        "In a mixing bowl, combine the beans, pineapple, onion, and celery.",
+        "If you are using fresh bell peppers: Preheat the broiler and place the oven rack in the top position. Line a large baking pan with foil. Place the peppers cut side down on the foil and broil until the skins are black, eight to 12 minutes.",
+        "Remove the roasted peppers from the oven. Wrap the peppers with the foil that lined the pan and set aside for 10 minutes. This will steam the peppers and allow the skin to slip off easily. Peel the skin from the peppers. Any skin that does not slip off may remain. Chop the peppers.",
+        "Add the roasted peppers to the bean mixture.",
+        "In a small bowl, whisk the oil, mustard, honey, salt, and pepper. Toss the dressing with the vegetables. Chill overnight."
+      ]
+    }
+  ],
+  "tips": "Description:\nBy Renee Rousso Chernin. Reproduced from Cooking for the King, Rosh Hashanah edition.",
+  "wine_pairing": [],
+  "video": null
+}

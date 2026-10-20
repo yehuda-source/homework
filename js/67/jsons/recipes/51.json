@@ -1,0 +1,88 @@
+{
+  "id": 51,
+  "source_id": 59754,
+  "name": "Yogurt and Pineapple Smoothie",
+  "slug": "yogurt-and-pineapple-smoothie-recipe-3842",
+  "url": "https://www.kosher.com/recipe/yogurt-and-pineapple-smoothie-recipe-3842/",
+  "description": null,
+  "chefs": [
+    "Draizy Wercberger"
+  ],
+  "image": "https://images.kosher.com/details.slide/y/o/Yogurt-and-Pineapple-Smoothie.jpg",
+  "extra_images": [],
+  "published": "2017-10-25T11:33:47",
+  "modified": "2018-11-14T11:08:06",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 2,
+    "total_minutes": 2
+  },
+  "servings": "4",
+  "difficulty": "Easy",
+  "kosher_type": "Dairy",
+  "main_dish": null,
+  "categories": [
+    "Breakfast",
+    "Drinks"
+  ],
+  "allergens": [
+    "Dairy"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Low Fat",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "dairy",
+    "pineapple",
+    "power food",
+    "smoothies"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 (20-ounce) can",
+          "item": "Gefen Crushed Pineapple",
+          "text": "1 (20-ounce) can Gefen Crushed Pineapple"
+        },
+        {
+          "amount": "1 (1.4-ounce) box",
+          "item": "diet vanilla pudding",
+          "text": "1 (1.4-ounce) box diet vanilla pudding"
+        },
+        {
+          "amount": "1 (16-ounce) container",
+          "item": "plain fat-free yogurt",
+          "text": "1 (16-ounce) container plain fat-free yogurt"
+        },
+        {
+          "amount": "1 cup",
+          "item": "ice cubes",
+          "text": "1 cup ice cubes"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Smoothie",
+      "steps": [
+        "In a blender combine pineapple, vanilla pudding, yogurt, and ice cubes. Blend well."
+      ]
+    }
+  ],
+  "tips": "Notes:\nWhen I’m not in the mood to take out my blender, I just combine the yogurt and pudding in a bowl, mix it well and refrigerate it until the yogurt has solidified. Then I add the crushed pineapple and I have a delicious smoothie, without having a blender jar to clean.\nDescription:\nYou probably have tons of smoothie recipes up your sleeve, but this one is something special. The diet pudding adds amazing texture and taste to this refreshing smoothie.",
+  "wine_pairing": [],
+  "video": null
+}

@@ -1,0 +1,114 @@
+{
+  "id": 83,
+  "source_id": 77705,
+  "name": "Zucchini and Tomato Tart",
+  "slug": "zucchini-and-tomato-tart-8303",
+  "url": "https://www.kosher.com/recipe/zucchini-and-tomato-tart-8303/",
+  "description": "Although the zucchini and tomatoes are the star here, the potato gives the dish that heartiness that I feel it needs. I recommend using a mandoline for the zucchini and potato.\nFor more great ideas, watch 4 Amazing Things!",
+  "chefs": [
+    "Victoria Dwek"
+  ],
+  "image": "https://images.kosher.com/details.slide/z/u/zucchini_Tomato_tart.jpeg",
+  "extra_images": [],
+  "published": "2020-03-12T06:45:59",
+  "modified": "2022-10-19T08:37:10",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Italian"
+  ],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Kosher.com Exclusive"
+  ],
+  "tags": [
+    "kosher for passover",
+    "kosher for pesach",
+    "passover",
+    "Pesach",
+    "tomatoes",
+    "zucchinis"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 (24.6-ounce) bottle",
+          "item": "Tuscanini Crushed Tomatoes",
+          "text": "1 (24.6-ounce) bottle Tuscanini Crushed Tomatoes"
+        },
+        {
+          "amount": "1",
+          "item": "zucchini",
+          "text": "1 zucchini"
+        },
+        {
+          "amount": "1",
+          "item": "red potato",
+          "text": "1 red potato"
+        },
+        {
+          "amount": "3",
+          "item": "plum tomatoes",
+          "text": "3 plum tomatoes"
+        },
+        {
+          "amount": null,
+          "item": "salt",
+          "text": "salt"
+        },
+        {
+          "amount": null,
+          "item": "garlic powder",
+          "text": "garlic powder"
+        },
+        {
+          "amount": null,
+          "item": "dried basil",
+          "text": "dried basil"
+        },
+        {
+          "amount": null,
+          "item": "fresh basil leaves, optional",
+          "text": "fresh basil leaves, optional"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Zucchini and Tomato Tart",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit.",
+        "Pour crushed tomatoes into the bottom of an oven-to-table dish (nine- by 13-inch or similar). Season by sprinkling with salt, pepper, garlic powder, and basil.",
+        "Slice all the vegetables into thin circles. I like to slice the zucchini and red potato on a mandoline. The tomatoes need to be sliced by hand with a knife. If you don’t have a mandoline, slice everything thinly using a knife.",
+        "Place the circles in your baking dish, overlapping each other, in a pattern. I did three zucchini, one tomato, one potato, etc. Continue until the baking dish is full.",
+        "Spray with nonstick cooking spray and sprinkle with additional salt, garlic powder, and basil. Tuck in some fresh basil leaves, if using. Bake for 45-50 minutes."
+      ]
+    }
+  ],
+  "tips": "Notes:\nThis can be prepared a day in advance and popped in the oven to cook or rewarm, no prob.\nDescription:\nSponsored by Tuscanini",
+  "wine_pairing": [],
+  "video": "https://www.kosher.com/video/4-amazing-ways-to-use-crushed-tomatoes-685/"
+}

@@ -1,0 +1,112 @@
+{
+  "id": 4,
+  "source_id": 63757,
+  "name": "Angel Food Cake",
+  "slug": "angel-food-cake-4929",
+  "url": "https://www.kosher.com/recipe/angel-food-cake-4929/",
+  "description": null,
+  "chefs": [
+    "Perri"
+  ],
+  "image": "https://images.kosher.com/details.slide/a/n/angel_food_cake_shutterstock_406318738.jpg",
+  "extra_images": [],
+  "published": "2013-01-29T11:51:20",
+  "modified": "2021-04-08T11:04:09",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 10,
+    "total_minutes": 70
+  },
+  "servings": "12",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shavuot"
+  ],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "American food",
+    "cakes",
+    "classic",
+    "dairy free",
+    "non-dairy",
+    "Shavuos",
+    "vanilla"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "sugar, divided",
+          "text": "1 and 1/2 cups sugar, divided"
+        },
+        {
+          "amount": "1 (2-inch) piece",
+          "item": "vanilla bean, split lengthwise (or 1/4 teaspoon ground vanilla)",
+          "text": "1 (2-inch) piece vanilla bean, split lengthwise (or 1/4 teaspoon ground vanilla)"
+        },
+        {
+          "amount": "1 cup",
+          "item": "sifted cake flour (about 4 ounces)",
+          "text": "1 cup sifted cake flour (about 4 ounces)"
+        },
+        {
+          "amount": "12",
+          "item": "large egg whites",
+          "text": "12 large egg whites"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "cream of tartar",
+          "text": "1/2 teaspoon cream of tartar"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "salt",
+          "text": "1/4 teaspoon salt"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "lemon juice",
+          "text": "1 teaspoon lemon juice"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Cake",
+      "steps": [
+        "Place 3/4 cup sugar in a small bowl. Scrape seeds from vanilla bean, and add seeds to sugar; discard bean. Work the vanilla seeds into sugar with fingers until well combined.",
+        "Lightly spoon flour into a dry measuring cup; level with a knife. Combine flour and sugar mixture, stirring with a whisk to combine.",
+        "Beat egg whites with a mixer at high speed until foamy. Add cream of tartar and salt; beat until soft peaks form. Add remaining 3/4 cup sugar, two tablespoons at a time, beating until stiff peaks form. Beat in juice. Sift flour mixture over egg white mixture, 1/4 cup at a time; fold in after each addition.",
+        "Spoon the batter into an ungreased 10-inch tube pan, spreading evenly. Break air pockets by cutting through batter with a knife.",
+        "Bake at 325 degrees Fahrenheit for 50 minutes or until cake springs back when lightly touched. Invert pan; cool completely. Loosen cake from sides of pan using a narrow metal spatula. Invert cake onto plate."
+      ]
+    }
+  ],
+  "tips": "Description:\nThis recipe was part of a series done using Bakto Flavors Products.",
+  "wine_pairing": [],
+  "video": null
+}

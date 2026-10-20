@@ -1,0 +1,134 @@
+{
+  "id": 1,
+  "source_id": 59396,
+  "name": "Naturally Good Brownies",
+  "slug": "naturally-good-brownies-recipe-3685",
+  "url": "https://www.kosher.com/recipe/naturally-good-brownies-recipe-3685/",
+  "description": "These brownies are a great example of a healthy dessert.",
+  "chefs": [
+    "Sima Feiger"
+  ],
+  "image": "https://images.kosher.com/details.slide/n/a/Naturally_Good_Brownies.jpg",
+  "extra_images": [],
+  "published": "2012-01-10T16:40:59",
+  "modified": "2021-01-27T01:06:15",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 40,
+    "total_minutes": 40
+  },
+  "servings": "9",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Gluten",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "Low Fat",
+    "No Refined Sugar",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "brownies",
+    "chocolate",
+    "complex carbs",
+    "dairy free",
+    "egg-free desserts",
+    "healthy baking",
+    "non-dairy desserts",
+    "pareve",
+    "parve"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1/2 cup",
+          "item": "grated apple",
+          "text": "1/2 cup grated apple"
+        },
+        {
+          "amount": "8",
+          "item": "pitted dates, roughly chopped",
+          "text": "8 pitted dates, roughly chopped"
+        },
+        {
+          "amount": "1",
+          "item": "ripe banana",
+          "text": "1 ripe banana"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "maple syrup",
+          "text": "1/2 cup maple syrup"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Vanilla Extract",
+          "text": "1 teaspoon Gefen Vanilla Extract"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Shibolim Whole-Wheat Flour",
+          "text": "1/2 cup Shibolim Whole-Wheat Flour"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "finely ground blanched almonds",
+          "text": "1/2 cup finely ground blanched almonds"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Gefen Cocoa Powder",
+          "text": "1/2 cup Gefen Cocoa Powder"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "baking powder",
+          "text": "2 teaspoons baking powder"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "baking soda",
+          "text": "1/2 teaspoon baking soda"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "salt",
+          "text": "1/4 teaspoon salt"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Brownies",
+      "steps": [
+        "Preheat your oven to 350 degrees Fahrenheit.",
+        "Line an 8- x 8-inch pan with Gefen Parchment Paper, and spray with cooking spray. In a food processor, process the apple, dates, banana, maple syrup, and vanilla until almost smooth.",
+        "In a medium bowl, combine the flour, almonds, cocoa, baking powder, baking soda, and salt. Add this mixture to the processor and pulse until the wet and dry ingredients are fully combined. Pour into the prepared pan.",
+        "Bake for 25 minutes. Cut into nine squares when cooled."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

@@ -1,0 +1,200 @@
+{
+  "id": 74,
+  "source_id": 67798,
+  "name": "Cinnamon Bun Pie",
+  "slug": "cinnamon-bun-pie-5941",
+  "url": "https://www.kosher.com/recipe/cinnamon-bun-pie-5941/",
+  "description": "This recipe was originally intended for my first cookbook, Something Sweet. Sadly, under tight deadlines, I didn’t have the time to give this recipe the time and attention it needed. Luckily, I didn’t forget the idea completely, because once I had the time to develop this recipe properly, it became an instant hit and a family favorite!",
+  "chefs": [
+    "Miriam (Pascal) Cohen"
+  ],
+  "image": "https://images.kosher.com/details.slide/p/a/pascal_cinnamon_bun_pie.png",
+  "extra_images": [
+    "https://images.kosher.com/details.slide/r/e/Real_Life_crop1.jpg"
+  ],
+  "published": "2018-09-20T06:58:06",
+  "modified": "2018-09-20T04:56:51",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 10,
+    "total_minutes": 70
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Soy",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [
+    "ArtScroll"
+  ],
+  "tags": [
+    "cinnamon buns",
+    "fall flavors",
+    "family-favorite",
+    "layered desserts",
+    "miriam pascal",
+    "non-dairy desserts",
+    "pareve",
+    "parve desserts",
+    "pies",
+    "Real Life Kosher Cooking",
+    "Shabbos",
+    "Succos",
+    "Succot",
+    "Sukkos",
+    "sukkos desserts",
+    "sukkot"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Batter",
+      "ingredients": [
+        {
+          "amount": "1/4 cup",
+          "item": "oil",
+          "text": "1/4 cup oil"
+        },
+        {
+          "amount": "1/3 cup",
+          "item": "sugar",
+          "text": "1/3 cup sugar"
+        },
+        {
+          "amount": "1/3 cup",
+          "item": "brown sugar",
+          "text": "1/3 cup brown sugar"
+        },
+        {
+          "amount": "3",
+          "item": "eggs",
+          "text": "3 eggs"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "Haddar Baking Powder",
+          "text": "1/2 teaspoon Haddar Baking Powder"
+        },
+        {
+          "amount": "1 and 1/2 teaspoons",
+          "item": "Gefen Vanilla Extract",
+          "text": "1 and 1/2 teaspoons Gefen Vanilla Extract"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "flour",
+          "text": "1 and 1/2 cups flour"
+        }
+      ]
+    },
+    {
+      "title": "Cinnamon Filling",
+      "ingredients": [
+        {
+          "amount": "1/3 cup",
+          "item": "ground pecans",
+          "text": "1/3 cup ground pecans"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "brown sugar",
+          "text": "1/2 cup brown sugar"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "cinnamon",
+          "text": "1 tablespoon cinnamon"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "oil",
+          "text": "1/4 cup oil"
+        },
+        {
+          "amount": "1",
+          "item": "Glicks Graham Cracker Crust",
+          "text": "1 Glicks Graham Cracker Crust"
+        }
+      ]
+    },
+    {
+      "title": "Cream Cheese Glaze",
+      "ingredients": [
+        {
+          "amount": "2 ounces (1/4 package)",
+          "item": "non-dairy cream cheese",
+          "text": "2 ounces (1/4 package) non-dairy cream cheese"
+        },
+        {
+          "amount": "1 and 1/4 cups",
+          "item": "powdered sugar",
+          "text": "1 and 1/4 cups powdered sugar"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "Gefen Vanilla Extract",
+          "text": "1/2 teaspoon Gefen Vanilla Extract"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Gefen Soy Milk",
+          "text": "1 tablespoon Gefen Soy Milk"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Pie",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit."
+      ]
+    },
+    {
+      "title": "Prepare the Batter",
+      "steps": [
+        "In the bowl of an electric mixer, on medium speed, beat together oil and sugars until combined and creamy.",
+        "Add eggs, one at a time. Add baking powder, and vanilla, beating well to combine after each addition.",
+        "Turn mixer speed to low; gradually add flour. Beat until combined. Set aside."
+      ]
+    },
+    {
+      "title": "Prepare the Filling",
+      "steps": [
+        "In a small bowl, combine pecans, brown sugar, cinnamon, and oil until smooth. Set aside.",
+        "When filling pie crust, be careful to add each layer very gently, so you don’t break the crust. Pour one fourth of the batter into the graham cracker crust; use a flexible spatula to smooth the top. Top with one fourth of the filling. Smooth the top.",
+        "Repeat the process, ending with the batter. Note that the batter will be hard to spread; you can make fewer layers so that it is easier to assemble.",
+        "Bake for 35–40 minutes, until top is set. It’s meant to be soft in the center, so don’t overbake it."
+      ]
+    },
+    {
+      "title": "Prepare the Glaze",
+      "steps": [
+        "Combine glaze ingredients in a small bowl. Whisk until smooth.",
+        "For best results, serve warm. Drizzle glaze over each slice just before serving."
+      ]
+    }
+  ],
+  "tips": "Notes:\nThis pie freezes well. Wrap tightly before freezing; reheat and glaze just before serving.\nDescription:\nReproduced from Real Life Kosher Cooking by Miriam Pascal with permission from the copyright holders ArtScroll/Mesorah Publications, LTD.",
+  "wine_pairing": [],
+  "video": null
+}

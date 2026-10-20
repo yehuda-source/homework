@@ -1,0 +1,131 @@
+{
+  "id": 12,
+  "source_id": 54187,
+  "name": "Sesame Cabbage Salad",
+  "slug": "sesame-cabbage-salad-2205",
+  "url": "https://www.kosher.com/recipe/sesame-cabbage-salad-2205/",
+  "description": null,
+  "chefs": [
+    "Esther Ottensoser"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_280_Unknown__Salad%2C_Sesame_Cabbage__%28Mishloach_Manos%29.jpg",
+  "extra_images": [],
+  "published": "2017-01-01T10:26:34",
+  "modified": "2019-01-19T22:42:18",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 5,
+    "total_minutes": 5
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Salads"
+  ],
+  "allergens": [
+    "Sesame"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "cabbage salad",
+    "Esther Ottensoser",
+    "fresh fruit",
+    "gluten free",
+    "mango",
+    "scallions",
+    "sesame seeds",
+    "sugar free dressing"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Salad",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "bag green cabbage, shredded",
+          "text": "1 bag green cabbage, shredded"
+        },
+        {
+          "amount": "1",
+          "item": "mango, diced",
+          "text": "1 mango, diced"
+        },
+        {
+          "amount": "1",
+          "item": "bunch scallions, chopped",
+          "text": "1 bunch scallions, chopped"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "black sesame seeds",
+          "text": "2 teaspoons black sesame seeds"
+        }
+      ]
+    },
+    {
+      "title": "Dressing",
+      "ingredients": [
+        {
+          "amount": "1/4 cup",
+          "item": "vinegar (gluten-free if needed)",
+          "text": "1/4 cup vinegar (gluten-free if needed)"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Bartenura Olive Oil",
+          "text": "1/4 cup Bartenura Olive Oil"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "xylitol",
+          "text": "2 tablespoons xylitol"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "lemon juice",
+          "text": "1 teaspoon lemon juice"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper, to taste",
+          "text": "pepper, to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Salad",
+      "steps": [
+        "Combine all salad ingredients in a large bowl.",
+        "In a separate bowl, mix dressing together and pour over the salad."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

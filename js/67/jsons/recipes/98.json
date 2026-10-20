@@ -1,0 +1,91 @@
+{
+  "id": 98,
+  "source_id": 81662,
+  "name": "Fancy Grilled Cheese Sandwiches on Flaxseed Bread",
+  "slug": "fancy-grilled-cheese-sandwiches-9648",
+  "url": "https://www.kosher.com/recipe/fancy-grilled-cheese-sandwiches-9648/",
+  "description": "These sophisticated grilled cheese sandwiches come together quickly. They are also keto-friendly.\nServes 4 as an appetizer",
+  "chefs": [
+    "Batsheva Kanter"
+  ],
+  "image": "https://images.kosher.com/details.slide/k/a/Kanter__Batsheva._Fancy_Grilled_Cheese_crop.jpg",
+  "extra_images": [],
+  "published": "2020-09-09T02:21:46",
+  "modified": "2021-09-30T11:50:31",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 10,
+    "total_minutes": 10
+  },
+  "servings": "4",
+  "difficulty": "Easy",
+  "kosher_type": "Dairy",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Dairy",
+    "Egg"
+  ],
+  "diets": [
+    "Keto",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "Kosher.com Exclusive"
+  ],
+  "tags": [
+    "batsheva kanter",
+    "cheese",
+    "flaxseed bread",
+    "gluten free",
+    "grilled cheese",
+    "keto kosher",
+    "kitchen coup",
+    "kitchencoup",
+    "sandwiches",
+    "super easy"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "8 slices",
+          "item": "of Shibolim Flax Bread",
+          "text": "8 slices of Shibolim Flax Bread"
+        },
+        {
+          "amount": "1 package",
+          "item": "of brie or camembert, sliced thin",
+          "text": "1 package of brie or camembert, sliced thin"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "full-fat mayo, such as Gefen Mayonnaise",
+          "text": "3 tablespoons full-fat mayo, such as Gefen Mayonnaise"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Grilled Cheese Sandwiches",
+      "steps": [
+        "Spread mayonnaise on all the slices of bread.",
+        "In a heavy-bottomed pan lay four slices of bread, mayonnaise side down.",
+        "Set heat to medium and cover each bread with one layer of brie slices. Cover the bread with the rest of slices - mayonnaise side up.",
+        "When cheese begins to melt, flip each sandwich until they are toasted on both sides."
+      ]
+    }
+  ],
+  "tips": "Description:\nSponsored by Shibolim",
+  "wine_pairing": [],
+  "video": null
+}

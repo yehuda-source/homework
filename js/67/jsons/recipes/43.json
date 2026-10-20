@@ -1,0 +1,124 @@
+{
+  "id": 43,
+  "source_id": 55987,
+  "name": "Beer-Bathed London Broil",
+  "slug": "beer-bathed-london-broil-recipe-2739",
+  "url": "https://www.kosher.com/recipe/beer-bathed-london-broil-recipe-2739/",
+  "description": "The beer tenderizes this London Broil and adds some great flavor. The meat slices well and is super soft. I serve it both warm and at room temperature.",
+  "chefs": [
+    "Elizabeth Kurtz"
+  ],
+  "image": "https://images.kosher.com/details.slide/b/e/beer-bathed_london_broil.jpg",
+  "extra_images": [],
+  "published": "2017-08-23T12:36:43",
+  "modified": "2017-08-23T09:04:38",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 30,
+    "total_minutes": 90
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Gluten"
+  ],
+  "diets": [
+    "No Refined Sugar"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Purim",
+    "Shabbat"
+  ],
+  "sources": [
+    "Aish.com"
+  ],
+  "tags": [
+    "beer marinade",
+    "brisket",
+    "london broil",
+    "meat",
+    "savory",
+    "savory roasts"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Beer Bathed London Broil",
+      "ingredients": [
+        {
+          "amount": "1 (2- to 3-lb.)",
+          "item": "London broil (I ask the butcher to split it and de-vein it if it’s a thick cut)",
+          "text": "1 (2- to 3-lb.) London broil (I ask the butcher to split it and de-vein it if it’s a thick cut)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Bartenura Olive Oil, divided",
+          "text": "2 tablespoons Bartenura Olive Oil, divided"
+        },
+        {
+          "amount": "3/4 – 1 cup",
+          "item": "flavorful beer",
+          "text": "3/4 – 1 cup flavorful beer"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "chili powder",
+          "text": "2 tablespoons chili powder"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "dried oregano",
+          "text": "1 tablespoon dried oregano"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "sweet paprika",
+          "text": "1 tablespoon sweet paprika"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "garlic powder",
+          "text": "2 teaspoons garlic powder"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cumin",
+          "text": "1 teaspoon cumin"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Haddar Kosher Salt",
+          "text": "1 teaspoon Haddar Kosher Salt"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "ground Gefen Black Pepper",
+          "text": "1/2 teaspoon ground Gefen Black Pepper"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Meat",
+      "steps": [
+        "Place London Broil in a pan and pour the beer over the meat. Let it rest and marinate in the beer for at least one hour and up to overnight. (Cover and place in the refrigerator if marinating overnight or longer than one hour.) Pour off the beer and dry the meat.",
+        "Make the dry rub by mixing one and a half tablespoons of olive oil with the chili powder, oregano, paprika, garlic powder, cumin, kosher salt, and pepper. Mix to form a paste. Rub paste all over the meat. Let sit for 30 minutes and up to two hours.",
+        "Preheat a grill or a grill pan over medium-high heat (alternatively, you could broil the meat for about four to six minutes on each side, being careful not to burn the meat). Heat the remaining half tablespoon of oil in the grill pan, or use to grease the grill grates. Place meat on grill or grill pan for about five minutes on each side for medium-rare.",
+        "Remove from heat and let rest for five to 10 minutes before slicing. Serve with horseradish sauce or grainy mustard."
+      ]
+    }
+  ],
+  "tips": "Description:\nAish.com is a leading Jewish content website with over 10,000 articles exploring Jewish wisdom on parenting, spirituality, current issues, Israel, holidays and the weekly Torah portion.",
+  "wine_pairing": [
+    "1848 5th Generation Cabernet Franc"
+  ],
+  "video": null
+}

@@ -1,0 +1,107 @@
+{
+  "id": 8,
+  "source_id": 46417,
+  "name": "Corn Salad",
+  "slug": "corn-salad-322",
+  "url": "https://www.kosher.com/recipe/corn-salad-322/",
+  "description": "This recipe is based on one from my cousin Pammy. Most corn salads have mayonnaise and sour pickles, both of which contain considerable salt. This one has neither, and yet is very flavorful.",
+  "chefs": [
+    "Brynie Greisman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_164_Greisman_Salt_Free_Corn_Salad.photo_Lailah.styling_Leibowitz.jpg",
+  "extra_images": [],
+  "published": "2016-12-13T08:44:59",
+  "modified": "2018-12-03T10:08:19",
+  "cook_time": {
+    "hours": 10,
+    "minutes": 0,
+    "total_minutes": 600
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Salads"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Low Fat",
+    "Pescatarian",
+    "Salt Free",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "corn",
+    "fresh vegetables",
+    "healthy ingredients",
+    "salad"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 cups",
+          "item": "frozen corn",
+          "text": "2 cups frozen corn"
+        },
+        {
+          "amount": "2",
+          "item": "different colored peppers, diced",
+          "text": "2 different colored peppers, diced"
+        },
+        {
+          "amount": "1 stalk",
+          "item": "celery, sliced",
+          "text": "1 stalk celery, sliced"
+        },
+        {
+          "amount": "1",
+          "item": "medium red onion, diced",
+          "text": "1 medium red onion, diced"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "sugar, or to taste",
+          "text": "2 tablespoons sugar, or to taste"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "oil",
+          "text": "1 tablespoon oil"
+        },
+        {
+          "amount": "3-4 tablespoons",
+          "item": "vinegar",
+          "text": "3-4 tablespoons vinegar"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare Salad",
+      "steps": [
+        "Combine all the veggies in a medium-sized bowl or container.",
+        "Add dressing ingredients and mix thoroughly.",
+        "Marinate overnight."
+      ]
+    }
+  ],
+  "tips": "Notes:\nIf you happen to be out of celery, sprinkle in some celery seeds. If you don’t have that either, wait until you do! Celery adds important crunch here. Also, if you feel the salad needs a bit of extra tang, add a splash of lemon juice – though personally, I found it to be perfect without any additions.\nDescription:\nPhotography: Daniel Lailah.\nStyling: Michal Leibowitz.",
+  "wine_pairing": [],
+  "video": null
+}

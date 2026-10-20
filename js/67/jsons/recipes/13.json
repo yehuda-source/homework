@@ -1,0 +1,167 @@
+{
+  "id": 13,
+  "source_id": 53793,
+  "name": "Potato Kugel Roll",
+  "slug": "potato-kugel-roll-2098",
+  "url": "https://www.kosher.com/recipe/potato-kugel-roll-2098/",
+  "description": "This kugel roll combines classic potato kugel with a rich eggplant filling.",
+  "chefs": [
+    "Raizy Lederman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_213_Lederman_Potato_Kugel_Roll.photo_Edelman.styling_Devor.jpg",
+  "extra_images": [],
+  "published": "2017-01-01T13:02:43",
+  "modified": "2021-01-31T03:56:58",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 10,
+    "total_minutes": 130
+  },
+  "servings": "10",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "No Refined Sugar",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "eggplant filling",
+    "Jewish cuisine",
+    "jewish food",
+    "potato kugel",
+    "roll ups",
+    "traditional",
+    "traditional Jewish food",
+    "twists on tradition",
+    "two-tone",
+    "with a twist"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Eggplant Mixture",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "large eggplant, peeled",
+          "text": "1 large eggplant, peeled"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "flour",
+          "text": "1/2 cup flour"
+        },
+        {
+          "amount": "5",
+          "item": "eggs, 2 beaten and 3 hard-boiled",
+          "text": "5 eggs, 2 beaten and 3 hard-boiled"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Gefen Bread Crumbs",
+          "text": "1 cup Gefen Bread Crumbs"
+        },
+        {
+          "amount": null,
+          "item": "oil for frying",
+          "text": "oil for frying"
+        },
+        {
+          "amount": "3–4",
+          "item": "onions, sautéed",
+          "text": "3–4 onions, sautéed"
+        },
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "walnuts",
+          "text": "7 ounces (200 grams) walnuts"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        },
+        {
+          "amount": null,
+          "item": "dash of pepper",
+          "text": "dash of pepper"
+        }
+      ]
+    },
+    {
+      "title": "Potato Layer",
+      "ingredients": [
+        {
+          "amount": "4",
+          "item": "potatoes",
+          "text": "4 potatoes"
+        },
+        {
+          "amount": "4",
+          "item": "eggs",
+          "text": "4 eggs"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "oil",
+          "text": "2 tablespoons oil"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Eggplant Mixture",
+      "steps": [
+        "Cut the eggplant into half-inch slices. Bread the slices with flour, eggs, and bread crumbs, in that order. Fry the coated eggplant slices in oil on both sides until golden. (Alternatively, you can spread four tablespoons of oil on a Gefen Parchment-lined cookie sheet. Place the coated eggplant slices on the cookie sheet, and bake uncovered at 400 degrees Fahrenheit for 10 minutes on each side.)",
+        "In a food processor, blend the fried eggplant with the onions, hard-boiled eggs, walnuts, salt, and pepper. Set the mixture aside."
+      ]
+    },
+    {
+      "title": "Potato Layer",
+      "steps": [
+        "Preheat the oven to 425 degrees Fahrenheit.",
+        "Grate the potatoes. Add the eggs, oil, and salt. Mix well by hand.",
+        "Pour the mixture onto a well-greased parchment-lined cookie sheet. Bake for 20 minutes.",
+        "Cool for five minutes."
+      ]
+    },
+    {
+      "title": "Assembly",
+      "steps": [
+        "Gently roll up the flat potato “kugel” jelly- roll-style.",
+        "Let it sit for one hour.",
+        "Unroll, spread the eggplant mixture over it, and re-roll. Serve warm."
+      ]
+    }
+  ],
+  "tips": "Variations:\nYou can use an equal amount of canned peas instead of walnuts.\nTips:\nDoes your potato kugel come out grayish in color? Remember: air is the enemy of the potato. For a bright white look, start by grating the onions into the eggs, then grate the potatoes directly into the egg and onion mixture. This way, the grated potatoes are never exposed to the air. Get the kugel into the oven as quickly as possible, so it doesn’t discolor.\nDescription:\nPhotograpy: Chanie Edelman\nStyling: Joy Devor",
+  "wine_pairing": [],
+  "video": null
+}

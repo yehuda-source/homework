@@ -1,0 +1,128 @@
+{
+  "id": 16,
+  "source_id": 51800,
+  "name": "Roast with Barbecue Sauce",
+  "slug": "roast-with-barbecue-sauce-1600",
+  "url": "https://www.kosher.com/recipe/roast-with-barbecue-sauce-1600/",
+  "description": "Typical barbecue sauce has molasses, mustard, and other ingredients not used on Pesach. Flavor is not compromised at all in the following sauce. On the contrary, it is literally bursting with taste and very versatile. I used it here on a brisket roast, but it is equally good with meatballs or on chicken, or even to dress up tongue. It received rave reviews from anyone who tasted it.",
+  "chefs": [
+    "Brynie Greisman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_134_Greisman_Roast-with-Barbecue-Sauce-F.jpg",
+  "extra_images": [],
+  "published": "2017-01-01T23:17:14",
+  "modified": "2018-07-23T03:47:53",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 50,
+    "total_minutes": 50
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Paleo"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "barbecue sauce",
+    "BBQ sauce",
+    "brisket",
+    "brynie greisman",
+    "homemade bbq sauce",
+    "kosher for passover",
+    "pesach main dish",
+    "pesach meats",
+    "roast",
+    "sweet and sour sauce"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "4 and 1/2 pound (2 kilogram)",
+          "item": "roast",
+          "text": "4 and 1/2 pound (2 kilogram) roast"
+        },
+        {
+          "amount": "1",
+          "item": "onion, diced and sautéed",
+          "text": "1 onion, diced and sautéed"
+        },
+        {
+          "amount": "3/4 – 1 cup",
+          "item": "Gefen Ketchup (or homemade)",
+          "text": "3/4 – 1 cup Gefen Ketchup (or homemade)"
+        },
+        {
+          "amount": "3/4 cup",
+          "item": "vinegar",
+          "text": "3/4 cup vinegar"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "apple juice (I used 1 tablespoon apple juice concentrate and 2–3 tablespoons water) -",
+          "text": "1/4 cup apple juice (I used 1 tablespoon apple juice concentrate and 2–3 tablespoons water) -"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Gefen Honey",
+          "text": "1/4 cup Gefen Honey"
+        },
+        {
+          "amount": "2–3 tablespoons",
+          "item": "oil",
+          "text": "2–3 tablespoons oil"
+        },
+        {
+          "amount": "3 cloves",
+          "item": "garlic, sliced",
+          "text": "3 cloves garlic, sliced"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "salt or to taste",
+          "text": "2 teaspoons salt or to taste"
+        },
+        {
+          "amount": null,
+          "item": "pinch pepper",
+          "text": "pinch pepper"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "cayenne pepper",
+          "text": "1/2 teaspoon cayenne pepper"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Roast",
+      "steps": [
+        "Put everything but the roast into a small saucepot and cook for 20 minutes, or until the sauce is thickened.",
+        "Pour the sauce over the roast and bake in the oven for two and a half to three hours (depending on the size of the roast) at 350 degrees Fahrenheit (180 degrees Celsius).",
+        "Refrigerate the meat overnight, separately from the sauce. Slice it the next day (it’s easier to slice when the meat is cold) and reheat together with the sauce."
+      ]
+    }
+  ],
+  "tips": "Tips:\nIf you like your meat/chicken, etc., with extra zip, use 3/4 or even one teaspoon cayenne pepper. No matter what, don’t leave this out because it balances out the sweetness of the sauce.\nNotes:\nThis sauce is sufficient for at least a 4- and- 1/2-pound (2-kilogram) roast, 2 chickens, or 3.3 – 4 and 1/2 pounds (1 and 1/2 – 2 kilograms) chopped meat.",
+  "wine_pairing": [],
+  "video": null
+}

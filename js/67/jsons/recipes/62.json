@@ -1,0 +1,111 @@
+{
+  "id": 62,
+  "source_id": 65067,
+  "name": "Fresh Strawberry Mousse",
+  "slug": "strawberry-mousse-5269",
+  "url": "https://www.kosher.com/recipe/strawberry-mousse-5269/",
+  "description": "I like to serve this in individual ramekins. You could also use wine or martini glasses and garnish with any sliced or chopped fruit.",
+  "chefs": [
+    "Norene Gilletz"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/t/strawberry_mousse_shutterstock_1085416268.jpg",
+  "extra_images": [],
+  "published": "2018-05-11T09:37:17",
+  "modified": "2018-07-09T04:15:48",
+  "cook_time": {
+    "hours": 3,
+    "minutes": 30,
+    "total_minutes": 210
+  },
+  "servings": "8",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover",
+    "Shabbat"
+  ],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "egg-free",
+    "egg-free desserts",
+    "kosher for passover",
+    "mousse",
+    "non-dairy desserts",
+    "Pesach",
+    "strawberries",
+    "strawberries n' cream",
+    "strawberry"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "16 ounces",
+          "item": "fresh strawberries",
+          "text": "16 ounces fresh strawberries"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Imitation Rum Extract",
+          "text": "1 teaspoon Gefen Imitation Rum Extract"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "confectioners' sugar",
+          "text": "2 teaspoons confectioners' sugar"
+        },
+        {
+          "amount": null,
+          "item": "juice of 1 lemon",
+          "text": "juice of 1 lemon"
+        },
+        {
+          "amount": "6 tablespoons",
+          "item": "sugar",
+          "text": "6 tablespoons sugar"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "unflavored kosher gelatin powder",
+          "text": "2 tablespoons unflavored kosher gelatin powder"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Kineret Non-Dairy Whipped Topping",
+          "text": "1 cup Kineret Non-Dairy Whipped Topping"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Mousse",
+      "steps": [
+        "Remove the stems from the strawberries, wash well and set six of the strawberries aside. Take the six strawberries, slice thinly, and place in a small bowl with the rum extract and confectioners’ sugar. Mix to combine and then place in the refrigerator.",
+        "Cut the remaining strawberries in half and place in a blender or food processor fitted with a metal blade. Puree the strawberries completely, scraping down the sides of the processor bowl or blender so that all the strawberries pieces are pureed.",
+        "Place the strawberry puree in a small saucepan. Add the lemon juice and sugar and stir. Cook on medium low heat for five minutes, stirring occasionally, until the sugar melts. Add the gelatin, whisk, and then remove from the heat. Strain into a medium bowl, pressing hard to get as much strawberry puree through as possible, and place in the refrigerator for 20 minutes, stirring twice during that time.",
+        "In bowl with an electric mixer on high speed, whip the whipping cream until stiff. Remove the strawberry puree from the refrigerator and fold in the whipped cream in four parts. Scoop the mousse evenly into the ramekins and smooth the tops with the back of a spoon. Cover with plastic and place in the refrigerator for at least three hours or overnight.",
+        "To serve, remove from the refrigerator and place a few of the rum-soaked strawberry slices on the top. Store covered in the refrigerator for up to three days."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

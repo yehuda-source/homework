@@ -1,0 +1,153 @@
+{
+  "id": 22,
+  "source_id": 50557,
+  "name": "Chremeschnit",
+  "slug": "napoleons-1303",
+  "url": "https://www.kosher.com/recipe/napoleons-1303/",
+  "description": "The ultra-thin puff pastry dough in this recipe is filled with a soft, heavenly cream for that melt-in-the-mouth effect.",
+  "chefs": [
+    "Clara Fatal"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_290_Unknown__Napoleons.jpg",
+  "extra_images": [],
+  "published": "2017-02-17T03:59:52",
+  "modified": "2021-08-02T19:16:23",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 35,
+    "total_minutes": 35
+  },
+  "servings": "12",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "beautiful presentation",
+    "cakes",
+    "cream",
+    "cremshnit",
+    "fresh fruit",
+    "garnish",
+    "instant pudding",
+    "layered desserts",
+    "non-dairy desserts",
+    "pareve",
+    "parve",
+    "puff pastry",
+    "Rosh Hashana",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "Rosh Hashannah",
+    "roshhashana"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 package",
+          "item": "Gefen Puff Pastry Sheets, defrosted",
+          "text": "1 package Gefen Puff Pastry Sheets, defrosted"
+        },
+        {
+          "amount": "3",
+          "item": "eggs",
+          "text": "3 eggs"
+        },
+        {
+          "amount": "1 cup",
+          "item": "sugar",
+          "text": "1 cup sugar"
+        },
+        {
+          "amount": "1 cup",
+          "item": "flour",
+          "text": "1 cup flour"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "water",
+          "text": "1/2 cup water"
+        },
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "margarine, cubed (use soy-free, if needed)",
+          "text": "7 ounces (200 grams) margarine, cubed (use soy-free, if needed)"
+        },
+        {
+          "amount": "1 package",
+          "item": "vanilla sugar",
+          "text": "1 package vanilla sugar"
+        },
+        {
+          "amount": "1 package",
+          "item": "Gefen Instant Vanilla Pudding mix",
+          "text": "1 package Gefen Instant Vanilla Pudding mix"
+        },
+        {
+          "amount": "1/2 carton (9 ounces / 250 grams)",
+          "item": "prepared vanilla cream",
+          "text": "1/2 carton (9 ounces / 250 grams) prepared vanilla cream"
+        },
+        {
+          "amount": null,
+          "item": "Gefen Confectioners' Sugar, for garnish",
+          "text": "Gefen Confectioners' Sugar, for garnish"
+        },
+        {
+          "amount": null,
+          "item": "fresh cherries, for garnish",
+          "text": "fresh cherries, for garnish"
+        },
+        {
+          "amount": null,
+          "item": "crisscross stencil",
+          "text": "crisscross stencil"
+        },
+        {
+          "amount": null,
+          "item": "rectangular loaf cake container for storage",
+          "text": "rectangular loaf cake container for storage"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Chremeschnit",
+      "steps": [
+        "To prepare Chremeschnit leaves, divide puff pastry dough into two leaves that will fit a 11x13- inch (27x33-cm) pan. Roll out gently and prick dough all over with a fork.",
+        "Preheat oven to 400 degrees Fahrenheit (200 degrees Celsius). Arrange puff pastry sheets on baking sheet lined with Gefen Parchment Paper and bake for approximately 10 minutes. Remove tray from oven and place a sheet of parchment paper and a second baking pan on top to serve as a weight. Return tray to oven and bake for an additional 10–15 minutes until dough is golden and flat. Let cool.",
+        "To prepare cream filling, beat eggs with sugar and flour. Slowly add 1/2 cup water until batter is thin and liquidy. In a small saucepan, bring two cups of water to boil. Pour batter into boiling water and stir until lumpy. Watch carefully that it doesn’t burn.",
+        "Turn off flame and let batter cool for 10 minutes. Replace in mixer and add margarine and vanilla sugar. Once the margarine is melted and absorbed into the batter, add instant vanilla pudding mix.",
+        "Refrigerate prepared vanilla cream for 10 minutes. Add vanilla cream to mixture and stir well.",
+        "Use a sharp knife to cut the Chremeschnit leaf into three equal rectangles 12 inches long and three inches wide (30 x eight centimeters). Place one rectangle onto a serving tray and spread a generous layer of cream on top (approximately two centimeters high). Place a second rectangle on top and spread a second layer of cream on top of it.",
+        "Lay the third rectangle on a sheet of parchment paper. Place crisscross stencil on top. Using a sifter, sprinkle confectioners’ sugar generously over stencil. Gently lift plastic stencil off of pastry. Your leaf should have a diamond design. Gently lay the third rectangle over the second layer of cream. Keep refrigerated until ready to serve. Immediately before serving, garnish with fresh cherries."
+      ]
+    }
+  ],
+  "tips": "Notes:\nChremeschnit can be refrigerated for up to two days; after that, the pastry dough becomes soft and less tasty.\nVariations:\nAdd fresh fruit to cream layers.",
+  "wine_pairing": [],
+  "video": null
+}

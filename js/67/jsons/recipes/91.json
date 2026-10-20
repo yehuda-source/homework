@@ -1,0 +1,126 @@
+{
+  "id": 91,
+  "source_id": 79692,
+  "name": "Onion Flanken Soup",
+  "slug": "onion-flanken-soup-9093",
+  "url": "https://www.kosher.com/recipe/onion-flanken-soup-9093/",
+  "description": "Submitted by Devorah Mayer\nThis soup is my go-to Yom Tov appetizer. When I recently hosted a few Sheva Brachos for my nieces (b\"H) I put up my typical \"Simcha\" pot along with another 8-quart pot, and watched my various relatives sneak out with a container or two to go.",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/o/n/Onion_Flanken_Soup.jpg",
+  "extra_images": [],
+  "published": "2020-06-08T18:51:39",
+  "modified": "2020-06-08T00:29:53",
+  "cook_time": {
+    "hours": 4,
+    "minutes": 0,
+    "total_minutes": 240
+  },
+  "servings": "15",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Soups"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "Devorah Mayer",
+    "flanken",
+    "hearty soups",
+    "hot soups",
+    "meat soups",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "onions",
+    "soups"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "3lb. bag of onions, thickly sliced",
+          "text": "1 3lb. bag of onions, thickly sliced"
+        },
+        {
+          "amount": "2 tbs.",
+          "item": "oil",
+          "text": "2 tbs. oil"
+        },
+        {
+          "amount": "1-2 lb",
+          "item": "flanken or kalachel (I like kalachel because it has no bones)",
+          "text": "1-2 lb flanken or kalachel (I like kalachel because it has no bones)"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "flour",
+          "text": "1/4 cup flour"
+        },
+        {
+          "amount": "3 tbs.",
+          "item": "onion soup mix",
+          "text": "3 tbs. onion soup mix"
+        },
+        {
+          "amount": "1/2 tsp.",
+          "item": "salt",
+          "text": "1/2 tsp. salt"
+        },
+        {
+          "amount": "8-10 cups",
+          "item": "water",
+          "text": "8-10 cups water"
+        },
+        {
+          "amount": null,
+          "item": "sprinkle pepper",
+          "text": "sprinkle pepper"
+        },
+        {
+          "amount": "1 tbs.",
+          "item": "sugar",
+          "text": "1 tbs. sugar"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "wine",
+          "text": "1/4 cup wine"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Soup",
+      "steps": [
+        "Sauté the onions in oil for about 15 minutes, until clear.",
+        "Add meat.",
+        "Add flour, onion soup mix and salt. Mix all together.",
+        "Add water and the rest of the ingredients.",
+        "Cover pot most of the way and bring to a boil.",
+        "Lower heat and let simmer for 3-4 hours.",
+        "Add salt to taste.",
+        "When fully cooked, remove the meat, shred and add back into the soup."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

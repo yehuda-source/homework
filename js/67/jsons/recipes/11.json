@@ -1,0 +1,141 @@
+{
+  "id": 11,
+  "source_id": 56764,
+  "name": "Simanim Salad with Honey Vinaigrette",
+  "slug": "simanim-salad-2937",
+  "url": "https://www.kosher.com/recipe/simanim-salad-2937/",
+  "description": "A rich, festive salad, perfect for a Rosh Hashanah meal. If you make this for a time other than Rosh Hashanah, I recommend adding walnuts or roasted pecans and thin slices of purple onion.\nCheck out our complete collection of Rosh Hashanah recipes for mains, sides, soups, desserts, and more inspiration for the holiday.",
+  "chefs": [
+    "Chef Tom Francz"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_510_Francz_Simanim_Salad.jpg",
+  "extra_images": [],
+  "published": "2017-01-01T09:50:18",
+  "modified": "2020-08-13T00:04:50",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 5,
+    "total_minutes": 5
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Salads"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "color",
+    "dates",
+    "fresh fruit",
+    "fruity salad",
+    "gluten free",
+    "pomegranate",
+    "quick and easy salads",
+    "Rosh Hashana",
+    "rosh hashana salads",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "Rosh Hashannah",
+    "roshhashana",
+    "salad",
+    "salad with a twist",
+    "seven species",
+    "shivas haminim",
+    "shivat haminim",
+    "simanim",
+    "super easy",
+    "sweet salads",
+    "vinaigrette"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Salad",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "head lettuce or assorted lettuce leaves (iceberg, red, or romaine), shredded",
+          "text": "1 head lettuce or assorted lettuce leaves (iceberg, red, or romaine), shredded"
+        },
+        {
+          "amount": "2",
+          "item": "mangoes, cut in cubes",
+          "text": "2 mangoes, cut in cubes"
+        },
+        {
+          "amount": "1 cup",
+          "item": "pomegranate arils",
+          "text": "1 cup pomegranate arils"
+        },
+        {
+          "amount": "6",
+          "item": "Medjool dates, cut lengthwise into strips",
+          "text": "6 Medjool dates, cut lengthwise into strips"
+        }
+      ]
+    },
+    {
+      "title": "Honey Vinaigrette",
+      "ingredients": [
+        {
+          "amount": "3/4 cup",
+          "item": "Bartenura Olive Oil",
+          "text": "3/4 cup Bartenura Olive Oil"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "white balsamic vinegar, Kedem Red Wine Vinegar or other wine vinegar, apple vinegar, or lemon juice",
+          "text": "1/4 cup white balsamic vinegar, Kedem Red Wine Vinegar or other wine vinegar, apple vinegar, or lemon juice"
+        },
+        {
+          "amount": "1 heaping tablespoon",
+          "item": "Haddar Dijon Mustard",
+          "text": "1 heaping tablespoon Haddar Dijon Mustard"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Honey",
+          "text": "2 tablespoons Gefen Honey"
+        },
+        {
+          "amount": null,
+          "item": "a small handful of parsley leaves, finely chopped (without the stems)",
+          "text": "a small handful of parsley leaves, finely chopped (without the stems)"
+        },
+        {
+          "amount": null,
+          "item": "salt and freshly ground Gefen Pepper, to taste",
+          "text": "salt and freshly ground Gefen Pepper, to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Simanim Salad",
+      "steps": [
+        "Place lettuce leaves in a large bowl. Add mango cubes, pomegranate arils, and date strips.",
+        "Put all vinaigrette ingredients into a jar. Close well and shake.",
+        "Pour dressing over salad. Mix gently and serve."
+      ]
+    }
+  ],
+  "tips": "Tips:\nWhen making a large quantity of the vinaigrette, I recommend using equal amounts of canola and olive oil (3/4 cup olive oil and 3/4 cup canola) and mixing with a hand blender or mixer.\nNotes:\nThis makes enough dressing for two large salads. You can also use it for coleslaw, vegetable salad, or even pasta salad.\nDescription:\nStyling: Noa Kanarik\nPhotograpy: Tomer Bormad",
+  "wine_pairing": [],
+  "video": null
+}

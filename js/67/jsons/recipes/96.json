@@ -1,0 +1,125 @@
+{
+  "id": 96,
+  "source_id": 79846,
+  "name": "The Best London Broil Ever",
+  "slug": "the-best-london-broil-ever-9145",
+  "url": "https://www.kosher.com/recipe/the-best-london-broil-ever-9145/",
+  "description": "Submitted by Chana Varnai\nThis is the best London broil. The meat is soft and yummy and the gravy is delicious! And best of all it is super easy!",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/t/h/The_best_London_broil_ever.jpeg",
+  "extra_images": [],
+  "published": "2020-06-17T18:37:13",
+  "modified": "2020-06-16T22:32:00",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 30,
+    "total_minutes": 90
+  },
+  "servings": "4",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "beef",
+    "bell peppers",
+    "Chana Varnai",
+    "london broil",
+    "meat",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "onions",
+    "peppers",
+    "red peppers"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "London broil (about a pound and a half)",
+          "text": "1 London broil (about a pound and a half)"
+        },
+        {
+          "amount": "2",
+          "item": "medium sized onions",
+          "text": "2 medium sized onions"
+        },
+        {
+          "amount": "1",
+          "item": "red pepper",
+          "text": "1 red pepper"
+        },
+        {
+          "amount": null,
+          "item": "Honey",
+          "text": "Honey"
+        },
+        {
+          "amount": null,
+          "item": "Olive oil",
+          "text": "Olive oil"
+        },
+        {
+          "amount": null,
+          "item": "Red wine",
+          "text": "Red wine"
+        },
+        {
+          "amount": null,
+          "item": "Salt",
+          "text": "Salt"
+        },
+        {
+          "amount": null,
+          "item": "Garlic powder",
+          "text": "Garlic powder"
+        },
+        {
+          "amount": null,
+          "item": "Onion powder",
+          "text": "Onion powder"
+        },
+        {
+          "amount": null,
+          "item": "Black pepper",
+          "text": "Black pepper"
+        },
+        {
+          "amount": null,
+          "item": "a drop of paprika",
+          "text": "a drop of paprika"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the London Broil",
+      "steps": [
+        "Preheat oven to 400F.",
+        "Slice the onions and pepper into strips. Spread it out onto a 9 by 13 pan. Put the London broil on top of the veggies. Drizzle some honey and olive oil on top and then pour wine in. Add the salt, garlic powder, onion powder, black pepper and then top it off with some paprika.",
+        "Bake covered for an hour and 15 minutes. Then uncover for another 15 minutes.",
+        "Your meat is now ready but for the best effect and to get it really soft you can cover it on 225F for 45 to 90 minutes. Great tip for Friday night: cover your ready meat and place it in the oven on Shabbos mode on 225 until you are ready to serve."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

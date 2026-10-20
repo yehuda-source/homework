@@ -1,0 +1,115 @@
+{
+  "id": 85,
+  "source_id": 79649,
+  "name": "Salted Chocolate Tahini Caramel Cups",
+  "slug": "salted-chocolate-tahini-caramel-cups-9079",
+  "url": "https://www.kosher.com/recipe/salted-chocolate-tahini-caramel-cups-9079/",
+  "description": "This no-bake dessert just melts in your mouth - my family devoured these caramel cups in one sitting!",
+  "chefs": [
+    "Erin Grunstein"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/a/Salted_Chocolate_Tahini_Caramel_Cups_-_Erin_Grunstein-Halpern_crop.jpg",
+  "extra_images": [],
+  "published": "2020-05-20T08:19:02",
+  "modified": "2020-05-20T10:38:40",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "16",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Sesame"
+  ],
+  "diets": [
+    "Gluten Free",
+    "No Refined Sugar",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [],
+  "tags": [
+    "caramel",
+    "chocolate",
+    "dairy free",
+    "dates",
+    "Erin Grunstein",
+    "erin.eats.mtl",
+    "no-bake desserts",
+    "non-dairy desserts",
+    "tahini"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "medjool dates (the softer the better)",
+          "text": "1 cup medjool dates (the softer the better)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Mighty Sesame Tahini",
+          "text": "2 tablespoons Mighty Sesame Tahini"
+        },
+        {
+          "amount": "6 tablespoons",
+          "item": "almond milk (you can likely use coconut cream or soy milk or even the water you use to plump up the dates)",
+          "text": "6 tablespoons almond milk (you can likely use coconut cream or soy milk or even the water you use to plump up the dates)"
+        },
+        {
+          "amount": "1 tablespooon",
+          "item": "maple syrup",
+          "text": "1 tablespooon maple syrup"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "vanilla",
+          "text": "1 teaspoon vanilla"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "Tuscanini Sea Salt plus additional to sprinkle on top",
+          "text": "1/2 teaspoon Tuscanini Sea Salt plus additional to sprinkle on top"
+        },
+        {
+          "amount": "2 cups",
+          "item": "Glicks Semisweet Chocolate Chips (or use sugar-free chocolate chips)",
+          "text": "2 cups Glicks Semisweet Chocolate Chips (or use sugar-free chocolate chips)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "honey",
+          "text": "2 tablespoons honey"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Chocolate Tahini Caramel Cups",
+      "steps": [
+        "Prepare muffin tins with liners – this recipe yielded 12 regular and 12 small chocolates. I imagine that it would make 15-16 regular sized chocolates.",
+        "Cover dates with warm water and allow to sit for at least 10 minutes to plump up.",
+        "In a food processor, process dates, tahini, milk, maple syrup, vanilla and sea salt. Use a rubber spatula to push down mixture that goes up the sides. Keep processing until smooth and creamy – this may take a few minutes.",
+        "In the meantime, place chocolate in a heat-safe bowl. Place bowl over pot filled with about one to two inches of water (water should not touch bottom of bowl). Melt chocolate by bringing water in pot to a simmer. (Don’t allow chocolate to get wet!) Once chocolate is smooth and melted, remove from heat and mix in honey.",
+        "Spread about one tablespoon of chocolate mixture at the bottom of each muffin cup. Next, drop approximately 1/2 tablespoon of date caramel into the center of the chocolate. Top each with one tablespoon of chocolate. Give the pan a gentle shake to even out the chocolate.",
+        "Sprinkle a drop of sea salt (preferably coarse) over each chocolate. Refrigerate until set."
+      ]
+    }
+  ],
+  "tips": "Notes:\nThis can be stored in an airtight container on the counter. I’m fairly certain it’ll freeze well (although I never tried).\nDescription:\nYields 16 large cups",
+  "wine_pairing": [],
+  "video": null
+}

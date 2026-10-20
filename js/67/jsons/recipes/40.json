@@ -1,0 +1,156 @@
+{
+  "id": 40,
+  "source_id": 53155,
+  "name": "Nectarine Apple Crisp",
+  "slug": "nectarine-apple-crisp-1946",
+  "url": "https://www.kosher.com/recipe/nectarine-apple-crisp-1946/",
+  "description": "This rustic dessert or side dish is an ideal way to showcase seasonal fruit. Add some pizzazz and garnish with whipped cream and nectarine slices. Both the apples and nectarines are sweet, so I used minimal sugar.",
+  "chefs": [
+    "Brynie Greisman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_299_Unknown__Crisp%2C_Nectarine-Apple.jpg",
+  "extra_images": [],
+  "published": "2017-06-04T12:10:59",
+  "modified": "2018-07-10T08:07:52",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts",
+    "Sides"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Southern"
+  ],
+  "holidays": [
+    "Nine Days",
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "apple",
+    "Best of Family Table",
+    "brynie greisman",
+    "crisp",
+    "crumble",
+    "kosher southern food",
+    "nectarines",
+    "rustic",
+    "southern cuisine",
+    "Southern food",
+    "summer",
+    "summer fruits",
+    "sweet"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Filling",
+      "ingredients": [
+        {
+          "amount": "6",
+          "item": "medium apples, peeled, cored, and sliced",
+          "text": "6 medium apples, peeled, cored, and sliced"
+        },
+        {
+          "amount": "6",
+          "item": "medium nectarines, pitted and sliced",
+          "text": "6 medium nectarines, pitted and sliced"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "brown sugar",
+          "text": "1/4 cup brown sugar"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Tuscanini Apricot Preserves",
+          "text": "2 tablespoons Tuscanini Apricot Preserves"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "fresh lemon juice",
+          "text": "1 teaspoon fresh lemon juice"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "ground cinnamon",
+          "text": "1 teaspoon ground cinnamon"
+        }
+      ]
+    },
+    {
+      "title": "Topping",
+      "ingredients": [
+        {
+          "amount": "1/2 cup",
+          "item": "brown sugar (you can sub white sugar if preferred)",
+          "text": "1/2 cup brown sugar (you can sub white sugar if preferred)"
+        },
+        {
+          "amount": "3/4 cup",
+          "item": "flour",
+          "text": "3/4 cup flour"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "light brown sugar",
+          "text": "2 tablespoons light brown sugar"
+        },
+        {
+          "amount": null,
+          "item": "pinch salt",
+          "text": "pinch salt"
+        },
+        {
+          "amount": "1/8 teaspoon",
+          "item": "ground cinnamon, or to taste",
+          "text": "1/8 teaspoon ground cinnamon, or to taste"
+        },
+        {
+          "amount": "5 and 1/2 tablespoons (70 grams)",
+          "item": "margarine (use soy-free, if needed), cut into small pieces, or 1/4 cup oil",
+          "text": "5 and 1/2 tablespoons (70 grams) margarine (use soy-free, if needed), cut into small pieces, or 1/4 cup oil"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Filling",
+      "steps": [
+        "Preheat oven to 375 degrees Fahrenheit (190 degrees Celsius). Grease a 2- and- 1/2-quart baking dish. (I prefer Pyrex, but it’s not a must.)",
+        "Mix together the apples, nectarines, sugar, apricot preserves, lemon juice, and cinnamon. Spread evenly in prepared baking dish."
+      ]
+    },
+    {
+      "title": "For the Topping",
+      "steps": [
+        "In a medium bowl, combine sugar, flour, light brown sugar, salt, and cinnamon. Cut in margarine or oil until coarse crumbs form. Sprinkle topping evenly over fruit.",
+        "Bake until filling bubbles and topping is golden, approximately 45 minutes.",
+        "Transfer baking dish to a wire rack to cool slightly. Serve warm, cold, or room temperature."
+      ]
+    }
+  ],
+  "tips": "Variations:\nIf fresh nectarines are not available, use frozen or canned peaches. It won’t be the same, but it’ll be close.\nTips:\nI always put a sheet of baking paper under the baking dish, as this crisp has a tendency to bubble over and make a mess in your oven!",
+  "wine_pairing": [],
+  "video": null
+}

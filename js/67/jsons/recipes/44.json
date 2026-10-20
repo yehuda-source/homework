@@ -1,0 +1,118 @@
+{
+  "id": 44,
+  "source_id": 59327,
+  "name": "Yapchik – Potato and Meat Kugel (Yaptzik)",
+  "slug": "yaptzik-potato-and-meat-kugel-recipe-3659",
+  "url": "https://www.kosher.com/recipe/yaptzik-potato-and-meat-kugel-recipe-3659/",
+  "description": "Yapchick (alternatively spelled Yaptzik) is a popular Jewish Passover dish of unknown origin. It's delicious at any time of year and often served on Shabbat! The slow-baked overnight potato kugel is improved only by the delicious meat hiding on the bottom.",
+  "chefs": [
+    "Naomi Nachman"
+  ],
+  "image": "https://images.kosher.com/details.slide/y/a/yapchik_logo.jpg",
+  "extra_images": [
+    "https://images.kosher.com/details.slide/p/e/Perfect_for_Pesach_crop14.jpg"
+  ],
+  "published": "2017-09-01T03:49:15",
+  "modified": "2021-05-03T21:41:34",
+  "cook_time": {
+    "hours": 13,
+    "minutes": 40,
+    "total_minutes": 820
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Egg"
+  ],
+  "diets": [
+    "Gluten Free"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "ArtScroll"
+  ],
+  "tags": [
+    "Jewish cuisine",
+    "jewish food",
+    "low and slow",
+    "mashed potatoes",
+    "naomi nachman",
+    "Perfect for Pesach",
+    "Pesach",
+    "potatoes",
+    "shepherd's pie",
+    "slow cooked",
+    "The Aussie Gourmet",
+    "traditional",
+    "traditional Jewish food",
+    "yapchik"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3",
+          "item": "strips flanken",
+          "text": "3 strips flanken"
+        },
+        {
+          "amount": "8 to 10 large",
+          "item": "potatoes",
+          "text": "8 to 10 large potatoes"
+        },
+        {
+          "amount": "1 large",
+          "item": "onion",
+          "text": "1 large onion"
+        },
+        {
+          "amount": "4",
+          "item": "eggs, lightly beaten",
+          "text": "4 eggs, lightly beaten"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Haddar Kosher Salt",
+          "text": "1 tablespoon Haddar Kosher Salt"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "white pepper",
+          "text": "1/4 teaspoon white pepper"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "water",
+          "text": "1/2 cup water"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Assemble and Bake",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit. Prepare a nine- x13-inch pan.",
+        "Place meat into prepared pan. Set aside.",
+        "Using a food processor fitted with the thin shredder blade or kugel blade, shred potato and onion. Add eggs. Add salt and pepper; pour mixture over the meat.",
+        "Bake for one and a half hours; then reduce oven temperature to 200 degrees Fahrenheit. Pour water over kugel, cover tightly with foil, and bake for 12 to 16 hours, or until ready to serve."
+      ]
+    }
+  ],
+  "tips": "Description:\nReproduced from Perfect for Pesach by Naomi Nachman, with permission from the copyright holders ArtScroll/Mesorah Publications, LTD. Photography by Miriam Pascal. Buy the book!",
+  "wine_pairing": [],
+  "video": null
+}

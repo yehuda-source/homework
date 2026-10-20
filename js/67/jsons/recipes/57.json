@@ -1,0 +1,120 @@
+{
+  "id": 57,
+  "source_id": 59578,
+  "name": "Cheese Noodle Kugel",
+  "slug": "cheese-noodle-kugel-recipe-3765",
+  "url": "https://www.kosher.com/recipe/cheese-noodle-kugel-recipe-3765/",
+  "description": "What could be more of a traditonal Jewish food than lukshen noodle kugel? Try this recipe for sweet milchig noodle kugel made with noodles, cottage cheese and sour cream and topped with cornflake crumbs, sugar and cinnamon for a delighful crunch.",
+  "chefs": [
+    "Nitra Ladies Auxiliary"
+  ],
+  "image": "https://images.kosher.com/details.slide/n/o/noodle_cheese_kugel-7_H.jpg",
+  "extra_images": [],
+  "published": "2018-01-03T20:23:20",
+  "modified": "2018-01-03T14:08:11",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 30,
+    "total_minutes": 90
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Dairy",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Dairy",
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "The Heimishe Kitchen (Nitra Cookbook)"
+  ],
+  "tags": [
+    "cheese",
+    "kugels",
+    "milchig kugel",
+    "milchig lukshen kugel",
+    "milchig noodle kugel",
+    "noodle kugel",
+    "noodle pudding",
+    "sweet kugel"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "4",
+          "item": "eggs, slightly beaten",
+          "text": "4 eggs, slightly beaten"
+        },
+        {
+          "amount": "1 cup",
+          "item": "sugar",
+          "text": "1 cup sugar"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "vanilla sugar",
+          "text": "1 tablespoon vanilla sugar"
+        },
+        {
+          "amount": "1 cup",
+          "item": "milk",
+          "text": "1 cup milk"
+        },
+        {
+          "amount": "1/2 pint",
+          "item": "sour cream",
+          "text": "1/2 pint sour cream"
+        },
+        {
+          "amount": "12 ounces",
+          "item": "medium egg noodles, cooked and drained",
+          "text": "12 ounces medium egg noodles, cooked and drained"
+        },
+        {
+          "amount": "1 pound",
+          "item": "farmer cheese",
+          "text": "1 pound farmer cheese"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Gefen Cornflake Crumbs",
+          "text": "1 cup Gefen Cornflake Crumbs"
+        },
+        {
+          "amount": null,
+          "item": "sugar and cinnamon",
+          "text": "sugar and cinnamon"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Kugel",
+      "steps": [
+        "Combine eggs, sugar, vanilla sugar, milk, and sour cream.",
+        "Add noodles and farmer cheese. Mix well.",
+        "Pour into greased 9 x 13 inch pan. Sprinkle with cornflake crumbs and/or sugar and cinnamon.",
+        "Bake at 350 degrees for one hour."
+      ]
+    }
+  ],
+  "tips": "Description:\nStyling and Photography by Faigy Feldman",
+  "wine_pairing": [],
+  "video": null
+}

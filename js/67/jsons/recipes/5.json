@@ -1,0 +1,118 @@
+{
+  "id": 5,
+  "source_id": 59102,
+  "name": "Pickled Brisket with Tangy Pineapple Sauce",
+  "slug": "pickled-brisket-with-tangy-pineapple-sauce-3585",
+  "url": "https://www.kosher.com/recipe/pickled-brisket-with-tangy-pineapple-sauce-3585/",
+  "description": "Cooking the brisket in pineapple juice tenderizes the meat, making it soft and tender. If making ahead, reheat the meat fully covered by the gravy, in a 275 degree Fahrenheit oven for about half an hour.",
+  "chefs": [
+    "Estee Kafra"
+  ],
+  "image": "https://images.kosher.com/details.slide/p/h/photo_1_edit_3.jpg",
+  "extra_images": [],
+  "published": "2016-09-23T03:31:56",
+  "modified": "2022-08-23T01:37:23",
+  "cook_time": {
+    "hours": 5,
+    "minutes": 0,
+    "total_minutes": 300
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Soy"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "brisket",
+    "Estee Kafra",
+    "fruity meat",
+    "holiday",
+    "honey",
+    "meat",
+    "special occasion",
+    "yom tov",
+    "yom tov meats"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": null,
+          "item": "pickled brisket, any desired size",
+          "text": "pickled brisket, any desired size"
+        },
+        {
+          "amount": null,
+          "item": "pineapple juice, enough to cover the brisket in the pot",
+          "text": "pineapple juice, enough to cover the brisket in the pot"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "duck sauce",
+          "text": "1/2 cup duck sauce"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "mustard",
+          "text": "1/4 cup mustard"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "honey",
+          "text": "1 tablespoon honey"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "soy sauce",
+          "text": "2 teaspoons soy sauce"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "dark raisins (optional, but recommended)",
+          "text": "1/2 cup dark raisins (optional, but recommended)"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "cornstarch, dissolved in 1 tablespoon cold water",
+          "text": "2 teaspoons cornstarch, dissolved in 1 tablespoon cold water"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Roast the Meat",
+      "steps": [
+        "Preheat oven to 300 degrees Fahrenheit",
+        "Place the brisket (after it's rinsed off) in a Dutch oven or pyrex dish, and cover completely with pineapple juice (the kind from concentrate is fine). Cover tightly and place in oven for two and a half hours.",
+        "Remove from oven and let cool. Slice the meat against the grain."
+      ]
+    },
+    {
+      "title": "For the Sauce",
+      "steps": [
+        "Place three cups of the cooking liquid into a pot (discard any remaining liquid) and add remaining ingredients, except cornstarch. Let simmer over medium-low heat until reduced, and ingredients are fully combined, about 15 minutes. Add the dissolved cornstarch and mix well to incorporate. Cook about five more minutes until sauce begins to thicken (it will thicken more as it cools).",
+        "Pour sauce over sliced meat and freeze, or reheat for half an hour before serving. Garnish with chopped parsley."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

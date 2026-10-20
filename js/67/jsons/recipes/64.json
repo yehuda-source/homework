@@ -1,0 +1,177 @@
+{
+  "id": 64,
+  "source_id": 55209,
+  "name": "Oven-Roasted Beef Brisket",
+  "slug": "oven-roasted-beef-brisket-2497",
+  "url": "https://www.kosher.com/recipe/oven-roasted-beef-brisket-2497/",
+  "description": "In Eastern Europe, most of the cattle in the region was raised for the dairy industry and not slaughtered until very mature and, therefore, much of the meat was tough. To further complicate the situation, beginning in the seventeenth century the authorities in many parts of Eastern Europe imposed a korobka (steep tax) on kosher meat. As a result, Eastern European Jews could rarely buy meat, particularly the more tender cuts. Instead, they made do with the tough, sinewy cuts from the lower part of a cow.\nBrisket, a cut with a lot of connective tissue and a very grainy texture, is the meat covering the breastbone. Below the arm lies the chuck short ribs called flanken. Eastern European Jews discovered that these tougher and cheaper cuts could actually be very flavorful. The trick lies in tenderizing the meat by slowly simmering it in water, a process that breaks down the connective tissue by converting the collagen to gelatin.\nCheck out our complete collection of Rosh Hashanah recipes for mains, sides, soups, desserts, and more inspiration for the holiday.",
+  "chefs": [
+    "Gil Marks"
+  ],
+  "image": "https://images.kosher.com/details.slide/o/v/oven-roasted_beef_brisket_shutterstock_688284883_copy_2.jpg",
+  "extra_images": [],
+  "published": "2018-05-30T09:01:00",
+  "modified": "2020-09-02T08:35:10",
+  "cook_time": {
+    "hours": 3,
+    "minutes": 45,
+    "total_minutes": 225
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Rosh Hashanah"
+  ],
+  "sources": [
+    "OU Kosher"
+  ],
+  "tags": [
+    "ashkenazi food",
+    "beef",
+    "brisket",
+    "carrots",
+    "celery",
+    "chicken",
+    "garlic",
+    "gluten free",
+    "gravy",
+    "Jewish Holiday",
+    "low and slow",
+    "meat",
+    "potatoes",
+    "roasted",
+    "Rosh Hashana",
+    "Rosh Hashannah",
+    "slow cooked",
+    "special occasion",
+    "thick gravy",
+    "traditional",
+    "vegetables",
+    "yom tov meats"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "For the Brisket",
+      "ingredients": [
+        {
+          "amount": "1 (3 to 5 pound)",
+          "item": "first-cut beef brisket",
+          "text": "1 (3 to 5 pound) first-cut beef brisket"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper, to taste",
+          "text": "pepper, to taste"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "dry mustard (optional)",
+          "text": "1 teaspoon dry mustard (optional)"
+        },
+        {
+          "amount": "3 to 4 large",
+          "item": "onions, sliced",
+          "text": "3 to 4 large onions, sliced"
+        },
+        {
+          "amount": "2 cups",
+          "item": "beef broth, chicken broth, or water (or 1 cup broth and 1 cup Alfasi Cabernet Sauvignon or other dry red or white wine)",
+          "text": "2 cups beef broth, chicken broth, or water (or 1 cup broth and 1 cup Alfasi Cabernet Sauvignon or other dry red or white wine)"
+        },
+        {
+          "amount": "3",
+          "item": "carrots, cut into chunks",
+          "text": "3 carrots, cut into chunks"
+        },
+        {
+          "amount": "3 to 5",
+          "item": "Mr. Dipz Peeled Garlic or other whole cloves garlic",
+          "text": "3 to 5 Mr. Dipz Peeled Garlic or other whole cloves garlic"
+        },
+        {
+          "amount": "2 to 3 stalks",
+          "item": "celery, sliced (optional)",
+          "text": "2 to 3 stalks celery, sliced (optional)"
+        },
+        {
+          "amount": "8 to 10 small",
+          "item": "new potatoes (optional)",
+          "text": "8 to 10 small new potatoes (optional)"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "fresh or 1 teaspoon dried thyme or 1 teaspoon fresh or 1/2 teaspoon dried rosemary (optional)",
+          "text": "1 tablespoon fresh or 1 teaspoon dried thyme or 1 teaspoon fresh or 1/2 teaspoon dried rosemary (optional)"
+        },
+        {
+          "amount": "1",
+          "item": "bay leaf",
+          "text": "1 bay leaf"
+        }
+      ]
+    },
+    {
+      "title": "For the Gravy",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "cold water",
+          "text": "1 cup cold water"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Cornstarch",
+          "text": "2 tablespoons Gefen Cornstarch"
+        },
+        {
+          "amount": null,
+          "item": "cooking liquid",
+          "text": "cooking liquid"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Brisket",
+      "steps": [
+        "Preheat the oven to 350 degrees Fahrenheit (175 degrees Celsius).",
+        "Rub both sides of the meat with salt, pepper, and if desired, mustard.",
+        "Spread half of the onions over bottom of a shallow roasting pan. Place the brisket, fat-side up, in the pan and top with the remaining onions. Add a quarter cup broth. Bake, uncovered and basting occasionally, until the meat and onions begin to brown (about one hour).",
+        "Add the remaining broth and remaining ingredients. (Liquid should never reach more than halfway up the side of the meat.) Cover, reduce the heat to 300 degrees Fahrenheit (150 degrees Celsius) or place over a low flame, and cook until meat is fork-tender and thickest part of the brisket registers about 175 degrees Fahrenheit (80 degrees Celsius) on a meat thermometer (two to three hours—allow about one hour total cooking time per pound).",
+        "Cover the brisket loosely with foil and let stand 20 minutes before carving. (Brisket may be prepared up to two days ahead and reheated.)",
+        "Slice the brisket diagonally against the grain about 1/8-inch thick. If desired, serve with horseradish sauce or whole-grain mustard."
+      ]
+    },
+    {
+      "title": "Prepare the Gravy",
+      "steps": [
+        "Blend the water and cornstarch. Stir into the cooking liquid and cook over a medium-low heat, stirring constantly, until thickened."
+      ]
+    }
+  ],
+  "tips": "Variations:\nFoil-Wrapped Brisket: Seal the brisket and seasonings in layers of heavy-duty aluminum foil, place on a baking sheet or in a large roasting pan, and roast in a 300-degree oven for six to seven hours. Let stand about 30 minutes before opening and slicing.\nBrisket Tzimmes: Add 1 pound pitted prunes, 4 large peeled and quartered sweet potatoes, 3 carrots cut into chunks, 1/4 cup granulated or brown sugar, and 2–3 tablespoons lemon juice.\nBrisket with Cabbage: About 20 minutes before the brisket is done, add 1 medium head green cabbage cut into 10 pieces.\nBrisket with Fennel: About 20 minutes before the brisket is done, add 1 quartered bulb fresh fennel.\nDescription:\nYields 6–10 servings\nVariations:\nBrisket with Mustard Sauce: Add 2 tablespoons Dijon-style mustard.\nBrisket with Lemon-Horseradish Sauce: Stir 1/3 cup prepared white horseradish, 1 tablespoon lemon juice, 1/2 teaspoon grated lemon zest, and salt and pepper to taste into the gravy and simmer for two more minutes.\nDescription:\nYields 1 cup gravy",
+  "wine_pairing": [],
+  "video": null
+}

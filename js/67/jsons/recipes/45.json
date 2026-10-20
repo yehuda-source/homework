@@ -1,0 +1,117 @@
+{
+  "id": 45,
+  "source_id": 56137,
+  "name": "Sweet and Sour Tongue",
+  "slug": "sweet-and-sour-tongue-recipe-2793",
+  "url": "https://www.kosher.com/recipe/sweet-and-sour-tongue-recipe-2793/",
+  "description": "Check out our complete collection of Rosh Hashanah recipes for mains, sides, soups, desserts, and more inspiration for the holiday.",
+  "chefs": [
+    "Nitra Ladies Auxiliary"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/w/SWEET_AND_SOUR_TONGUE_H.jpg",
+  "extra_images": [],
+  "published": "2017-09-04T09:50:27",
+  "modified": "2020-08-13T00:07:05",
+  "cook_time": {
+    "hours": 6,
+    "minutes": 0,
+    "total_minutes": 360
+  },
+  "servings": "12",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah",
+    "Sukkot"
+  ],
+  "sources": [
+    "The Heimishe Kitchen (Nitra Cookbook)"
+  ],
+  "tags": [
+    "classic Jewish foods",
+    "holiday",
+    "meat",
+    "Rosh Hashana",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "Rosh Hashannah",
+    "roshhashana",
+    "special occasion",
+    "Succos",
+    "Succot",
+    "Sukkos",
+    "sweet 'n sour",
+    "sweet and sour",
+    "tongue",
+    "traditional",
+    "yom tov meats"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Tongue",
+      "ingredients": [
+        {
+          "amount": "3 pounds",
+          "item": "unpickled tongue",
+          "text": "3 pounds unpickled tongue"
+        }
+      ]
+    },
+    {
+      "title": "Sauce",
+      "ingredients": [
+        {
+          "amount": "16 ounces",
+          "item": "Gefen Tomato Sauce",
+          "text": "16 ounces Gefen Tomato Sauce"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "brown sugar",
+          "text": "1/2 cup brown sugar"
+        },
+        {
+          "amount": "1/4 pound",
+          "item": "raisins",
+          "text": "1/4 pound raisins"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "water",
+          "text": "1 and 1/2 cups water"
+        },
+        {
+          "amount": "1/4 pound",
+          "item": "dried apricots",
+          "text": "1/4 pound dried apricots"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Tongue",
+      "steps": [
+        "Place tongue in a heavy skillet. Add water to cover and cook for three hours. Cool thoroughly and peel off skin. Slice thinly and place into a six-quart pot.",
+        "Combine remaining ingredients an a three-quart pot and bring to a boil.",
+        "Pour over sliced tongue. Simmer for 45 minutes over low heat or reheat in oven at 375 degrees Fahrenheit for one hour."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [
+    "Vitkin Pinot Noir"
+  ],
+  "video": null
+}

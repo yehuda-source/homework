@@ -1,0 +1,104 @@
+{
+  "id": 95,
+  "source_id": 80487,
+  "name": "Blondies",
+  "slug": "blondies-9380",
+  "url": "https://www.kosher.com/recipe/blondies-9380/",
+  "description": "Submitted by Robin Stern\nI have been making these blondies it seems forever. This is our family's go to dessert when we need something delicious but quick and easy.",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/b/l/Blondies_crop.jpg",
+  "extra_images": [],
+  "published": "2020-06-17T06:09:51",
+  "modified": "2020-06-16T23:43:01",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 40,
+    "total_minutes": 40
+  },
+  "servings": "10",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "blondies",
+    "brownies",
+    "easy desserts",
+    "Robin Stern",
+    "simple dessert"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 and 3/4 cups",
+          "item": "flour",
+          "text": "2 and 3/4 cups flour"
+        },
+        {
+          "amount": "2 and 1/2 tsp",
+          "item": "baking powder",
+          "text": "2 and 1/2 tsp baking powder"
+        },
+        {
+          "amount": "1/2 tsp",
+          "item": "salt",
+          "text": "1/2 tsp salt"
+        },
+        {
+          "amount": "2/3 cup",
+          "item": "margarine",
+          "text": "2/3 cup margarine"
+        },
+        {
+          "amount": "2 and 1/4 cups",
+          "item": "dark brown sugar",
+          "text": "2 and 1/4 cups dark brown sugar"
+        },
+        {
+          "amount": "3",
+          "item": "eggs",
+          "text": "3 eggs"
+        },
+        {
+          "amount": "1 package",
+          "item": "chocolate chips",
+          "text": "1 package chocolate chips"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Blondies",
+      "steps": [
+        "Sift together flour, baking powder and salt in bowl and set aside.",
+        "Melt margarine and add brown sugar. Stir until well mixed and let cool.",
+        "Add eggs, beating well after each addition. Mix in dry ingredients and chocolate chips.",
+        "Pour into a greased 9 x 13 pan and bake 22-23 minutes on 350 degrees Fahrenheit."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

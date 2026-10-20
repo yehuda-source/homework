@@ -1,0 +1,136 @@
+{
+  "id": 80,
+  "source_id": 74700,
+  "name": "Oatmeal Muffin Pops",
+  "slug": "oatmeal-muffin-pops-7604",
+  "url": "https://www.kosher.com/recipe/oatmeal-muffin-pops-7604/",
+  "description": "These dense muffins are filling and nutritious. I like to make them more fun and turn them into muffin lollipops. Kids just love anything that comes on a stick. I convince my picky toddler to eat chicken if I hold the fork upwards and tell him its lollipop chicken. He’s usually convinced. Whatever works!",
+  "chefs": [
+    "Nechama Norman"
+  ],
+  "image": "https://images.kosher.com/details.slide/o/a/Oatmeal-Muffin-Pops-W.jpg",
+  "extra_images": [],
+  "published": "2019-09-17T07:49:00",
+  "modified": "2019-09-17T11:15:06",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 40,
+    "total_minutes": 40
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Snacks"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Low Fat",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "back to school",
+    "children",
+    "chocolate chips",
+    "cute",
+    "healthy",
+    "kid-friendly",
+    "kids",
+    "low sugar",
+    "mini",
+    "muffins",
+    "oatmeal bars",
+    "pops",
+    "quick-and-easy",
+    "super easy",
+    "whole wheat"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 cups",
+          "item": "100% whole wheat flour such as Shibolim Extra Fine Whole Wheat Flour",
+          "text": "2 cups 100% whole wheat flour such as Shibolim Extra Fine Whole Wheat Flour"
+        },
+        {
+          "amount": "2 cups",
+          "item": "oats",
+          "text": "2 cups oats"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "granulated brown sugar",
+          "text": "1/2 cup granulated brown sugar"
+        },
+        {
+          "amount": "2",
+          "item": "eggs",
+          "text": "2 eggs"
+        },
+        {
+          "amount": "2/3 cup",
+          "item": "oil",
+          "text": "2/3 cup oil"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Haddar Applesauce",
+          "text": "1 cup Haddar Applesauce"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cinnamon",
+          "text": "1 teaspoon cinnamon"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "baking soda",
+          "text": "1 teaspoon baking soda"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Glicks Chocolate or white chocolate chips",
+          "text": "1/2 cup Glicks Chocolate or white chocolate chips"
+        }
+      ]
+    },
+    {
+      "title": "For Assembly",
+      "ingredients": [
+        {
+          "amount": "1 to 2 ounces",
+          "item": "baking chocolate",
+          "text": "1 to 2 ounces baking chocolate"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Muffins Pops",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit. Grease a mini muffin pan.",
+        "In a large bowl, combine all ingredients. The mixture will be thick, like cookie dough. Roll into balls and place in prepared muffin pan. Bake for 15 to 20 minutes.",
+        "To assemble pops, melt chocolate. As soon as the mini muffins come out of the oven, dip lollipop sticks into melted chocolate and stick into balls. Let cool."
+      ]
+    }
+  ],
+  "tips": "Tips:\nFor perfect and uniform cookies/muffins use an ice cream scooper to scoop dough into cupcake tins.\nDescription:\nYields 24 mini muffin pops",
+  "wine_pairing": [],
+  "video": null
+}

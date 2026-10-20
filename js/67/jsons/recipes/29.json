@@ -1,0 +1,119 @@
+{
+  "id": 29,
+  "source_id": 49852,
+  "name": "Flavory Frittata",
+  "slug": "flavory-frittata-1154",
+  "url": "https://www.kosher.com/recipe/flavory-frittata-1154/",
+  "description": "A frittata is a dish of Spanish origin that is also made in Italy. It is similar to an omelet, but I always think of it as a “stovetop crustless quiche” because, unlike an omelet in which the eggs are cooked and then wrapped around a filling, in a frittata all of the ingredients get mixed into one delicious dish. It’s perfect for a dorm room because it can serve as few or as many people as you need, depending on what you add to it.",
+  "chefs": [
+    "Joy Devor"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/l/Flavory_Frittata_2_shutterstock_150385883.jpg",
+  "extra_images": [],
+  "published": "2017-03-21T09:11:50",
+  "modified": "2017-12-26T23:44:55",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "4",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [
+    "Egg"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Nine Days",
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "breakfast",
+    "color",
+    "eggs",
+    "flavor",
+    "frittata",
+    "gluten free",
+    "healthy",
+    "kitchen tips and techniques",
+    "variations"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "large onion, diced",
+          "text": "1 large onion, diced"
+        },
+        {
+          "amount": "1 clove",
+          "item": "garlic, chopped or 1 cube Gefen Frozen Garlic",
+          "text": "1 clove garlic, chopped or 1 cube Gefen Frozen Garlic"
+        },
+        {
+          "amount": "2",
+          "item": "Idaho potatoes",
+          "text": "2 Idaho potatoes"
+        },
+        {
+          "amount": "1",
+          "item": "box sliced mushrooms",
+          "text": "1 box sliced mushrooms"
+        },
+        {
+          "amount": "9",
+          "item": "eggs",
+          "text": "9 eggs"
+        }
+      ]
+    },
+    {
+      "title": "Optional add-ins",
+      "ingredients": [
+        {
+          "amount": null,
+          "item": "red bell pepper, green bell pepper, fresh or drained frozen spinach, fresh or drained frozen broccoli, sliced zucchini, mozzarella cheese.",
+          "text": "red bell pepper, green bell pepper, fresh or drained frozen spinach, fresh or drained frozen broccoli, sliced zucchini, mozzarella cheese."
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "To Parboil the Potatoes",
+      "steps": [
+        "Do not peel the potatoes; bring them to a boil in a pot of water for 10 minutes, until you can pierce them with a fork — but they should not be mushy.",
+        "Let cool, peel, and dice. You can do this the day before (or before you go to class)."
+      ]
+    },
+    {
+      "title": "Make the Frittata",
+      "steps": [
+        "In a large frying pan, sauté the onions in a generous amount of olive oil (coat the bottom of your pan). Add salt and pepper to taste; when the onions are a golden brown, add diced potatoes and sliced mushrooms. Salt and pepper it again to taste. This is where you’ll add any of your add-ins. Red pepper is good for color and broccoli is especially delicious here. If you’re adding cheese, wait and add it to the eggs.",
+        "Beat the eggs and add a dash of salt and pepper to them. If this is a dairy meal, you can add up to a half cup milk or cream to improve texture. If you are adding cheese to the eggs, you’ll need less salt.",
+        "Add eggs to pan and stir. Cover pan and put on a low flame for 20 minutes until eggs set.\nIt forms a nice crust on top and (hopefully) it should slide out if you turn it upside down.\nServe with a dollop of sour cream, if desired. Or sauté some more onions and mushrooms and use that as a garnish."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

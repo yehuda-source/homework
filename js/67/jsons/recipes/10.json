@@ -1,0 +1,121 @@
+{
+  "id": 10,
+  "source_id": 46956,
+  "name": "Dairy Free Scalloped Potatoes",
+  "slug": "scalloped-potatoes-448",
+  "url": "https://www.kosher.com/recipe/scalloped-potatoes-448/",
+  "description": "**Updated and improved recipe**\nWhen I asked a friend what she’d like to see in the magazine for a side dish, she said, “Why not do scalloped potatoes? It’s different and delicious, especially if you have a good recipe.” I hope you all agree that this has those qualifications!",
+  "chefs": [
+    "Brynie Greisman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_191_Greisman_Scalloped_Potatoes.photo_Lailah.styling_Leibowitz.jpg",
+  "extra_images": [],
+  "published": "2016-12-13T08:44:59",
+  "modified": "2021-05-27T20:58:53",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 0,
+    "total_minutes": 120
+  },
+  "servings": "12",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Egg"
+  ],
+  "diets": [
+    "Gluten Free",
+    "No Refined Sugar",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover",
+    "Shabbat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "filling",
+    "gluten free",
+    "Pesach",
+    "potatoes",
+    "savory sides"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 tablespoons (1 ounce or 25 grams)",
+          "item": "margarine",
+          "text": "2 tablespoons (1 ounce or 25 grams) margarine"
+        },
+        {
+          "amount": "4 tablespoons",
+          "item": "oil",
+          "text": "4 tablespoons oil"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Manischewitz Potato Starch (during the year, use flour)",
+          "text": "1/2 cup Manischewitz Potato Starch (during the year, use flour)"
+        },
+        {
+          "amount": "2",
+          "item": "large onions, chopped",
+          "text": "2 large onions, chopped"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Gefen Light Mayonnaise",
+          "text": "1/2 cup Gefen Light Mayonnaise"
+        },
+        {
+          "amount": "3/4 teaspoon",
+          "item": "salt",
+          "text": "3/4 teaspoon salt"
+        },
+        {
+          "amount": "3 and 1/2 cups",
+          "item": "water",
+          "text": "3 and 1/2 cups water"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "onion soup mix",
+          "text": "2 tablespoons onion soup mix"
+        },
+        {
+          "amount": "5",
+          "item": "large potatoes",
+          "text": "5 large potatoes"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare Scalloped Potatoes",
+      "steps": [
+        "In a medium saucepan over a medium-low flame, heat the margarine and oil until margarine is mostly melted. Add the flour, onions, mayo, salt, water, and onion soup mix. Stir constantly with a whisk until the mixture is smooth and has thickened.",
+        "Preheat the oven to 350 degrees Fahrenheit (180 degrees Celsius).",
+        "Slice the potatoes in a food processor.",
+        "Layer into a 9x13-inch pan as follows: a layer of sauce, a layer of sliced potatoes (try to overlap just minimally), sauce, potatoes, and sauce (five layers altogether).",
+        "Sprinkle the top with paprika and pepper.",
+        "Bake uncovered for about one and a half hours, until the potatoes are crispy.",
+        "If necessary, put under the grill for a few minutes."
+      ]
+    }
+  ],
+  "tips": "Variations:\nUse half white potatoes and half sweet potatoes (see photo). I tried this without margarine and just with oil and it was fine. It’s very creamy from the other ingredients. Also, you can use chicken soup powder instead of the onion soup mix.\nDescription:\nPhotography: Daniel Lailah\nStyling: Michal Leibowitz",
+  "wine_pairing": [],
+  "video": null
+}

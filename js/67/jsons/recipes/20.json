@@ -1,0 +1,118 @@
+{
+  "id": 20,
+  "source_id": 49975,
+  "name": "Zucchini-Tomato Fans",
+  "slug": "zucchini-tomato-fans-1183",
+  "url": "https://www.kosher.com/recipe/zucchini-tomato-fans-1183/",
+  "description": "This recipe is a lot easier to make than it looks. With just a few ingredients, you can create a masterpiece that will delight guests and make your kids want to eat their veggies.",
+  "chefs": [
+    "Joy Devor"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_211_Devor_Zucchini_Tomato_Fans.jpg",
+  "extra_images": [],
+  "published": "2017-02-06T04:15:18",
+  "modified": "2019-01-24T09:00:04",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 35,
+    "total_minutes": 35
+  },
+  "servings": "4",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Low Fat",
+    "No Refined Sugar",
+    "Paleo",
+    "Vegan"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "complex carbs",
+    "gluten free",
+    "kosher for passover",
+    "Pesach",
+    "pretty presentation",
+    "roasted vegetables",
+    "tomatoes",
+    "zucchini"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "4",
+          "item": "small, firm zucchini, about 1 and 1/2 inches (4 cm) in diameter and 6 inches (15 cm) long (1 and 1/4 pounds /570 grams)",
+          "text": "4 small, firm zucchini, about 1 and 1/2 inches (4 cm) in diameter and 6 inches (15 cm) long (1 and 1/4 pounds /570 grams)"
+        },
+        {
+          "amount": "4",
+          "item": "long, narrow plum tomatoes (about 12 oz / 340 grams)",
+          "text": "4 long, narrow plum tomatoes (about 12 oz / 340 grams)"
+        },
+        {
+          "amount": "4",
+          "item": "large cloves garlic, peeled",
+          "text": "4 large cloves garlic, peeled"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "salt",
+          "text": "1 teaspoon salt"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "black pepper",
+          "text": "1/2 teaspoon black pepper"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "each dried basil, oregano, and thyme",
+          "text": "1/4 teaspoon each dried basil, oregano, and thyme"
+        },
+        {
+          "amount": null,
+          "item": "dash of rosemary (optional)",
+          "text": "dash of rosemary (optional)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Bartenura Virgin Olive Oil",
+          "text": "2 tablespoons Bartenura Virgin Olive Oil"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Fans",
+      "steps": [
+        "Preheat oven to 400 degrees Fahrenheit (200 degrees Celsius).",
+        "Cut each tomato lengthwise into four slices and set aside. Trim the stem end of the zucchinis (the bumpy end). You can leave a little on if you like the look. Then, starting at the flower end (the flat end), slit 1/4-inch (.6-cm) slices down each zucchini lengthwise, leaving the slices attached at the stem end so they open into a fan. Each zucchini should have four slits.",
+        "Arrange the zucchini side by side in a roasting pan with enough space so each one can be fanned out (they won’t open very much until they’re baked). Place a slice of tomato in each slit to create a fan with alternating segments of zucchini and tomato.",
+        "Cut each garlic clove lengthwise into eight thin slices, and slide the slices into the fans, one on each side of every tomato slice.",
+        "Mix the salt, pepper, and herbs in a small bowl. Brush the surface of the fans with oil and sprinkle the herb mixture on top.",
+        "Bake for 30 minutes, until the vegetables are soft and the tops of the fans are browned nicely. Using a large spatula, transfer the fans to plates and serve immediately."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

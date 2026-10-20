@@ -1,0 +1,121 @@
+{
+  "id": 28,
+  "source_id": 51725,
+  "name": "My Mother’s Passover Cake",
+  "slug": "my-mothers-passover-cake-1580",
+  "url": "https://www.kosher.com/recipe/my-mothers-passover-cake-1580/",
+  "description": "You need an electric mixer to make this cake but use your processor to grate the chocolate. You will also need two large mixing bowls for this recipe. It's so good, you won’t believe it’s a Passover cake!",
+  "chefs": [
+    "Norene Gilletz"
+  ],
+  "image": "https://images.kosher.com/details.slide/m/y/my_mothers.jpg",
+  "extra_images": [],
+  "published": "2017-03-16T09:34:48",
+  "modified": "2021-04-08T03:02:17",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 0,
+    "total_minutes": 120
+  },
+  "servings": "15",
+  "difficulty": "Medium",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Tree nuts",
+    "Wheat"
+  ],
+  "diets": [
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "cakes",
+    "freezer-friendly",
+    "gebrochts",
+    "gluten free",
+    "ground nuts",
+    "matza meal",
+    "matzah meal",
+    "matzo meal",
+    "nuts",
+    "Pesach",
+    "pesach cake"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3 ounces",
+          "item": "Elite Bittersweet Chocolate bar, chilled",
+          "text": "3 ounces Elite Bittersweet Chocolate bar, chilled"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "almonds (optional)",
+          "text": "1/2 cup almonds (optional)"
+        },
+        {
+          "amount": "9",
+          "item": "eggs, separated",
+          "text": "9 eggs, separated"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "sugar",
+          "text": "1 and 1/2 cups sugar"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "cold water",
+          "text": "1/2 cup cold water"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Manischewitz Potato Starch",
+          "text": "1/2 cup Manischewitz Potato Starch"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Yehuda Matzos Cake Meal",
+          "text": "1/2 cup Yehuda Matzos Cake Meal"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Cake",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit.",
+        "Using the steel blade of a food processor, break chocolate into one-inch chunks. Process until fine, about 30 seconds. Add almonds (if using). Process until almonds are finely chopped, 12 to 15 seconds longer.",
+        "In a large mixing bowl, beat egg yolks with an electric mixer until light, three to four minutes. Add sugar and water and beat on high speed for 8 to 10 minutes. Combine potato starch and cake meal. Sprinkle over yolk mixture a little at a time (a sifter or strainer will help) and fold in carefully. Then fold in grated chocolate and nuts. Wash beaters thoroughly and dry well.",
+        "In another large mixing bowl, beat egg whites with salt until stiff but not dry. Carefully fold into batter. Pour gently into an ungreased 10-inch tube pan. Batter should come to within one and a half inches of the top of the pan. If necessary, make a two-inch collar with foil around top of pan.",
+        "Bake for one hour, then reduce heat to 300 degrees for 15 minutes. Invert immediately and cool completely."
+      ]
+    }
+  ],
+  "tips": "Notes:\nThis recipe freezes well.",
+  "wine_pairing": [],
+  "video": null
+}

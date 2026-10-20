@@ -1,0 +1,125 @@
+{
+  "id": 68,
+  "source_id": 66099,
+  "name": "Product-Free Beef Jerky",
+  "slug": "product-free-beef-jerky-5534",
+  "url": "https://www.kosher.com/recipe/product-free-beef-jerky-5534/",
+  "description": "Beef jerky prepared at home with basic, totally kosher for Passover ingredients.",
+  "chefs": [
+    "Chanie Nayman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_586_Nayman_Product-Free_Beef_Jerky.png",
+  "extra_images": [],
+  "published": "2018-08-02T05:50:00",
+  "modified": "2018-08-02T05:04:10",
+  "cook_time": {
+    "hours": 8,
+    "minutes": 0,
+    "total_minutes": 480
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "beef",
+    "beef jerky",
+    "Chanie Nayman",
+    "ginger",
+    "gluten free",
+    "gluten-free snack",
+    "homemade",
+    "kosher for passover",
+    "london broil",
+    "low and slow",
+    "meat",
+    "meat snack",
+    "overnight",
+    "Pesach",
+    "product free",
+    "savory"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 pound (1/2 kilogram)",
+          "item": "London broil or side steak (ask your butcher to slice it 1/2-inch/ 1-centimeter thick with the grain, not against it)",
+          "text": "1 pound (1/2 kilogram) London broil or side steak (ask your butcher to slice it 1/2-inch/ 1-centimeter thick with the grain, not against it)"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "oil",
+          "text": "3 tablespoons oil"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Alfasi Cabernet Sauvignon or other wine",
+          "text": "1 tablespoon Alfasi Cabernet Sauvignon or other wine"
+        },
+        {
+          "amount": "1/8 teaspoon",
+          "item": "black pepper",
+          "text": "1/8 teaspoon black pepper"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "paprika (see note)",
+          "text": "1 tablespoon paprika (see note)"
+        },
+        {
+          "amount": "1 and 1/2 teaspoons",
+          "item": "salt",
+          "text": "1 and 1/2 teaspoons salt"
+        },
+        {
+          "amount": "1",
+          "item": "shallot, finely chopped",
+          "text": "1 shallot, finely chopped"
+        },
+        {
+          "amount": "1-inch (2-centimeter)",
+          "item": "knob ginger, minced",
+          "text": "1-inch (2-centimeter) knob ginger, minced"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "Gefen Ketchup (or use sugar-free ketchup), see note",
+          "text": "1 tablespoon Gefen Ketchup (or use sugar-free ketchup), see note"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Beef Jerky",
+      "steps": [
+        "Preheat oven to 190 degrees Fahrenheit (90 degrees Celsius).",
+        "Toss all ingredients together in a bowl. Transfer to a lined sheet pan, or two sheet pans if necessary, and arrange in a single row.",
+        "Bake overnight, or for about eight hours. Cool and store in an airtight bag or container. It doesn’t even need to be refrigerated!"
+      ]
+    }
+  ],
+  "tips": "Notes:\nFor homemade ketchup, combine 10 diced plum tomatoes, a third cup sugar, a quarter cup wine, one diced onion, and two teaspoons salt in a saucepan. Cook over a low heat until reduced and thickened. For paprika, slice a red pepper into strips. Roast in the oven at 190°F (90°C) for about two to three hours, or until dried out. Grind finely in a food processor or coffee grinder. (One pepper yields about three tablespoons paprika.)\nDescription:\nPhotography: Hudi Greenberger\nFood Styling: Janine Kalesis\nAssisted by Simmy Horwitz",
+  "wine_pairing": [],
+  "video": null
+}

@@ -1,0 +1,212 @@
+{
+  "id": 61,
+  "source_id": 64307,
+  "name": "Braised Short Ribs with Glazed Carrots and Crispy Shallots",
+  "slug": "braised-short-ribs-with-glazed-carrots-and-crispy-shallots-5073",
+  "url": "https://www.kosher.com/recipe/braised-short-ribs-with-glazed-carrots-and-crispy-shallots-5073/",
+  "description": "These delectable Braised Short Ribs will be the super-star of your holiday meal.",
+  "chefs": [
+    "Kiki Fisher"
+  ],
+  "image": "https://images.kosher.com/details.slide/b/r/Braised_Short_Ribs_with_glazed_carrots_and_crispy_shallots.jpg",
+  "extra_images": [],
+  "published": "2018-03-21T09:53:57",
+  "modified": "2021-07-01T07:08:03",
+  "cook_time": {
+    "hours": 3,
+    "minutes": 30,
+    "total_minutes": 210
+  },
+  "servings": "6",
+  "difficulty": "Hard",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "beef",
+    "carrots",
+    "glazed carrots",
+    "glazed vegetables",
+    "holiday meals",
+    "kosher for passover",
+    "meat",
+    "onions",
+    "Pesach",
+    "shallots",
+    "short ribs",
+    "sweet",
+    "yom tov",
+    "yom tov meats"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Braised Short Ribs",
+      "ingredients": [
+        {
+          "amount": "6",
+          "item": "bone-in short ribs (about 5 and 3/4 pounds)",
+          "text": "6 bone-in short ribs (about 5 and 3/4 pounds)"
+        },
+        {
+          "amount": null,
+          "item": "kosher salt",
+          "text": "kosher salt"
+        },
+        {
+          "amount": null,
+          "item": "Bartenura Extra-Virgin Olive Oil",
+          "text": "Bartenura Extra-Virgin Olive Oil"
+        },
+        {
+          "amount": "1",
+          "item": "large Spanish onion, diced",
+          "text": "1 large Spanish onion, diced"
+        },
+        {
+          "amount": "2",
+          "item": "cloves garlic, smashed",
+          "text": "2 cloves garlic, smashed"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Gefen Tomato Paste",
+          "text": "1/2 cup Gefen Tomato Paste"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Tabor Adama Merlot or other hearty red wine",
+          "text": "1 cup Tabor Adama Merlot or other hearty red wine"
+        },
+        {
+          "amount": "2 cups",
+          "item": "Manischewitz Chicken Broth or other chicken stock",
+          "text": "2 cups Manischewitz Chicken Broth or other chicken stock"
+        },
+        {
+          "amount": "1 bunch",
+          "item": "fresh thyme, tied with kitchen string (optional)",
+          "text": "1 bunch fresh thyme, tied with kitchen string (optional)"
+        },
+        {
+          "amount": "2",
+          "item": "bay leaves",
+          "text": "2 bay leaves"
+        }
+      ]
+    },
+    {
+      "title": "Glazed Carrots",
+      "ingredients": [
+        {
+          "amount": "9",
+          "item": "carrots (1 and 1/2 pounds), quartered and cut into 2-inch lengths",
+          "text": "9 carrots (1 and 1/2 pounds), quartered and cut into 2-inch lengths"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "sugar",
+          "text": "1 tablespoon sugar"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "margarine or oil",
+          "text": "2 tablespoons margarine or oil"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        },
+        {
+          "amount": null,
+          "item": "pepper to taste",
+          "text": "pepper to taste"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "water",
+          "text": "1/2 cup water"
+        }
+      ]
+    },
+    {
+      "title": "Fried shallots",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "Gefen Potato Starch",
+          "text": "1 cup Gefen Potato Starch"
+        },
+        {
+          "amount": null,
+          "item": "salt to taste",
+          "text": "salt to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper to taste",
+          "text": "pepper to taste"
+        },
+        {
+          "amount": "3",
+          "item": "shallots, sliced in rounds",
+          "text": "3 shallots, sliced in rounds"
+        },
+        {
+          "amount": null,
+          "item": "oil, for frying",
+          "text": "oil, for frying"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Braised Short Ribs",
+      "steps": [
+        "Season each short rib generously with salt.",
+        "Heat a pan over high heat. Coat with olive oil. Add short ribs to pan to brown, about two to three minutes per side. Do not overcrowd pan (cook in batches if necessary).",
+        "Preheat the oven to 375 degrees Fahrenheit.",
+        "While the short ribs are browning, puree the onion and garlic in the food processor until they form a coarse paste.",
+        "When short ribs are very brown on all sides, remove from the pan. Drain oil.",
+        "Coat bottom of same pan with fresh olive oil and place over medium heat. Add pureed vegetables. Season generously with salt and cook until they are very dark on the bottom of the pan, approximately five to seven minutes. Add tomato paste. Brown the tomato paste for four to five minutes. Add wine and scrape the bottom of the pan. Lower heat and let simmer until mixture is reduced by half.",
+        "Return short ribs to the pan and add two cups chicken stock (or enough to just cover the meat). Add thyme and bay leaves. Cover pan and place in oven for three hours. (Check periodically during the cooking process and add more stock if needed.) Halfway through the cooking time, turn ribs over.",
+        "Remove the lid during the last 20 minutes of cooking to let meat get nice and brown and to let sauce reduce. When ready, the meat should be very tender but not falling apart. Serve with braising liquid."
+      ]
+    },
+    {
+      "title": "Glazed Carrots",
+      "steps": [
+        "In a skillet, combine carrots, sugar, 1/2 cup water, margarine, and salt. Bring to a boil over high heat. Reduce heat and simmer, partly covered, for six minutes.",
+        "Uncover and raise heat. Cook, tossing often, for an additional three to four minutes, until carrots are tender. Season with pepper."
+      ]
+    },
+    {
+      "title": "Fried Shallots",
+      "steps": [
+        "Combine potato starch, salt, and pepper in a Ziploc bag. Add shallot rings and toss until shallots are coated well.",
+        "Heat oil in a frying pan. When oil is hot, add rings and fry until slightly browned, about two minutes per side. Place on paper towels to drain. Use as a garnish over short ribs."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [
+    "Hagafen Cabernet Franc"
+  ],
+  "video": null
+}

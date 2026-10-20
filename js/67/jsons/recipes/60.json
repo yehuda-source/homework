@@ -1,0 +1,148 @@
+{
+  "id": 60,
+  "source_id": 64225,
+  "name": "Savory Sautéed Veggie Kugel",
+  "slug": "savory-sauteed-veggie-kugel-5051",
+  "url": "https://www.kosher.com/recipe/savory-sauteed-veggie-kugel-5051/",
+  "description": "Most people think of kugels as being slightly sweet with egg noodles, cinnamon and lots of dairy. While that is one tasty preparation, there are certainly others! This one packs in lots of veggies and is perfect for a side dish, yet hearty enough for a meal. Take your pick!",
+  "chefs": [
+    "Jennifer Robins"
+  ],
+  "image": "https://images.kosher.com/details.slide/v/e/Veggie_Kugel1.jpg",
+  "extra_images": [],
+  "published": "2018-03-15T11:10:12",
+  "modified": "2019-07-14T00:02:05",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 0,
+    "total_minutes": 120
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Egg",
+    "Tree nuts"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Low Fat",
+    "No Refined Sugar",
+    "Paleo"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [],
+  "tags": [
+    "courgettes",
+    "kosher for passover kugels",
+    "kugel",
+    "kugels",
+    "Pesach",
+    "sauteed veggies",
+    "The New Yiddish Kitchen",
+    "traditional",
+    "twists on tradition",
+    "vegetable kugel",
+    "with a twist",
+    "zucchini",
+    "zucchinis"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 tablespoons",
+          "item": "Bartenura Olive Oil",
+          "text": "2 tablespoons Bartenura Olive Oil"
+        },
+        {
+          "amount": "1",
+          "item": "zucchini, shredded or julienned",
+          "text": "1 zucchini, shredded or julienned"
+        },
+        {
+          "amount": "1 large",
+          "item": "sweet potato, shredded or julienned",
+          "text": "1 large sweet potato, shredded or julienned"
+        },
+        {
+          "amount": "3",
+          "item": "rainbow carrots, shredded",
+          "text": "3 rainbow carrots, shredded"
+        },
+        {
+          "amount": "1",
+          "item": "onion, diced",
+          "text": "1 onion, diced"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Tuscanini Sea Salt",
+          "text": "1 teaspoon Tuscanini Sea Salt"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "garlic powder",
+          "text": "1/2 teaspoon garlic powder"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "onion powder",
+          "text": "1/2 teaspoon onion powder"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "ground black pepper",
+          "text": "1/2 teaspoon ground black pepper"
+        },
+        {
+          "amount": "3",
+          "item": "eggs",
+          "text": "3 eggs"
+        },
+        {
+          "amount": "1 cup",
+          "item": "baby spinach, chopped",
+          "text": "1 cup baby spinach, chopped"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "fresh or dried chives, minced",
+          "text": "1 tablespoon fresh or dried chives, minced"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "Gefen Almond Flour",
+          "text": "3 tablespoons Gefen Almond Flour"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Kugel",
+      "steps": [
+        "Preheat the oven to 350 degrees. In a large skillet over medium-high heat, drizzle the olive oil. Add the zucchini, sweet potato, carrots, onion, salt, garlic powder, onion powder and black pepper to the skillet.",
+        "Sauté the ingredients on medium-high for 10–15 minutes, shifting the vegetables regularly so that they do not burn. You want them to soften and for any excess moisture to evaporate prior to baking. Turn the heat to high if there is residual liquid in the pan. After the vegetables are cooked and starting to brown slightly, remove them from heat, allowing them to cool for a few minutes so that they do not cook the eggs.",
+        "Once slightly cooled, add the eggs one at a time and stir into the vegetable mixture. Then add the spinach, chives and almond flour. Once combined thoroughly, pour mixture into a greased, eight- by six-inch dish. You may use a larger casserole dish, but you’ll need to adjust baking time accordingly.",
+        "Now bake the mixture, uncovered for around 45 minutes, or until the center is set. If you choose to use a larger casserole dish, you may need less baking time. Allow the kugel to cool slightly before slicing into squares and serving."
+      ]
+    }
+  ],
+  "tips": "Tips:\nBubbe’s tip: Have another favorite veggie? Let your hair down, why not?! Add in a variety of other plants to customize your kugel. I won’t tell anyone, you rule-breaker!\nDescription:\nReprinted with permission from The New Yiddish Kitchen (Page Street Publishing).",
+  "wine_pairing": [],
+  "video": null
+}

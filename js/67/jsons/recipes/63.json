@@ -1,0 +1,142 @@
+{
+  "id": 63,
+  "source_id": 65418,
+  "name": "Chocolate-Halva Cigars",
+  "slug": "chocolate-halva-cigars-5377",
+  "url": "https://www.kosher.com/recipe/chocolate-halva-cigars-5377/",
+  "description": "A hint of the exotic paired with chocolate yields a dainty yet different dessert.",
+  "chefs": [
+    "Tzippi Halpren"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_573_Halpren_Chocolate-Halva_Cigars.jpg",
+  "extra_images": [],
+  "published": "2018-05-14T23:52:40",
+  "modified": "2021-04-13T05:41:00",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 40,
+    "total_minutes": 40
+  },
+  "servings": "12",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Gluten",
+    "Sesame",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Purim"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "chocolate",
+    "dainty",
+    "exotic",
+    "halva",
+    "non-dairy desserts",
+    "parve"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Dough",
+      "ingredients": [
+        {
+          "amount": "3 cups",
+          "item": "flour (I used whole wheat pastry)",
+          "text": "3 cups flour (I used whole wheat pastry)"
+        },
+        {
+          "amount": "2/3 cup",
+          "item": "boiling water",
+          "text": "2/3 cup boiling water"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "cold-pressed coconut oil",
+          "text": "1/2 cup cold-pressed coconut oil"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "vinegar",
+          "text": "1 teaspoon vinegar"
+        }
+      ]
+    },
+    {
+      "title": "Filling",
+      "ingredients": [
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "vanilla-flavored halva, such as Haddar Baracke Vanilla Halva",
+          "text": "7 ounces (200 grams) vanilla-flavored halva, such as Haddar Baracke Vanilla Halva"
+        },
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "dark chocolate",
+          "text": "7 ounces (200 grams) dark chocolate"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "sugar",
+          "text": "1/2 cup sugar"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "coconut flakes",
+          "text": "1/2 cup coconut flakes"
+        }
+      ]
+    },
+    {
+      "title": "Garnish",
+      "ingredients": [
+        {
+          "amount": "1 (3- and- 1/2-oz./100-g.) bar",
+          "item": "dark chocolate",
+          "text": "1 (3- and- 1/2-oz./100-g.) bar dark chocolate"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "oil",
+          "text": "1 tablespoon oil"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Cigars",
+      "steps": [
+        "Place all dough ingredients into the bowl of a mixer and mix until you have a smooth dough. Refrigerate for a half hour.",
+        "Place all filling ingredients into a food processor and process until well blended.",
+        "Preheat oven to 350 degrees Fahrenheit (180 degrees Celsius). Line two baking sheets with Gefen Parchment Paper. Roll out dough into a flat sheet and cut it into one- and- a- half-inch (four-centimeter) strips.",
+        "Spread a thin layer of filling all along the sheet and roll up jelly-roll fashion. Cut into cigars.",
+        "Place the cigars on the baking sheet and repeat with the remaining dough. Bake for 20 minutes or until cigars are crispy and golden. Remove from oven and cool."
+      ]
+    },
+    {
+      "title": "For the Garnish",
+      "steps": [
+        "Melt the chocolate and the oil in a microwave or double boiler. Form a triangle out of parchment paper, roll it into a cone, and fill it with the melted chocolate. (Or put it into a zip-top bag and cut off the tip.)",
+        "Drizzle thin lines of chocolate on the cooled cigars and refrigerate until ready to serve."
+      ]
+    }
+  ],
+  "tips": "Description:\nPhotography: Daniel Lailah\nFood Styling: Shoshie Sirkis",
+  "wine_pairing": [],
+  "video": null
+}

@@ -1,0 +1,122 @@
+{
+  "id": 88,
+  "source_id": 79187,
+  "name": "Eggplant Dip",
+  "slug": "eggplant-dip-8893",
+  "url": "https://www.kosher.com/recipe/eggplant-dip-8893/",
+  "description": "Submitted by Minna Koenig\nI’m always looking for interesting ways to get my kids to eat more veggies. This dish basically just came together by itself.",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/e/g/eggplant_dip_rotate.jpg",
+  "extra_images": [],
+  "published": "2020-06-03T12:36:10",
+  "modified": "2020-06-03T11:26:55",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Appetizers"
+  ],
+  "allergens": [],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "aubergines",
+    "challah dip",
+    "courgettes",
+    "crushed tomatoes",
+    "dips",
+    "eggplant",
+    "eggplant dip",
+    "eggplants",
+    "healthy ingredients",
+    "Minna Koenig",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "onions",
+    "peppers",
+    "red peppers",
+    "tomatoes",
+    "zucchini",
+    "zucchinis"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "med-larg eggplant, diced",
+          "text": "1 med-larg eggplant, diced"
+        },
+        {
+          "amount": "1",
+          "item": "med-large onion, diced",
+          "text": "1 med-large onion, diced"
+        },
+        {
+          "amount": "1",
+          "item": "red (or yellow or orange) pepper, diced",
+          "text": "1 red (or yellow or orange) pepper, diced"
+        },
+        {
+          "amount": "1",
+          "item": "zucchini, diced (optional)",
+          "text": "1 zucchini, diced (optional)"
+        },
+        {
+          "amount": "1",
+          "item": "8-oz can crushed tomatoes",
+          "text": "1 8-oz can crushed tomatoes"
+        },
+        {
+          "amount": null,
+          "item": "Salt",
+          "text": "Salt"
+        },
+        {
+          "amount": null,
+          "item": "Pepper",
+          "text": "Pepper"
+        },
+        {
+          "amount": null,
+          "item": "Oregano",
+          "text": "Oregano"
+        },
+        {
+          "amount": null,
+          "item": "Bay leaf",
+          "text": "Bay leaf"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Dip",
+      "steps": [
+        "In a 4-qt pot, put enough oil to just cover bottom of pot. Sauté diced onion on med flame for 10-15 min. Then add diced pepper then eggplant into pot and cover. Lower flame to low. Let cook 15 more minutes, then mix.",
+        "If using zucchini add now, if not add spices and re-cover pot. Add the crushed tomatoes, mix in veggies. Cover and cook 15 more minutes. Then uncover and let “boil” 15 more minutes (till all veggies are soft but not falling apart).",
+        "Cool in pot before storage."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

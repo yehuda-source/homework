@@ -1,0 +1,164 @@
+{
+  "id": 15,
+  "source_id": 57388,
+  "name": "Two Tone Peanut Chews",
+  "slug": "two-tone-peanut-chews-recipe-3082",
+  "url": "https://www.kosher.com/recipe/two-tone-peanut-chews-recipe-3082/",
+  "description": "Peanut chews have become a simchah and dessert favorite for sweet tooths of all ages. Though this recipe is great with a classic parve chocolate, in honor of Shavuos I figured, why not give it a milchig “upgrade”? Either way you make it, you’ll have many happy “chewers” this Yom Tov.",
+  "chefs": [
+    "Esther Ottensoser"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_492_kleinman_2-tone_Peanuts_Chews.jpg",
+  "extra_images": [],
+  "published": "2017-01-01T15:28:18",
+  "modified": "2019-04-11T06:27:43",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 45,
+    "total_minutes": 45
+  },
+  "servings": "16",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Peanuts"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shavuot"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "chocolate",
+    "dairy or pareve",
+    "Esther Ottensoser",
+    "gluten-free desserts",
+    "kid favorite",
+    "no-bake desserts",
+    "peanut butter",
+    "peanut chews",
+    "rice crispies",
+    "rice crispy treats",
+    "Shavuos",
+    "shavuos desserts",
+    "simcha"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Dark Layer",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "Gefen Peanut Butter",
+          "text": "1 cup Gefen Peanut Butter"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Karo syrup",
+          "text": "1 cup Karo syrup"
+        },
+        {
+          "amount": "12 ounces (340 grams)",
+          "item": "pareve semisweet chocolate",
+          "text": "12 ounces (340 grams) pareve semisweet chocolate"
+        },
+        {
+          "amount": "5 cups",
+          "item": "rice crispies",
+          "text": "5 cups rice crispies"
+        }
+      ]
+    },
+    {
+      "title": "Light Layer",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "Gefen Peanut Butter",
+          "text": "1 cup Gefen Peanut Butter"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Karo syrup",
+          "text": "1 cup Karo syrup"
+        },
+        {
+          "amount": "12 ounces (340 grams)",
+          "item": "pareve white chocolate",
+          "text": "12 ounces (340 grams) pareve white chocolate"
+        },
+        {
+          "amount": "5 cups",
+          "item": "rice crispies",
+          "text": "5 cups rice crispies"
+        }
+      ]
+    },
+    {
+      "title": "Dark Topping",
+      "ingredients": [
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "brown pareve or dairy chocolate, melted",
+          "text": "7 ounces (200 grams) brown pareve or dairy chocolate, melted"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Gefen Smooth Peanut Butter",
+          "text": "1/4 cup Gefen Smooth Peanut Butter"
+        }
+      ]
+    },
+    {
+      "title": "Light Topping",
+      "ingredients": [
+        {
+          "amount": "7 ounces (200 grams)",
+          "item": "white pareve or dairy chocolate, melted",
+          "text": "7 ounces (200 grams) white pareve or dairy chocolate, melted"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Gefen Smooth Peanut Butter",
+          "text": "1/4 cup Gefen Smooth Peanut Butter"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Peanut Chews",
+      "steps": [
+        "Line a 10x15-inch (25x40-cm) cookie sheet with Gefen Parchment Paper.",
+        "For the dark layer, place the peanut butter, Karo syrup, and chocolate in a medium pot. Over medium heat, stir until melted.",
+        "Turn off heat and add in five cups rice crispies. Wet your hands and press mixture into the pan until flat.",
+        "For the light layer, place the peanut butter, Karo syrup, and chocolate in a medium pot. Over medium heat, stir until melted.",
+        "Turn off flame and add in five cups rice crispies. Wet your hands and press mixture on top of the dark layer until flat.",
+        "When peanut chews are firm, cut in half and flip over one half so that one part has the dark layer on top and one part has the dark layer on bottom."
+      ]
+    },
+    {
+      "title": "Top",
+      "steps": [
+        "Melt chocolate and stir in the peanut butter. Spread the dark topping on top of the light layer and the light topping on top of the dark layer. Cut and enjoy!"
+      ]
+    }
+  ],
+  "tips": "Tips:\nI like to use tempered baking chocolate as it dries much quicker. Peppermill of Boro Park carries it in milk chocolate as well.\nNotes:\nUse Baker's Choice Dairy Chocolate Shpritz for garnish.\nDescription:\nPhotography: Hudi Greenberger\nStyling: Janine Kalesis",
+  "wine_pairing": [],
+  "video": null
+}

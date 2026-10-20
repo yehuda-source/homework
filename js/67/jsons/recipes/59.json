@@ -1,0 +1,136 @@
+{
+  "id": 59,
+  "source_id": 62814,
+  "name": "General Tso Sauce",
+  "slug": "general-tso-sauce-4668",
+  "url": "https://www.kosher.com/recipe/general-tso-sauce-4668/",
+  "description": "The most popular Asian sauce in the entire world is General Tso sauce. Add more kick if you can handle it!",
+  "chefs": [
+    "Chanie Nayman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_478_Nayman_general_tso_sauce.jpg",
+  "extra_images": [],
+  "published": "2018-02-04T09:56:50",
+  "modified": "2018-02-04T04:45:12",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 10,
+    "total_minutes": 10
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Condiments & Kitchen Staples"
+  ],
+  "allergens": [
+    "Gluten",
+    "Sesame",
+    "Soy"
+  ],
+  "diets": [],
+  "cuisines": [
+    "Asian"
+  ],
+  "holidays": [],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "asian",
+    "Asian cuisine",
+    "Asian flavors",
+    "Asian food",
+    "Chanie Nayman",
+    "chinese",
+    "general tso's",
+    "kosher Asian food"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1/4 cup",
+          "item": "water",
+          "text": "1/4 cup water"
+        },
+        {
+          "amount": "1 and 1/2 tablespoons",
+          "item": "Gefen Soy Sauce",
+          "text": "1 and 1/2 tablespoons Gefen Soy Sauce"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "ketchup",
+          "text": "1/4 cup ketchup"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cornstarch",
+          "text": "1 teaspoon cornstarch"
+        },
+        {
+          "amount": "1 cube",
+          "item": "Gefen Frozen Garlic",
+          "text": "1 cube Gefen Frozen Garlic"
+        },
+        {
+          "amount": "3/4 teaspoon",
+          "item": "ginger",
+          "text": "3/4 teaspoon ginger"
+        },
+        {
+          "amount": "1/2 – 3/4 teaspoon",
+          "item": "crushed red pepper flakes",
+          "text": "1/2 – 3/4 teaspoon crushed red pepper flakes"
+        },
+        {
+          "amount": "1/2 tablespoon",
+          "item": "canola oil",
+          "text": "1/2 tablespoon canola oil"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Sesame Oil",
+          "text": "1 teaspoon Gefen Sesame Oil"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "onion flakes",
+          "text": "1 teaspoon onion flakes"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "honey",
+          "text": "3 tablespoons honey"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Duck Sauce",
+          "text": "2 tablespoons Gefen Duck Sauce"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "MSG-free chicken soup mix",
+          "text": "1/2 teaspoon MSG-free chicken soup mix"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Sauce",
+      "steps": [
+        "Combine all ingredients in a saucepan and bring to a boil. Simmer for three to five minutes until thickened.",
+        "Remove from heat and pour over breaded chicken nuggets or drumsticks. Bake at 350°F (180°C) for an hour covered and half an hour uncovered. (For cutlets, bake half an hour covered, half an hour uncovered.)"
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

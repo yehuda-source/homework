@@ -1,0 +1,120 @@
+{
+  "id": 100,
+  "source_id": 82109,
+  "name": "Sauerkraut Fritters (Fuczki)",
+  "slug": "sauerkraut-fritters-fuczki-9750",
+  "url": "https://www.kosher.com/recipe/sauerkraut-fritters-fuczki-9750/",
+  "description": "Fuczki are fried like Placki ziemniaczane (Potato Fritters with Rosemary and Horseradish Sauce) but made with sauerkraut. The most important ingredient is good, naturally pickled cabbage. First, the sauerkraut should be well drained, then chopped and mixed with the batter. The pancakes that result are tangy, crispy on the outside but pleasantly chewy on the inside, just like the ones I used to eat during family trips to the Bieszczady mountains, where they come from.",
+  "chefs": [
+    "Michal Korkosz"
+  ],
+  "image": "https://images.kosher.com/details.slide/k/o/Korkrsz__Michal._Sauerkraut_Fritters_crop.jpg",
+  "extra_images": [],
+  "published": "2020-09-24T15:33:00",
+  "modified": "2020-09-24T10:09:21",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Dairy",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Dairy",
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Low Carb",
+    "No Refined Sugar",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [],
+  "tags": [
+    "cabbage",
+    "chewy",
+    "crispy",
+    "fried",
+    "fritters",
+    "pancakes",
+    "Polish foods",
+    "sauerkraut",
+    "tangy"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "10 and 1/2 ounces (2 cups/300 grams)",
+          "item": "sauerkraut, well drained",
+          "text": "10 and 1/2 ounces (2 cups/300 grams) sauerkraut, well drained"
+        },
+        {
+          "amount": "3/4 cup (190 milliliters)",
+          "item": "milk",
+          "text": "3/4 cup (190 milliliters) milk"
+        },
+        {
+          "amount": "1 large",
+          "item": "egg, lightly beaten",
+          "text": "1 large egg, lightly beaten"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "caraway seeds",
+          "text": "1 teaspoon caraway seeds"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "dried savory (optional)",
+          "text": "1 teaspoon dried savory (optional)"
+        },
+        {
+          "amount": "1 cup (130 grams)",
+          "item": "all-purpose flour",
+          "text": "1 cup (130 grams) all-purpose flour"
+        },
+        {
+          "amount": null,
+          "item": "salt",
+          "text": "salt"
+        },
+        {
+          "amount": null,
+          "item": "freshly ground Gefen Black Pepper",
+          "text": "freshly ground Gefen Black Pepper"
+        },
+        {
+          "amount": null,
+          "item": "Gefen Canola Oil or clarified butter",
+          "text": "Gefen Canola Oil or clarified butter"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Sauerkraut Fritters",
+      "steps": [
+        "Finely chop the sauerkraut. In a medium bowl, mix the milk, egg, caraway seeds, and savory, if using. Stir in the flour. Season with salt and pepper. Add the sauerkraut and mix to combine.",
+        "Heat a thin layer of oil in a large skillet over medium heat, until a small amount of batter added to the fat sizzles and sputters. Working in batches, spoon two tablespoons of the sauerkraut mixture per fritter into the pan (you should be able to fit about four at a time). Spread them into three-inch (eight centimeter) rounds with a fork. Cook until the undersides are browned, about five minutes. Turn the fritters over and cook until the other sides are browned, about five minutes more.",
+        "Transfer to paper towels to drain and season with salt. Repeat with the remaining batter, adding more oil to the pan as needed. Serve hot."
+      ]
+    }
+  ],
+  "tips": "Notes:\nServe fuczki by themselves, with sour cream and parsley, or as a side dish to Fasolka po bretońsku (Breton Beans with Dried Tomatoes.)\nDescription:\nRecipe from Fresh from Poland: New Vegetarian Cooking from the Old Country © Michał Korkosz, 2020. Reprinted by permission of the publisher, The Experiment. Available wherever books are sold. experimentpublishing.com",
+  "wine_pairing": [],
+  "video": null
+}

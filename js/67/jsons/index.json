@@ -1,0 +1,606 @@
+{
+    "scraped_at": "2026-10-20T00:52:46Z",
+    "count": 17240,
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Naturally Good Brownies",
+            "file": "recipes/1.json",
+            "url": "https://www.kosher.com/recipe/naturally-good-brownies-recipe-3685/"
+        },
+        {
+            "id": 2,
+            "name": "Orange Squash Kugel",
+            "file": "recipes/2.json",
+            "url": "https://www.kosher.com/recipe/orange-squash-kugel-5318/"
+        },
+        {
+            "id": 3,
+            "name": "Strawberry Gazpacho",
+            "file": "recipes/3.json",
+            "url": "https://www.kosher.com/recipe/strawberry-gazpacho-5817/"
+        },
+        {
+            "id": 4,
+            "name": "Angel Food Cake",
+            "file": "recipes/4.json",
+            "url": "https://www.kosher.com/recipe/angel-food-cake-4929/"
+        },
+        {
+            "id": 5,
+            "name": "Pickled Brisket with Tangy Pineapple Sauce",
+            "file": "recipes/5.json",
+            "url": "https://www.kosher.com/recipe/pickled-brisket-with-tangy-pineapple-sauce-3585/"
+        },
+        {
+            "id": 6,
+            "name": "Moroccan Spice Mix",
+            "file": "recipes/6.json",
+            "url": "https://www.kosher.com/recipe/moroccan-spice-mix-229/"
+        },
+        {
+            "id": 7,
+            "name": "Simplified Mock Chopped Liver",
+            "file": "recipes/7.json",
+            "url": "https://www.kosher.com/recipe/mock-chopped-liver-288/"
+        },
+        {
+            "id": 8,
+            "name": "Corn Salad",
+            "file": "recipes/8.json",
+            "url": "https://www.kosher.com/recipe/corn-salad-322/"
+        },
+        {
+            "id": 9,
+            "name": "Apple Pie",
+            "file": "recipes/9.json",
+            "url": "https://www.kosher.com/recipe/sugar-free-apple-pie-389/"
+        },
+        {
+            "id": 10,
+            "name": "Dairy Free Scalloped Potatoes",
+            "file": "recipes/10.json",
+            "url": "https://www.kosher.com/recipe/scalloped-potatoes-448/"
+        },
+        {
+            "id": 11,
+            "name": "Simanim Salad with Honey Vinaigrette",
+            "file": "recipes/11.json",
+            "url": "https://www.kosher.com/recipe/simanim-salad-2937/"
+        },
+        {
+            "id": 12,
+            "name": "Sesame Cabbage Salad",
+            "file": "recipes/12.json",
+            "url": "https://www.kosher.com/recipe/sesame-cabbage-salad-2205/"
+        },
+        {
+            "id": 13,
+            "name": "Potato Kugel Roll",
+            "file": "recipes/13.json",
+            "url": "https://www.kosher.com/recipe/potato-kugel-roll-2098/"
+        },
+        {
+            "id": 14,
+            "name": "Turkey Goulash",
+            "file": "recipes/14.json",
+            "url": "https://www.kosher.com/recipe/turkey-goulash-1647/"
+        },
+        {
+            "id": 15,
+            "name": "Two Tone Peanut Chews",
+            "file": "recipes/15.json",
+            "url": "https://www.kosher.com/recipe/two-tone-peanut-chews-recipe-3082/"
+        },
+        {
+            "id": 16,
+            "name": "Roast with Barbecue Sauce",
+            "file": "recipes/16.json",
+            "url": "https://www.kosher.com/recipe/roast-with-barbecue-sauce-1600/"
+        },
+        {
+            "id": 17,
+            "name": "London Broil",
+            "file": "recipes/17.json",
+            "url": "https://www.kosher.com/recipe/london-broil-1054/"
+        },
+        {
+            "id": 18,
+            "name": "Mini Short Ribs with Potatoes & Shallots",
+            "file": "recipes/18.json",
+            "url": "https://www.kosher.com/recipe/mini-short-ribs-with-potatoes-shallots-1074/"
+        },
+        {
+            "id": 19,
+            "name": "Flanken Roast over French String Beans",
+            "file": "recipes/19.json",
+            "url": "https://www.kosher.com/recipe/flanken-roast-over-french-string-beans-1025/"
+        },
+        {
+            "id": 20,
+            "name": "Zucchini-Tomato Fans",
+            "file": "recipes/20.json",
+            "url": "https://www.kosher.com/recipe/zucchini-tomato-fans-1183/"
+        },
+        {
+            "id": 21,
+            "name": "Roasted Beet Hummus",
+            "file": "recipes/21.json",
+            "url": "https://www.kosher.com/recipe/roasted-beet-hummus-1198/"
+        },
+        {
+            "id": 22,
+            "name": "Chremeschnit",
+            "file": "recipes/22.json",
+            "url": "https://www.kosher.com/recipe/napoleons-1303/"
+        },
+        {
+            "id": 23,
+            "name": "Nectarine and Plum Crostata",
+            "file": "recipes/23.json",
+            "url": "https://www.kosher.com/recipe/nectarine-and-plum-crostata-971/"
+        },
+        {
+            "id": 24,
+            "name": "Cookie Brittle",
+            "file": "recipes/24.json",
+            "url": "https://www.kosher.com/recipe/cookie-brittle-1384/"
+        },
+        {
+            "id": 25,
+            "name": "Sauteed Liver over White Bean Puree",
+            "file": "recipes/25.json",
+            "url": "https://www.kosher.com/recipe/sauteed-liver-over-white-bean-puree-1010/"
+        },
+        {
+            "id": 26,
+            "name": "Gluten Free Apple Fritter",
+            "file": "recipes/26.json",
+            "url": "https://www.kosher.com/recipe/apple-fritter-1396/"
+        },
+        {
+            "id": 27,
+            "name": "Slow Roasted Lamb with Herbs and Mushrooms",
+            "file": "recipes/27.json",
+            "url": "https://www.kosher.com/recipe/slow-roasted-lamb-with-herbs-and-mushrooms-1513/"
+        },
+        {
+            "id": 28,
+            "name": "My Mother’s Passover Cake",
+            "file": "recipes/28.json",
+            "url": "https://www.kosher.com/recipe/my-mothers-passover-cake-1580/"
+        },
+        {
+            "id": 29,
+            "name": "Flavory Frittata",
+            "file": "recipes/29.json",
+            "url": "https://www.kosher.com/recipe/flavory-frittata-1154/"
+        },
+        {
+            "id": 30,
+            "name": "Cashew Brittle Bark",
+            "file": "recipes/30.json",
+            "url": "https://www.kosher.com/recipe/cashew-brittle-bark-1667/"
+        },
+        {
+            "id": 31,
+            "name": "Pan-Seared Rib Steaks",
+            "file": "recipes/31.json",
+            "url": "https://www.kosher.com/recipe/pan-seared-rib-steaks-1704/"
+        },
+        {
+            "id": 32,
+            "name": "Munchy Crunchy Acorn Squash Chips",
+            "file": "recipes/32.json",
+            "url": "https://www.kosher.com/recipe/munchy-crunchy-chips-recipe-3872/"
+        },
+        {
+            "id": 33,
+            "name": "Mushroom Cauliflower Rice",
+            "file": "recipes/33.json",
+            "url": "https://www.kosher.com/recipe/mushroom-cauliflower-rice-2881/"
+        },
+        {
+            "id": 34,
+            "name": "Crunchy Coleslaw with a Tangy Twist",
+            "file": "recipes/34.json",
+            "url": "https://www.kosher.com/recipe/crunchy-coleslaw-with-a-tangy-twist-2123/"
+        },
+        {
+            "id": 35,
+            "name": "Bunny Chow",
+            "file": "recipes/35.json",
+            "url": "https://www.kosher.com/recipe/bunny-chow-1476/"
+        },
+        {
+            "id": 36,
+            "name": "Popcorn Cauliflower",
+            "file": "recipes/36.json",
+            "url": "https://www.kosher.com/recipe/popcorn-cauliflower-2221/"
+        },
+        {
+            "id": 37,
+            "name": "Creamy Mushroom Soup",
+            "file": "recipes/37.json",
+            "url": "https://www.kosher.com/recipe/creamy-mushroom-soup-2087/"
+        },
+        {
+            "id": 38,
+            "name": "Peanut Chew Bars with Ice Cream",
+            "file": "recipes/38.json",
+            "url": "https://www.kosher.com/recipe/peanut-chew-bars-with-ice-cream-in-martini-glasses-2306/"
+        },
+        {
+            "id": 39,
+            "name": "Cheese or Potato Blintzes",
+            "file": "recipes/39.json",
+            "url": "https://www.kosher.com/recipe/cheese-or-potato-blintzes-2393/"
+        },
+        {
+            "id": 40,
+            "name": "Nectarine Apple Crisp",
+            "file": "recipes/40.json",
+            "url": "https://www.kosher.com/recipe/nectarine-apple-crisp-1946/"
+        },
+        {
+            "id": 41,
+            "name": "Caramel Apple Crisp",
+            "file": "recipes/41.json",
+            "url": "https://www.kosher.com/recipe/caramel-apple-crisp-2989/"
+        },
+        {
+            "id": 42,
+            "name": "Flanken Onion Soup",
+            "file": "recipes/42.json",
+            "url": "https://www.kosher.com/recipe/flanken-onion-soup-recipe-3119/"
+        },
+        {
+            "id": 43,
+            "name": "Beer-Bathed London Broil",
+            "file": "recipes/43.json",
+            "url": "https://www.kosher.com/recipe/beer-bathed-london-broil-recipe-2739/"
+        },
+        {
+            "id": 44,
+            "name": "Yapchik – Potato and Meat Kugel (Yaptzik)",
+            "file": "recipes/44.json",
+            "url": "https://www.kosher.com/recipe/yaptzik-potato-and-meat-kugel-recipe-3659/"
+        },
+        {
+            "id": 45,
+            "name": "Sweet and Sour Tongue",
+            "file": "recipes/45.json",
+            "url": "https://www.kosher.com/recipe/sweet-and-sour-tongue-recipe-2793/"
+        },
+        {
+            "id": 46,
+            "name": "Carrot and Raisin Salad",
+            "file": "recipes/46.json",
+            "url": "https://www.kosher.com/recipe/carrot-and-raisin-salad-recipe-2656/"
+        },
+        {
+            "id": 47,
+            "name": "Apple and Honey Rosh Hashanah Muffins",
+            "file": "recipes/47.json",
+            "url": "https://www.kosher.com/recipe/apple-and-honey-rosh-hashanah-muffins-recipe-3571/"
+        },
+        {
+            "id": 48,
+            "name": "Tzimmis Purée",
+            "file": "recipes/48.json",
+            "url": "https://www.kosher.com/recipe/tzimmis-puree-recipe-3626/"
+        },
+        {
+            "id": 49,
+            "name": "London Broil Salad with Savory Vanilla-Infused Dressing",
+            "file": "recipes/49.json",
+            "url": "https://www.kosher.com/recipe/london-broil-salad-with-savory-vanilla-infused-dressing-recipe-3665/"
+        },
+        {
+            "id": 50,
+            "name": "Chocolate Clusters",
+            "file": "recipes/50.json",
+            "url": "https://www.kosher.com/recipe/chocolate-clusters-recipe-3280/"
+        },
+        {
+            "id": 51,
+            "name": "Yogurt and Pineapple Smoothie",
+            "file": "recipes/51.json",
+            "url": "https://www.kosher.com/recipe/yogurt-and-pineapple-smoothie-recipe-3842/"
+        },
+        {
+            "id": 52,
+            "name": "Pumpkin Seed Dip",
+            "file": "recipes/52.json",
+            "url": "https://www.kosher.com/recipe/pumpkin-seed-dip-recipe-3852/"
+        },
+        {
+            "id": 53,
+            "name": "Hot Grapefruit Drink",
+            "file": "recipes/53.json",
+            "url": "https://www.kosher.com/recipe/hot-grapefruit-drink-recipe-2346/"
+        },
+        {
+            "id": 54,
+            "name": "Dark Chocolate Mint Chip Cookies",
+            "file": "recipes/54.json",
+            "url": "https://www.kosher.com/recipe/dark-chocolate-mint-chip-cookies-recipe-4050/"
+        },
+        {
+            "id": 55,
+            "name": "Flanken Gnocchi",
+            "file": "recipes/55.json",
+            "url": "https://www.kosher.com/recipe/flanken-gnocchi-4068/"
+        },
+        {
+            "id": 56,
+            "name": "Lamb Chops and Sweet Potatoes a l’ Orange",
+            "file": "recipes/56.json",
+            "url": "https://www.kosher.com/recipe/lamb-chops-and-sweet-potatoes-ala-orange-recipe-4041/"
+        },
+        {
+            "id": 57,
+            "name": "Cheese Noodle Kugel",
+            "file": "recipes/57.json",
+            "url": "https://www.kosher.com/recipe/cheese-noodle-kugel-recipe-3765/"
+        },
+        {
+            "id": 58,
+            "name": "Orange Beets with Almonds",
+            "file": "recipes/58.json",
+            "url": "https://www.kosher.com/recipe/orange-beets-with-almonds-4659/"
+        },
+        {
+            "id": 59,
+            "name": "General Tso Sauce",
+            "file": "recipes/59.json",
+            "url": "https://www.kosher.com/recipe/general-tso-sauce-4668/"
+        },
+        {
+            "id": 60,
+            "name": "Savory Sautéed Veggie Kugel",
+            "file": "recipes/60.json",
+            "url": "https://www.kosher.com/recipe/savory-sauteed-veggie-kugel-5051/"
+        },
+        {
+            "id": 61,
+            "name": "Braised Short Ribs with Glazed Carrots and Crispy Shallots",
+            "file": "recipes/61.json",
+            "url": "https://www.kosher.com/recipe/braised-short-ribs-with-glazed-carrots-and-crispy-shallots-5073/"
+        },
+        {
+            "id": 62,
+            "name": "Fresh Strawberry Mousse",
+            "file": "recipes/62.json",
+            "url": "https://www.kosher.com/recipe/strawberry-mousse-5269/"
+        },
+        {
+            "id": 63,
+            "name": "Chocolate-Halva Cigars",
+            "file": "recipes/63.json",
+            "url": "https://www.kosher.com/recipe/chocolate-halva-cigars-5377/"
+        },
+        {
+            "id": 64,
+            "name": "Oven-Roasted Beef Brisket",
+            "file": "recipes/64.json",
+            "url": "https://www.kosher.com/recipe/oven-roasted-beef-brisket-2497/"
+        },
+        {
+            "id": 65,
+            "name": "Last-minute Purim Appetizer",
+            "file": "recipes/65.json",
+            "url": "https://www.kosher.com/recipe/last-minute-appetizer-deli-salad-skewers-1505/"
+        },
+        {
+            "id": 66,
+            "name": "Mini Pavlova with White-Chocolate Cream and Strawberries",
+            "file": "recipes/66.json",
+            "url": "https://www.kosher.com/recipe/mini-pavlova-with-white-chocolate-cream-and-strawberries-5689/"
+        },
+        {
+            "id": 67,
+            "name": "Round Braided Chocolate Babka (Vegan, Egg Free, Dairy Free, No Margarine)",
+            "file": "recipes/67.json",
+            "url": "https://www.kosher.com/recipe/egg-free-dairy-free-chocolate-crunch-cake-5700/"
+        },
+        {
+            "id": 68,
+            "name": "Product-Free Beef Jerky",
+            "file": "recipes/68.json",
+            "url": "https://www.kosher.com/recipe/product-free-beef-jerky-5534/"
+        },
+        {
+            "id": 69,
+            "name": "Summer Strawberry Muffins",
+            "file": "recipes/69.json",
+            "url": "https://www.kosher.com/recipe/summer-strawberry-muffins-5978/"
+        },
+        {
+            "id": 70,
+            "name": "Texas Caviar",
+            "file": "recipes/70.json",
+            "url": "https://www.kosher.com/recipe/texas-caviar-5628/"
+        },
+        {
+            "id": 71,
+            "name": "Chocolate-Honey Mousse Pie",
+            "file": "recipes/71.json",
+            "url": "https://www.kosher.com/recipe/chocolate-honey-mousse-pie-5545/"
+        },
+        {
+            "id": 72,
+            "name": "Sephardic Roasted Lamb Shoulder (Coedero Al Horno)",
+            "file": "recipes/72.json",
+            "url": "https://www.kosher.com/recipe/sephardic-roasted-lamb-shoulder-coedero-al-horno-2575/"
+        },
+        {
+            "id": 73,
+            "name": "Ashkenazic Pot Roast (Gedempte Fleisch)",
+            "file": "recipes/73.json",
+            "url": "https://www.kosher.com/recipe/gedempte-fleisch-ashkenazic-pot-roast-recipe-2493/"
+        },
+        {
+            "id": 74,
+            "name": "Cinnamon Bun Pie",
+            "file": "recipes/74.json",
+            "url": "https://www.kosher.com/recipe/cinnamon-bun-pie-5941/"
+        },
+        {
+            "id": 75,
+            "name": "Cauliflower Tabbouleh",
+            "file": "recipes/75.json",
+            "url": "https://www.kosher.com/recipe/cauliflower-tabbouleh-6268/"
+        },
+        {
+            "id": 76,
+            "name": "2-Ingredient Lychee Blueberry Sorbet",
+            "file": "recipes/76.json",
+            "url": "https://www.kosher.com/recipe/2-ingredient-lychee-blueberry-sorbet-6343/"
+        },
+        {
+            "id": 77,
+            "name": "Corn Salsa Sauce",
+            "file": "recipes/77.json",
+            "url": "https://www.kosher.com/recipe/corn-salsa-sauce-6404/"
+        },
+        {
+            "id": 78,
+            "name": "All-Purpose Dough",
+            "file": "recipes/78.json",
+            "url": "https://www.kosher.com/recipe/all-purpose-dough-6051/"
+        },
+        {
+            "id": 79,
+            "name": "Goldie’s Mandelbroit",
+            "file": "recipes/79.json",
+            "url": "https://www.kosher.com/recipe/goldies-mandelbroit-7525/"
+        },
+        {
+            "id": 80,
+            "name": "Oatmeal Muffin Pops",
+            "file": "recipes/80.json",
+            "url": "https://www.kosher.com/recipe/oatmeal-muffin-pops-7604/"
+        },
+        {
+            "id": 81,
+            "name": "Green Beans with Chestnuts, Pomegranates and Lemony Tahini",
+            "file": "recipes/81.json",
+            "url": "https://www.kosher.com/recipe/green-beans-with-chestnuts-pomegranates-and-lemony-tahini-7662/"
+        },
+        {
+            "id": 82,
+            "name": "Upside-Down Apple Honey Cake for Rosh Hashanah",
+            "file": "recipes/82.json",
+            "url": "https://www.kosher.com/recipe/upside-down-apple-honey-cake-7688/"
+        },
+        {
+            "id": 83,
+            "name": "Zucchini and Tomato Tart",
+            "file": "recipes/83.json",
+            "url": "https://www.kosher.com/recipe/zucchini-and-tomato-tart-8303/"
+        },
+        {
+            "id": 84,
+            "name": "Ratatouille Brisket",
+            "file": "recipes/84.json",
+            "url": "https://www.kosher.com/recipe/ratatouille-brisket-8516/"
+        },
+        {
+            "id": 85,
+            "name": "Salted Chocolate Tahini Caramel Cups",
+            "file": "recipes/85.json",
+            "url": "https://www.kosher.com/recipe/salted-chocolate-tahini-caramel-cups-9079/"
+        },
+        {
+            "id": 86,
+            "name": "Deli Roses",
+            "file": "recipes/86.json",
+            "url": "https://www.kosher.com/recipe/deli-roses-9106/"
+        },
+        {
+            "id": 87,
+            "name": "Steak with Caramelized Onions",
+            "file": "recipes/87.json",
+            "url": "https://www.kosher.com/recipe/steak-with-caramelized-onions-8661/"
+        },
+        {
+            "id": 88,
+            "name": "Eggplant Dip",
+            "file": "recipes/88.json",
+            "url": "https://www.kosher.com/recipe/eggplant-dip-8893/"
+        },
+        {
+            "id": 89,
+            "name": "Mini Lemon Trifle Cups",
+            "file": "recipes/89.json",
+            "url": "https://www.kosher.com/recipe/mini-lemon-trifle-cups-9177/"
+        },
+        {
+            "id": 90,
+            "name": "Square Cut Soft As Cotton Candy Flanken",
+            "file": "recipes/90.json",
+            "url": "https://www.kosher.com/recipe/square-cut-soft-as-cotton-candy-flanken-9183/"
+        },
+        {
+            "id": 91,
+            "name": "Onion Flanken Soup",
+            "file": "recipes/91.json",
+            "url": "https://www.kosher.com/recipe/onion-flanken-soup-9093/"
+        },
+        {
+            "id": 92,
+            "name": "Mom’s Sweet N Sour Meatballs",
+            "file": "recipes/92.json",
+            "url": "https://www.kosher.com/recipe/moms-sweet-n-sour-meatballs-9219/"
+        },
+        {
+            "id": 93,
+            "name": "Passover Lemon Meringue Cake",
+            "file": "recipes/93.json",
+            "url": "https://www.kosher.com/recipe/passover-lemon-meringue-cake-9260/"
+        },
+        {
+            "id": 94,
+            "name": "Salami Roulade",
+            "file": "recipes/94.json",
+            "url": "https://www.kosher.com/recipe/salami-roulade-9012/"
+        },
+        {
+            "id": 95,
+            "name": "Blondies",
+            "file": "recipes/95.json",
+            "url": "https://www.kosher.com/recipe/blondies-9380/"
+        },
+        {
+            "id": 96,
+            "name": "The Best London Broil Ever",
+            "file": "recipes/96.json",
+            "url": "https://www.kosher.com/recipe/the-best-london-broil-ever-9145/"
+        },
+        {
+            "id": 97,
+            "name": "Lukshen Krote",
+            "file": "recipes/97.json",
+            "url": "https://www.kosher.com/recipe/lukshen-krote-9480/"
+        },
+        {
+            "id": 98,
+            "name": "Fancy Grilled Cheese Sandwiches on Flaxseed Bread",
+            "file": "recipes/98.json",
+            "url": "https://www.kosher.com/recipe/fancy-grilled-cheese-sandwiches-9648/"
+        },
+        {
+            "id": 99,
+            "name": "Squash & Apple Crumble",
+            "file": "recipes/99.json",
+            "url": "https://www.kosher.com/recipe/squash-apple-crumble-9780/"
+        },
+        {
+            "id": 100,
+            "name": "Sauerkraut Fritters (Fuczki)",
+            "file": "recipes/100.json",
+            "url": "https://www.kosher.com/recipe/sauerkraut-fritters-fuczki-9750/"
+        }
+    ]
+}

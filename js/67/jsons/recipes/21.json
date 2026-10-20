@@ -1,0 +1,122 @@
+{
+  "id": 21,
+  "source_id": 50062,
+  "name": "Roasted Beet Hummus",
+  "slug": "roasted-beet-hummus-1198",
+  "url": "https://www.kosher.com/recipe/roasted-beet-hummus-1198/",
+  "description": "Packed with health benefits and bursting with flavor, this vibrantly colored dip has the perfect creamy texture. It's a delightful twist on the typical hummus.",
+  "chefs": [
+    "Sina Mizrahi"
+  ],
+  "image": "https://images.kosher.com/details.slide/4/1/414-_Roasted_Beet_Hummus.jpg",
+  "extra_images": [],
+  "published": "2017-02-06T17:26:08",
+  "modified": "2019-09-01T23:42:13",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Appetizers",
+    "Condiments & Kitchen Staples"
+  ],
+  "allergens": [
+    "Sesame"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah",
+    "Shabbat"
+  ],
+  "sources": [
+    "Relish by Binah Magazine"
+  ],
+  "tags": [
+    "beets",
+    "chumus",
+    "color",
+    "gluten free",
+    "healthy",
+    "hummus",
+    "quick-and-easy",
+    "Rosh Hashana",
+    "rosh hashanah",
+    "Rosh Hashanna",
+    "Rosh Hashannah",
+    "roshhashana",
+    "Shabbos",
+    "simanim",
+    "Sina Mizrahi",
+    "super easy",
+    "tahini",
+    "techina"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "small beet (or use 1 Gefen Organic Beet and skip the roasting step)",
+          "text": "1 small beet (or use 1 Gefen Organic Beet and skip the roasting step)"
+        },
+        {
+          "amount": "1 (15 oz) can",
+          "item": "Haddar Chickpeas, drained and rinsed",
+          "text": "1 (15 oz) can Haddar Chickpeas, drained and rinsed"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Baracke Tahini Paste",
+          "text": "2 tablespoons Baracke Tahini Paste"
+        },
+        {
+          "amount": "2 cloves",
+          "item": "garlic, minced",
+          "text": "2 cloves garlic, minced"
+        },
+        {
+          "amount": null,
+          "item": "zest from 1/2 lemon",
+          "text": "zest from 1/2 lemon"
+        },
+        {
+          "amount": null,
+          "item": "pinch of salt and pepper",
+          "text": "pinch of salt and pepper"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "olive oil",
+          "text": "1/4 cup olive oil"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Chumus",
+      "steps": [
+        "Heat oven to 400° F. Wrap beet in foil and roast in oven for 35 to 45 minutes, until a fork can easily pierce though the center. Remove from oven and allow to cool.",
+        "Once beet is cool, peel and quarter it. Place in food processor fitted with S-blade. Pulse 3 to 4 times, until small bits remain.",
+        "Add chickpeas, tahini, garlic, lemon zest, salt, and pepper, blend until smooth. Drizzle olive oil through feeding tube while the hummus is being mixed. Taste and adjust seasoning. If hummus is too thick, add a little bit of cold water.",
+        "Transfer to airtight container, store refrigerated for up to 1 week."
+      ]
+    }
+  ],
+  "tips": "Tips:\nTo protect your skin from being dyed, wear disposable gloves while handling the cooked beets.",
+  "wine_pairing": [],
+  "video": null
+}

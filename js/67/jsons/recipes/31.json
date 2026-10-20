@@ -1,0 +1,161 @@
+{
+  "id": 31,
+  "source_id": 52199,
+  "name": "Pan-Seared Rib Steaks",
+  "slug": "pan-seared-rib-steaks-1704",
+  "url": "https://www.kosher.com/recipe/pan-seared-rib-steaks-1704/",
+  "description": "If I’m having a smaller crowd for an afternoon Yom Tov meal, steaks are a really easy main dish. I don’t need to think about them ahead of time, and there are no long hours of cooking involved. They also work as a quick Chol Hamoed meal.",
+  "chefs": [
+    "Zehava Krohn"
+  ],
+  "image": "https://images.kosher.com/details.slide/p/a/Pan-Seared_Rib_Steaks.jpg",
+  "extra_images": [],
+  "published": "2017-03-27T20:53:15",
+  "modified": "2020-10-28T03:16:02",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 45,
+    "total_minutes": 45
+  },
+  "servings": "6",
+  "difficulty": "Medium",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "Paleo"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "complex carbs",
+    "gluten free",
+    "pan sear",
+    "Pesach",
+    "quick-and-easy",
+    "roasted vegetables",
+    "steak",
+    "super easy"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Pan-Seared Steaks",
+      "ingredients": [
+        {
+          "amount": "2 (2-lb.)",
+          "item": "rib steaks",
+          "text": "2 (2-lb.) rib steaks"
+        },
+        {
+          "amount": null,
+          "item": "salt, for sprinkling",
+          "text": "salt, for sprinkling"
+        },
+        {
+          "amount": null,
+          "item": "freshly ground Gefen Black Pepper, for sprinkling",
+          "text": "freshly ground Gefen Black Pepper, for sprinkling"
+        },
+        {
+          "amount": "1 clove",
+          "item": "garlic, crushed or 1 cube Gefen Frozen Garlic",
+          "text": "1 clove garlic, crushed or 1 cube Gefen Frozen Garlic"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "paprika",
+          "text": "1 teaspoon paprika"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Bartenura Olive Oil",
+          "text": "2 tablespoons Bartenura Olive Oil"
+        }
+      ]
+    },
+    {
+      "title": "Roasted Vegetables with Lemon Garlic Sauce",
+      "ingredients": [
+        {
+          "amount": "10 ounces",
+          "item": "baby bella mushrooms",
+          "text": "10 ounces baby bella mushrooms"
+        },
+        {
+          "amount": "1",
+          "item": "red pepper, sliced into wedges",
+          "text": "1 red pepper, sliced into wedges"
+        },
+        {
+          "amount": "1",
+          "item": "zucchini, sliced into rounds",
+          "text": "1 zucchini, sliced into rounds"
+        },
+        {
+          "amount": "1",
+          "item": "yellow squash, sliced into rounds",
+          "text": "1 yellow squash, sliced into rounds"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Bartenura Olive Oil, plus more for drizzling",
+          "text": "1/4 cup Bartenura Olive Oil, plus more for drizzling"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        },
+        {
+          "amount": null,
+          "item": "pepper, to taste",
+          "text": "pepper, to taste"
+        },
+        {
+          "amount": "12",
+          "item": "cloves garlic, sliced",
+          "text": "12 cloves garlic, sliced"
+        },
+        {
+          "amount": "6 tablespoons",
+          "item": "fresh lemon juice",
+          "text": "6 tablespoons fresh lemon juice"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Steaks",
+      "steps": [
+        "Rub steaks with salt, pepper, paprika, garlic, and 1 tablespoon olive oil.",
+        "Heat a skillet or grill pan over high heat. Drizzle with remaining 1 tablespoon olive oil. When the pan is very hot, add the steaks and sear for 7 to 10 minutes, flipping halfway through."
+      ]
+    },
+    {
+      "title": "For the Roasted Vegetables",
+      "steps": [
+        "Preheat oven to 500 degrees Fahrenheit.",
+        "Spread mushrooms, pepper, zucchini, and squash on a baking sheet. Drizzle with olive oil and season with salt and pepper. Bake for 15 to 20 minutes, until roasted and charred.",
+        "Meanwhile, prepare the sauce. In a small saucepan over medium heat, combine garlic, 1/4 cup olive oil, and lemon juice. Cook, stirring occasionally, until garlic is soft and tender. Pour over vegetables before serving."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [
+    "Elvi El26"
+  ],
+  "video": null
+}

@@ -1,0 +1,106 @@
+{
+  "id": 7,
+  "source_id": 46312,
+  "name": "Simplified Mock Chopped Liver",
+  "slug": "mock-chopped-liver-288",
+  "url": "https://www.kosher.com/recipe/mock-chopped-liver-288/",
+  "description": null,
+  "chefs": [
+    "Ronit Peskin"
+  ],
+  "image": "https://images.kosher.com/details.slide/m/o/Mock_Chopped_Liver1.jpg",
+  "extra_images": [],
+  "published": "2016-12-13T08:44:59",
+  "modified": "2018-07-11T13:48:45",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 30,
+    "total_minutes": 30
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Condiments & Kitchen Staples"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar",
+    "Paleo",
+    "Pescatarian",
+    "Salt Free",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Passover",
+    "Shabbat"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "allergy-friendly",
+    "budget friendly",
+    "caramelized onions",
+    "eggplant",
+    "fried",
+    "homemade",
+    "Jewish cuisine",
+    "jewish food",
+    "low-cholesterol",
+    "Shavuos",
+    "simple",
+    "traditional",
+    "traditional Jewish food"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "large eggplant, peeled and cubed",
+          "text": "1 large eggplant, peeled and cubed"
+        },
+        {
+          "amount": "2",
+          "item": "large onions, peeled and cut into rings",
+          "text": "2 large onions, peeled and cut into rings"
+        },
+        {
+          "amount": null,
+          "item": "oil (as needed)",
+          "text": "oil (as needed)"
+        },
+        {
+          "amount": null,
+          "item": "salt, to taste",
+          "text": "salt, to taste"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Mock Liver",
+      "steps": [
+        "Heat the oil in a large pan over medium heat. Add the onions and sauté until they start to brown. Set aside.",
+        "Divide the eggplant cubes. Add to pan in batches, sautéing until fully cooked and beginning to brown. You’ll need an ample amount of oil to keep the eggplant from sticking, as it absorbs oil in the cooking process.",
+        "If desired, layer cooked eggplant and onions between paper towels, cloth napkins, or cheesecloths to absorb the excess oil.",
+        "In a blender or food processor, combine eggplant and onion. Pulse to blend. Add salt to taste."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

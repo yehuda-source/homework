@@ -1,0 +1,158 @@
+{
+  "id": 73,
+  "source_id": 55194,
+  "name": "Ashkenazic Pot Roast (Gedempte Fleisch)",
+  "slug": "gedempte-fleisch-ashkenazic-pot-roast-recipe-2493",
+  "url": "https://www.kosher.com/recipe/gedempte-fleisch-ashkenazic-pot-roast-recipe-2493/",
+  "description": "This Ashkenazi pot roast is made with beef chuck or shoulder roast, sauteed onion, carrot, and celery, minced garlic, paprika, thyme, basil and stock or wine.",
+  "chefs": [
+    "Gil Marks"
+  ],
+  "image": "https://images.kosher.com/details.slide/a/s/ashkenazic_pot_roast_shutterstock.jpg",
+  "extra_images": [],
+  "published": "2018-09-05T08:37:42",
+  "modified": "2018-09-05T02:10:40",
+  "cook_time": {
+    "hours": 3,
+    "minutes": 30,
+    "total_minutes": 210
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar",
+    "Paleo"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Passover",
+    "Sukkot"
+  ],
+  "sources": [
+    "OU Kosher"
+  ],
+  "tags": [
+    "ashkenazi food",
+    "beef",
+    "brisket",
+    "carrots",
+    "celery",
+    "chuck roast",
+    "dutch oven",
+    "fleish",
+    "gluten free",
+    "Hungarian Food",
+    "kosher Hungarian food",
+    "low and slow",
+    "paleo",
+    "pot roast",
+    "roast beef",
+    "root vegetables",
+    "shoulder roast",
+    "traditional",
+    "vegetables",
+    "versatile",
+    "wine sauce"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3- and- 1/2- to 5-pound",
+          "item": "boneless beef chuck or shoulder roast",
+          "text": "3- and- 1/2- to 5-pound boneless beef chuck or shoulder roast"
+        },
+        {
+          "amount": null,
+          "item": "salt",
+          "text": "salt"
+        },
+        {
+          "amount": null,
+          "item": "pepper",
+          "text": "pepper"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "vegetable oil or Bartenura Olive Oil",
+          "text": "3 tablespoons vegetable oil or Bartenura Olive Oil"
+        },
+        {
+          "amount": "1 large",
+          "item": "onion, chopped",
+          "text": "1 large onion, chopped"
+        },
+        {
+          "amount": "1 cup",
+          "item": "chopped carrots",
+          "text": "1 cup chopped carrots"
+        },
+        {
+          "amount": "1 cup",
+          "item": "chopped celery",
+          "text": "1 cup chopped celery"
+        },
+        {
+          "amount": "1 clove",
+          "item": "garlic, minced",
+          "text": "1 clove garlic, minced"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "paprika (optional)",
+          "text": "1 teaspoon paprika (optional)"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "dried thyme or basil (optional)",
+          "text": "1 teaspoon dried thyme or basil (optional)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Tuscanini Tomato Paste (optional)",
+          "text": "2 tablespoons Tuscanini Tomato Paste (optional)"
+        },
+        {
+          "amount": "2 cups",
+          "item": "stock or water (or 1 cup stock or water and 1 cup Baron Herzog Chenin Blanc or other dry wine)",
+          "text": "2 cups stock or water (or 1 cup stock or water and 1 cup Baron Herzog Chenin Blanc or other dry wine)"
+        },
+        {
+          "amount": "1",
+          "item": "bay leaf",
+          "text": "1 bay leaf"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Roast",
+      "steps": [
+        "Pat the roast dry. Sprinkle with salt and pepper.",
+        "Heat the oil in a four-quart Dutch oven or roaster over medium-high heat. Add the beef and brown on all sides (about 20 minutes). Remove the roast.",
+        "Stir in the onion, carrots, celery and garlic and sauté until soft (five to 10 minutes). Add the desired herbs and paprika and stir briefly. If desired, stir in the tomato paste and cook until slightly darkened (two to three minutes).",
+        "Add the wine and stock, stirring to remove any browned particles. Add the bay leaf, salt and pepper. Return the beef, cover and bring to a simmer on the stovetop.",
+        "Place in a 350 degree Fahrenheit oven or simmer over a low heat, turning occasionally, until fork tender (two and a half to three and a half hours). (The roast may be prepared up to this point up to two days in advance, cooled, covered and stored in the refrigerator before reheating.)",
+        "Remove from the heat and let sit for 15 minutes. Meanwhile, strain the cooking liquid, pressing the solids.",
+        "Slice the meat against the grain and serve with the gravy."
+      ]
+    }
+  ],
+  "tips": "Variations:\n• Hungarian Pot Roast: Reduce the stock to 1 and 1/4 cups and add 3/4 cup tomato juice. Serve with potato dumplings or egg noodles.\n• Ashkenazic Ginger Pot Roast: When the meat is tender, add 1/3 cup lemon juice, 4 crushed gingersnaps and 3 tablespoons brown sugar and cook about 10 minutes. Or after cooking the beef for 2 hours, add 1 cup raisins soaked in 1 cup wine, 3 tablespoon tomato paste, 2 tablespoons brown sugar, and 2 tablespoons lemon juice or vinegar.",
+  "wine_pairing": [],
+  "video": null
+}

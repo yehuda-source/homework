@@ -1,0 +1,138 @@
+{
+  "id": 42,
+  "source_id": 57575,
+  "name": "Flanken Onion Soup",
+  "slug": "flanken-onion-soup-recipe-3119",
+  "url": "https://www.kosher.com/recipe/flanken-onion-soup-recipe-3119/",
+  "description": "I really wanted to make onion soup but really didn’t want to be slaving over a pot of caramelizing onions for an hour or more, so I gave it a try in the crock pot. It turned out fantastic! No need for flour or soup mixes to add body. The flanken really turns this into a hearty soup that’s perfect for a chilly night.",
+  "chefs": [
+    "Michal Frischman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_510_Frischman_Flanken_Onion_Soup.jpg",
+  "extra_images": [],
+  "published": "2017-08-20T10:50:00",
+  "modified": "2026-09-17T02:41:50",
+  "cook_time": {
+    "hours": 18,
+    "minutes": 0,
+    "total_minutes": 1080
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Slow Cooker",
+    "Soups"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar",
+    "Paleo"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover",
+    "Sukkot"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "bay leaves",
+    "bone broth",
+    "crockpot",
+    "flanken",
+    "freezer-friendly",
+    "gluten free",
+    "hearty soups",
+    "hot soup",
+    "hot soups",
+    "low and slow",
+    "make ahead",
+    "meat soups",
+    "Michal Frishman",
+    "onion soup",
+    "onions",
+    "overnight",
+    "Pesach",
+    "slow cooked",
+    "slow cooker",
+    "soup",
+    "soups",
+    "Succos",
+    "Sukkos",
+    "thyme",
+    "white wine"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Olive Oil",
+          "text": "2 tablespoons Gefen Olive Oil"
+        },
+        {
+          "amount": "8 medium/large",
+          "item": "onions, sliced",
+          "text": "8 medium/large onions, sliced"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "salt",
+          "text": "1 tablespoon salt"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "black pepper",
+          "text": "1 teaspoon black pepper"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "Baron Herzog Chenin Blanc or other dry white wine",
+          "text": "1 and 1/2 cups Baron Herzog Chenin Blanc or other dry white wine"
+        },
+        {
+          "amount": "2 large pieces",
+          "item": "bone-on flanken (or more, the heartier the better!)",
+          "text": "2 large pieces bone-on flanken (or more, the heartier the better!)"
+        },
+        {
+          "amount": "5 sprigs",
+          "item": "fresh thyme",
+          "text": "5 sprigs fresh thyme"
+        },
+        {
+          "amount": "2",
+          "item": "dried bay leaves",
+          "text": "2 dried bay leaves"
+        },
+        {
+          "amount": "8 cups",
+          "item": "Manischewitz Chicken Broth or other chicken stock",
+          "text": "8 cups Manischewitz Chicken Broth or other chicken stock"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Soup",
+      "steps": [
+        "Turn your crock pot on low and drizzle in olive oil. Place onions in the crock pot and sprinkle with salt and pepper, then cover and let cook for 10–12 hours or overnight. After 10–12 hours, onions should be deeply caramelized and brown.",
+        "Stir the onions to ensure none have stuck to the pot, then add in the wine, thyme sprigs, bay leaves, flanken, and chicken stock. Cover and continue to cook on low until the flanken is extremely tender, about six to eight more hours, depending on your crock pot."
+      ]
+    }
+  ],
+  "tips": "Tips:\nDon’t want to make this in your crock pot? Sauté the seasoned onions in a large stockpot over medium–low heat instead until very caramelized, about one hour. (If you need some more oil, use vegetable oil, which won’t burn.) Add the herbs and wine and let reduce until almost completely evaporated, then add in flanken and chicken stock. Cook, covered, over medium heat until the flanken is falling off the bone, about two hours.\nNotes:\nThis can be made ahead, then refrigerated for three to four days or frozen for two to three months. Skim the excess fat off the top before reheating.\nDescription:\nPhotography: Moishe Wulliger and Chaya Berger\nFood and Prop Styling: Renee Muller and Rachel Mintz",
+  "wine_pairing": [
+    "Herzog Russian River Valley Chardonnay"
+  ],
+  "video": null
+}

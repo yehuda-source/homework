@@ -1,0 +1,89 @@
+{
+  "id": 53,
+  "source_id": 54772,
+  "name": "Hot Grapefruit Drink",
+  "slug": "hot-grapefruit-drink-recipe-2346",
+  "url": "https://www.kosher.com/recipe/hot-grapefruit-drink-recipe-2346/",
+  "description": "This warm drink doesn't require a special occasion. It's perfect to warm you up on a cold day, or as an alternative to hot cocoa on a snow day. Juicing the grapefruits is a fun activity for kids, and they'll enjoy the \"fruit\" of their labor!",
+  "chefs": [
+    "Shaindy Ausch"
+  ],
+  "image": "https://images.kosher.com/details.slide/h/o/Hot_Grapefuit_Drink_W.jpg",
+  "extra_images": [],
+  "published": "2017-11-02T11:22:19",
+  "modified": "2022-01-02T01:00:53",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 10,
+    "total_minutes": 10
+  },
+  "servings": "4",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Drinks"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Tu-Bishvat"
+  ],
+  "sources": [
+    "Whisk by Ami Magazine"
+  ],
+  "tags": [
+    "fruity",
+    "grapefruit",
+    "hot drinks",
+    "refreshing",
+    "winter drinks"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3",
+          "item": "Ruby Red grapefruits, 2 squeezed into 2 cups of juice and one supremed",
+          "text": "3 Ruby Red grapefruits, 2 squeezed into 2 cups of juice and one supremed"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Gefen Honey",
+          "text": "2 tablespoons Gefen Honey"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "vanilla sugar",
+          "text": "1 teaspoon vanilla sugar"
+        },
+        {
+          "amount": "1 cup",
+          "item": "water",
+          "text": "1 cup water"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Drink",
+      "steps": [
+        "In a medium pot, combine juice, honey, vanilla, and water. Bring to a boil over high heat; strain and discard solids.",
+        "Serve hot with fresh grapefruit segments."
+      ]
+    }
+  ],
+  "tips": "Description:\nPhotography by Tamara Friedman",
+  "wine_pairing": [],
+  "video": null
+}

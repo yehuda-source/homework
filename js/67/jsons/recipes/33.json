@@ -1,0 +1,120 @@
+{
+  "id": 33,
+  "source_id": 56510,
+  "name": "Mushroom Cauliflower Rice",
+  "slug": "mushroom-cauliflower-rice-2881",
+  "url": "https://www.kosher.com/recipe/mushroom-cauliflower-rice-2881/",
+  "description": "Ricing your cauliflower is definitely trendy, but unlike a rainbow bagel, totally one that I would indulge in regularly (no offense, rainbow bagels). It’s a perfect vehicle for other flavors and works great with leftover chicken or a stir-fry sauce, but sometimes I’m just in the mood of clean, simple, delicious flavors. Serve this as a side dish or topped with a poached egg as a complete meal.",
+  "chefs": [
+    "Michal Frischman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_538_Frischman_mushroom_cauliflower__rice.jpg",
+  "extra_images": [],
+  "published": "2017-05-03T12:57:35",
+  "modified": "2020-12-28T03:16:35",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 15,
+    "total_minutes": 15
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Carb",
+    "No Refined Sugar",
+    "Paleo",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "1-2-3",
+    "cauliflower",
+    "gluten free",
+    "leeks",
+    "Michal Frishman",
+    "mushrooms",
+    "Pesach",
+    "quick-and-easy",
+    "super easy",
+    "vegetables",
+    "veggies"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "24 ounces (680 grams)",
+          "item": "fresh greenhouse-grown cauliflower",
+          "text": "24 ounces (680 grams) fresh greenhouse-grown cauliflower"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "Bartenura Olive Oil",
+          "text": "2 tablespoons Bartenura Olive Oil"
+        },
+        {
+          "amount": "2 cloves",
+          "item": "garlic, minced or 2 cubes Gefen Frozen Garlic",
+          "text": "2 cloves garlic, minced or 2 cubes Gefen Frozen Garlic"
+        },
+        {
+          "amount": "1",
+          "item": "large leek, cleaned and sliced",
+          "text": "1 large leek, cleaned and sliced"
+        },
+        {
+          "amount": "1 (12-oz./340-g.) box",
+          "item": "cremini mushrooms, cleaned and sliced",
+          "text": "1 (12-oz./340-g.) box cremini mushrooms, cleaned and sliced"
+        },
+        {
+          "amount": "1 and 1/2 teaspoons",
+          "item": "salt",
+          "text": "1 and 1/2 teaspoons salt"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "pepper",
+          "text": "1/4 teaspoon pepper"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "Gefen Onion Powder",
+          "text": "1/2 teaspoon Gefen Onion Powder"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Cauliflower",
+      "steps": [
+        "Grate the cauliflower on the largest holes of a box grater or in the bowl of a food processor fitted with a grater attachment. Set aside.",
+        "Heat the oil in a large skillet and sauté garlic until fragrant, about 30 seconds.",
+        "Add in leek and mushrooms, and sauté over medium-high heat until soft, about five minutes. Keep the heat high enough to avoid moisture buildup in the pan.",
+        "When the vegetables are soft and there is no moisture in the pan, add in the riced cauliflower, salt, pepper, and onion powder, and stir to combine. Cover for two minutes to cook the cauliflower through, then uncover and allow the cauliflower to finish cooking for another minute or two. Serve immediately."
+      ]
+    }
+  ],
+  "tips": "Tips:\nFor a very quick dinner, prep the cauliflower up to three days ahead and refrigerate raw until ready to use.\nDescription:\nPhotography: Moishe Wulliger\nStyling: Renee Muller",
+  "wine_pairing": [],
+  "video": null
+}

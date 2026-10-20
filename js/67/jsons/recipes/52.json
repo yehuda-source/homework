@@ -1,0 +1,118 @@
+{
+  "id": 52,
+  "source_id": 59797,
+  "name": "Pumpkin Seed Dip",
+  "slug": "pumpkin-seed-dip-recipe-3852",
+  "url": "https://www.kosher.com/recipe/pumpkin-seed-dip-recipe-3852/",
+  "description": "This is a great addition to any crudite platter.",
+  "chefs": [
+    "Alexandra Zohn"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/e/seed_dip_IMG_7782.JPG",
+  "extra_images": [],
+  "published": "2017-10-25T22:16:37",
+  "modified": "2017-12-19T02:53:55",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 10,
+    "total_minutes": 10
+  },
+  "servings": "4",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Appetizers",
+    "Condiments & Kitchen Staples"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Paleo",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "dips",
+    "fall flavors",
+    "pumpkin",
+    "Thanksgiving"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 cup (4 and 1/2 ounces)",
+          "item": "raw pumpkin seeds",
+          "text": "1 cup (4 and 1/2 ounces) raw pumpkin seeds"
+        },
+        {
+          "amount": "2 small cloves",
+          "item": "garlic, peeled",
+          "text": "2 small cloves garlic, peeled"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "coarsely chopped fresh parsley, or 6 cubes Dorot Gardens Frozen Parsley",
+          "text": "2 tablespoons coarsely chopped fresh parsley, or 6 cubes Dorot Gardens Frozen Parsley"
+        },
+        {
+          "amount": "3",
+          "item": "scallions, coarsely chopped (green and white parts)",
+          "text": "3 scallions, coarsely chopped (green and white parts)"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "Bartenura Extra-Virgin Olive Oil",
+          "text": "1/4 cup Bartenura Extra-Virgin Olive Oil"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "water (plus more if needed)",
+          "text": "1/4 cup water (plus more if needed)"
+        },
+        {
+          "amount": "1 and 1/2 tablespoons",
+          "item": "fresh lime juice",
+          "text": "1 and 1/2 tablespoons fresh lime juice"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "ground cumin",
+          "text": "1/2 teaspoon ground cumin"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "Tuscanini Fine Sea Salt",
+          "text": "1/2 teaspoon Tuscanini Fine Sea Salt"
+        },
+        {
+          "amount": "1/4 teaspoon",
+          "item": "red pepper flakes (optional)",
+          "text": "1/4 teaspoon red pepper flakes (optional)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Dip",
+      "steps": [
+        "Toast pumpkin seeds in a dry heavy skillet over low heat. Stir frequently with a heat-proof spatula, until seeds puff (but NOT brown), about five to seven minutes. Let cool.",
+        "In a food processor, puree toasted pepitas, garlic, parsley, scallions, oil, water, lime juice, cumin, salt and pepper flakes (if using), until smooth. Thin with a bit more water if desired. Taste for seasoning and adjust if needed."
+      ]
+    }
+  ],
+  "tips": "Notes:\nServe immediately or keep refrigerated for up to three days.\nDescription:\nYields 1 cup",
+  "wine_pairing": [],
+  "video": null
+}

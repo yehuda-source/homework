@@ -1,0 +1,104 @@
+{
+  "id": 26,
+  "source_id": 50885,
+  "name": "Gluten Free Apple Fritter",
+  "slug": "apple-fritter-1396",
+  "url": "https://www.kosher.com/recipe/apple-fritter-1396/",
+  "description": "“This recipe is special as it has a history. It’s a heimish recipe from the Satmar Rebbetzin, a”h, wife of the Rebbe Reb Yoel, ztz”l. The Rebbetzin gave it to my friend FL’s mother many many years ago. It’s easy and tastes delicious. It even freezes well.” Thanks, RK.",
+  "chefs": [
+    "Brynie Greisman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_184_Greisman_Apple_Fritter.jpg",
+  "extra_images": [],
+  "published": "2017-03-13T13:06:42",
+  "modified": "2017-06-15T20:57:43",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 25,
+    "total_minutes": 25
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Sides"
+  ],
+  "allergens": [
+    "Egg"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "apple fritter",
+    "apple kugel",
+    "freezer-friendly",
+    "fried",
+    "gluten free",
+    "gluten free side dish",
+    "Pesach",
+    "Seder"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "4–6",
+          "item": "big apples (half green and half red), grated",
+          "text": "4–6 big apples (half green and half red), grated"
+        },
+        {
+          "amount": "4",
+          "item": "eggs",
+          "text": "4 eggs"
+        },
+        {
+          "amount": "4 tablespoons",
+          "item": "Manischewitz Potato Starch",
+          "text": "4 tablespoons Manischewitz Potato Starch"
+        },
+        {
+          "amount": "4 tablespoons",
+          "item": "sugar",
+          "text": "4 tablespoons sugar"
+        },
+        {
+          "amount": null,
+          "item": "pinch Gefen Cinnamon",
+          "text": "pinch Gefen Cinnamon"
+        },
+        {
+          "amount": null,
+          "item": "oil, preferably nut oil, for frying",
+          "text": "oil, preferably nut oil, for frying"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Apple Fritter",
+      "steps": [
+        "Mix together the apples, eggs, potato starch, sugar, and cinnamon by hand. Don’t over-mix because you don’t want it to become too soft and mushy.",
+        "Pour in the apple mixture, filling the entire pan, and flatten. Cook for a few minutes, and then lower the flame. Continue cooking for 15–20 minutes. Check with a spatula that the sides and bottom are brown.",
+        "Heat a generous amount of oil in a small nonstick frying pan (for double the recipe I used a 12-inch / 32-cm. pan), over a medium flame. There should be the amount of oil you would use if you were frying chicken cutlets (schnitzel).",
+        "Remove the pan from the flame. Using a large, flat plate, cover the frying pan and flip over the fritter onto the plate. Slide the fritter back into the pan and continue to cook another 5–10 minutes on a low flame. Remove the fritter from the pan, either by flipping again or by sliding it out. It should be crispy on the outside and soft on the inside! Cut it into wedges and serve."
+      ]
+    }
+  ],
+  "tips": "Notes:\nThis is an excellent, light side dish for the Seder. Heat partially covered.",
+  "wine_pairing": [],
+  "video": null
+}

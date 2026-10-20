@@ -1,0 +1,126 @@
+{
+  "id": 14,
+  "source_id": 52000,
+  "name": "Turkey Goulash",
+  "slug": "turkey-goulash-1647",
+  "url": "https://www.kosher.com/recipe/turkey-goulash-1647/",
+  "description": "This is a delicious, yet very easy stew to put together using ingredients you have around. It is sweet and appeals to all ages. Serve as is, over rice, or over mashed potatoes.",
+  "chefs": [
+    "Brynie Greisman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_109_Greisman_Turkey_Goulash.photo_Lailah.styling_Leibowitz.jpg",
+  "extra_images": [],
+  "published": "2017-01-01T13:04:32",
+  "modified": "2019-08-27T12:54:35",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 25,
+    "total_minutes": 145
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free"
+  ],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Passover"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "dark turkey meat",
+    "dried fruits",
+    "freezer-friendly",
+    "goulash",
+    "hungarian cooking",
+    "Hungarian Food",
+    "hungarian stew",
+    "kosher for passover",
+    "kosher Hungarian food",
+    "meal in one",
+    "meat and potatoes",
+    "non-gebrokts",
+    "Pesach",
+    "pesach main dish",
+    "raisins",
+    "sweet chicken",
+    "turkey bottoms"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1-2",
+          "item": "onions, cut in half rings",
+          "text": "1-2 onions, cut in half rings"
+        },
+        {
+          "amount": "2",
+          "item": "turkey bottoms or approximately 1 pound (500 grams) dark turkey meat (\"hodu adom\" in Hebrew)",
+          "text": "2 turkey bottoms or approximately 1 pound (500 grams) dark turkey meat (\"hodu adom\" in Hebrew)"
+        },
+        {
+          "amount": "2",
+          "item": "potatoes, cubed",
+          "text": "2 potatoes, cubed"
+        },
+        {
+          "amount": "5",
+          "item": "carrots, cubed",
+          "text": "5 carrots, cubed"
+        },
+        {
+          "amount": "1/3 cup",
+          "item": "brown sugar",
+          "text": "1/3 cup brown sugar"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "lemon juice",
+          "text": "3 tablespoons lemon juice"
+        },
+        {
+          "amount": null,
+          "item": "salt to taste (sprinkle a little)",
+          "text": "salt to taste (sprinkle a little)"
+        },
+        {
+          "amount": null,
+          "item": "handful of raisins and/or prunes",
+          "text": "handful of raisins and/or prunes"
+        },
+        {
+          "amount": "1/2",
+          "item": "a large can (20+ oz./580+ g.) tomato paste, diluted with same amount plus a little more of water OR 1 (15-oz./425-g.) can Gefen Tomato Sauce",
+          "text": "1/2 a large can (20+ oz./580+ g.) tomato paste, diluted with same amount plus a little more of water OR 1 (15-oz./425-g.) can Gefen Tomato Sauce"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Make the Goulash",
+      "steps": [
+        "Saute onion until translucent.",
+        "Cut meat into cubes. Add to pot and brown for 45 minutes.",
+        "Add the rest of the ingredients and bring to a boil. Cook on low flame for one and a half hours. Mix gently from time to time to ensure that all the meat and veggies are in the sauce. If necessary, add a little water."
+      ]
+    }
+  ],
+  "tips": "Notes:\nI usually make this in advance and freeze it. However, if I know I’ll be freezing it, I omit the potatoes and add cooked potatoes to the pot while warming it up. Remember, also, that you can add more veggies if needed. You might have to add more sauce and seasoning.\nDescription:\nPhotography: Daniel Lailah\nStyling: Michal Leibowitz",
+  "wine_pairing": [],
+  "video": null
+}

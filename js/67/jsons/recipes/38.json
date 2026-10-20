@@ -1,0 +1,122 @@
+{
+  "id": 38,
+  "source_id": 54588,
+  "name": "Peanut Chew Bars with Ice Cream",
+  "slug": "peanut-chew-bars-with-ice-cream-in-martini-glasses-2306",
+  "url": "https://www.kosher.com/recipe/peanut-chew-bars-with-ice-cream-in-martini-glasses-2306/",
+  "description": "Peanut chews are one of those foods that most people really enjoy eating. Paired with ice cream … what could be bad?! Take a look at these four different ways to serve it (also see Peanut Chew Ice Cream Slices, Peanut Chew Bowls with Ice Cream, and Peanut Chew Ice Cream Pie). Whichever way you choose, it will definitely be your pièce de résistance!",
+  "chefs": [
+    "Esther Ottensoser"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_Ottensoser_Peanut_Chew_Bars_with_Ice_Cream_in_Martini_Glasses.jpg",
+  "extra_images": [],
+  "published": "2017-05-23T09:11:28",
+  "modified": "2023-02-09T04:09:29",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 45,
+    "total_minutes": 45
+  },
+  "servings": "20",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Peanuts"
+  ],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Shavuot",
+    "Sukkot"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "Best of Family Table",
+    "egg-free",
+    "egg-free desserts",
+    "elegant presentation",
+    "gluten free",
+    "peanut chews",
+    "Shavuos",
+    "sheva brachos",
+    "sheva brachot",
+    "Succos",
+    "Sukkos",
+    "vanilla ice cream"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Peanut Chew Mixture",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "Gefen Peanut Butter",
+          "text": "1 cup Gefen Peanut Butter"
+        },
+        {
+          "amount": "1/3 cup",
+          "item": "Glicks Chocolate Chips",
+          "text": "1/3 cup Glicks Chocolate Chips"
+        },
+        {
+          "amount": "1 cup",
+          "item": "Karo syrup",
+          "text": "1 cup Karo syrup"
+        },
+        {
+          "amount": "1 tablespoon",
+          "item": "water",
+          "text": "1 tablespoon water"
+        },
+        {
+          "amount": "4 cups",
+          "item": "rice crispies",
+          "text": "4 cups rice crispies"
+        },
+        {
+          "amount": "2 cups",
+          "item": "roasted, unsalted chopped peanuts",
+          "text": "2 cups roasted, unsalted chopped peanuts"
+        },
+        {
+          "amount": null,
+          "item": "ice cream, for serving",
+          "text": "ice cream, for serving"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Peanut chews",
+      "steps": [
+        "Cook the peanut butter, chocolate chips, Karo syrup, and water in a pot over medium heat, stirring, until chocolate is melted. Remove from heat and mix in the rice crispies and chopped peanuts.",
+        "Pour peanut chew mixture onto a baking sheet and smooth top. Allow to harden.",
+        "Cut peanut chews into ½x3-inch (1¼X7½-cm) bars."
+      ]
+    },
+    {
+      "title": "Assembly",
+      "steps": [
+        "This step needs to be done in advance. Put a little melted chocolate on a plate and use a pastry comb to make a design. Sprinkle chopped nuts on chocolate. Allow to dry. For easy storage, pile them up with a piece of plastic wrap in between each plate.",
+        "Place bars and martini glass filled with ice cream on each plate."
+      ]
+    }
+  ],
+  "tips": "Tips:\nPreparing scoops of ice cream on a tray in advance will make the serving go smoother.",
+  "wine_pairing": [],
+  "video": null
+}

@@ -1,0 +1,160 @@
+{
+  "id": 99,
+  "source_id": 82235,
+  "name": "Squash & Apple Crumble",
+  "slug": "squash-apple-crumble-9780",
+  "url": "https://www.kosher.com/recipe/squash-apple-crumble-9780/",
+  "description": "Delicious fall flavours combine to make this dish - but the question is whether it's a side dish or a dessert!",
+  "chefs": [
+    "Erin Grunstein"
+  ],
+  "image": "https://images.kosher.com/details.slide/i/m/IMG_7748_-_Erin_Grunstein-Halpern_crop.jpg",
+  "extra_images": [],
+  "published": "2020-09-22T06:07:02",
+  "modified": "2020-09-22T10:34:02",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 5,
+    "total_minutes": 65
+  },
+  "servings": "8",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Baking",
+    "Desserts",
+    "Sides"
+  ],
+  "allergens": [
+    "Egg",
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah",
+    "Shabbat",
+    "Sukkot"
+  ],
+  "sources": [],
+  "tags": [
+    "apple",
+    "butternut squash",
+    "crumble",
+    "Erin Grunstein",
+    "erin.eats.mtl",
+    "Rosh Hashana",
+    "Shabbos",
+    "Succos",
+    "Succot",
+    "Sukkos"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Apple Crumble",
+      "ingredients": [
+        {
+          "amount": "4 cups",
+          "item": "cubed squash and chopped apple",
+          "text": "4 cups cubed squash and chopped apple"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "pomegranate seeds (optional)",
+          "text": "1/4 cup pomegranate seeds (optional)"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "brown sugar",
+          "text": "3 tablespoons brown sugar"
+        },
+        {
+          "amount": null,
+          "item": "juice of 1/2 lemon",
+          "text": "juice of 1/2 lemon"
+        },
+        {
+          "amount": "1/2 tablespoon",
+          "item": "Gefen Cornstarch",
+          "text": "1/2 tablespoon Gefen Cornstarch"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "pumpkin pie seasoning",
+          "text": "1 teaspoon pumpkin pie seasoning"
+        }
+      ]
+    },
+    {
+      "title": "Topping",
+      "ingredients": [
+        {
+          "amount": "1/2 cup",
+          "item": "large flake oats",
+          "text": "1/2 cup large flake oats"
+        },
+        {
+          "amount": "1/2 cup plus 1 tablespoon",
+          "item": "Shibolim Whole Wheat Flour",
+          "text": "1/2 cup plus 1 tablespoon Shibolim Whole Wheat Flour"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "pumpkin pie seasoning",
+          "text": "1/2 teaspoon pumpkin pie seasoning"
+        },
+        {
+          "amount": "1",
+          "item": "egg",
+          "text": "1 egg"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "oil",
+          "text": "1/4 cup oil"
+        },
+        {
+          "amount": "1/4 cup",
+          "item": "brown sugar",
+          "text": "1/4 cup brown sugar"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Gefen Vanilla",
+          "text": "1 teaspoon Gefen Vanilla"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "salt",
+          "text": "1/2 teaspoon salt"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "Haddar Baking Powder",
+          "text": "1 teaspoon Haddar Baking Powder"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Squash & Apple Crumble",
+      "steps": [
+        "Preheat oven to 350 degrees Fahrenheit.",
+        "Mix together squash, apple, pomegranate seeds, brown sugar, lemon, cornstarch and pumpkin pie seasoning. Pour into the bottom of a pie dish.",
+        "Mix together topping ingredients and drop in clumps over squash mixture.",
+        "Bake for about 60 minutes."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

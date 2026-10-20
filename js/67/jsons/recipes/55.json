@@ -1,0 +1,125 @@
+{
+  "id": 55,
+  "source_id": 60560,
+  "name": "Flanken Gnocchi",
+  "slug": "flanken-gnocchi-4068",
+  "url": "https://www.kosher.com/recipe/flanken-gnocchi-4068/",
+  "description": "This dish is hearty, delicious and satisfying. The best part is cooking the flanken in the crockpot! The flanken falls apart as it becomes so tender and mouth-watering.",
+  "chefs": [
+    "Ashira Mirsky"
+  ],
+  "image": "https://images.kosher.com/details.slide/g/n/Gnocchi.jpg",
+  "extra_images": [],
+  "published": "2017-11-15T19:04:00",
+  "modified": "2026-09-17T02:42:50",
+  "cook_time": {
+    "hours": 6,
+    "minutes": 30,
+    "total_minutes": 390
+  },
+  "servings": "4",
+  "difficulty": "Medium",
+  "kosher_type": "Meat",
+  "main_dish": null,
+  "categories": [
+    "Mains",
+    "Slow Cooker"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [
+    "Ashkenazi"
+  ],
+  "holidays": [
+    "Purim"
+  ],
+  "sources": [],
+  "tags": [
+    "ashira mirsky",
+    "asparagus",
+    "crockpot",
+    "flanken",
+    "gnocchi",
+    "hubby is hungry",
+    "hubbyishungry",
+    "Jewish cuisine",
+    "jewish food",
+    "slow cooker"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "1 and 1/2 pounds",
+          "item": "boneless flanken",
+          "text": "1 and 1/2 pounds boneless flanken"
+        },
+        {
+          "amount": "2 cups",
+          "item": "cabernet sauvignon (I used Zmora Cabernet)",
+          "text": "2 cups cabernet sauvignon (I used Zmora Cabernet)"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "onion soup mix",
+          "text": "2 tablespoons onion soup mix"
+        },
+        {
+          "amount": "1/2 teaspoon",
+          "item": "coffee",
+          "text": "1/2 teaspoon coffee"
+        },
+        {
+          "amount": "1/2 cup",
+          "item": "Gefen BBQ Sauce",
+          "text": "1/2 cup Gefen BBQ Sauce"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "garlic salt",
+          "text": "1 teaspoon garlic salt"
+        },
+        {
+          "amount": "2 bags",
+          "item": "frozen gnocchi (Pasta Authority)",
+          "text": "2 bags frozen gnocchi (Pasta Authority)"
+        },
+        {
+          "amount": "1 bunch",
+          "item": "asparagus (see note)",
+          "text": "1 bunch asparagus (see note)"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Cook the Flanken",
+      "steps": [
+        "Place the flanken in a crockpot. Add the coffee, garlic salt, BBQ sauce, onion soup mix, and the wine. Turn the crockpot to low and let the meat cook for six hours. Add one teaspoon cornstarch mixed with a cup of water to the liquid in the crockpot to thicken it before serving. You can also pull the flanken apart to bite-sized pieces."
+      ]
+    },
+    {
+      "title": "Cook the Gnocchi",
+      "steps": [
+        "Boil the gnocchi for a few minutes according to package directions. Drain well. Add the gnocchi to the crockpot and stir."
+      ]
+    },
+    {
+      "title": "Cook the Asparagus",
+      "steps": [
+        "Wash and check the asparagus well. Trim into bite-sized pieces and sautee in olive oil on high heat for a few minutes. Add salt and pepper to taste. The asparagus should still have a crunch and bite to it.",
+        "Toss the asparagus into the crockpot and mix all the ingredients together. Turn the crockpot off and serve immediately. Enjoy!"
+      ]
+    }
+  ],
+  "tips": "Notes:\nTo clean green asparagus from insects, the tips as well as the triangular side leaves should be cut off and discarded.",
+  "wine_pairing": [],
+  "video": null
+}

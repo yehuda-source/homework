@@ -1,0 +1,135 @@
+{
+  "id": 77,
+  "source_id": 69645,
+  "name": "Corn Salsa Sauce",
+  "slug": "corn-salsa-sauce-6404",
+  "url": "https://www.kosher.com/recipe/corn-salsa-sauce-6404/",
+  "description": "This sauce is inspired by corn salsa. The flavors of corn and grilled poblano go great with carne asada.",
+  "chefs": [
+    "Gabe Garcia"
+  ],
+  "image": "https://images.kosher.com/details.slide/u/t/UTH_Corn_Salsa_Sauce.png",
+  "extra_images": [],
+  "published": "2019-02-27T09:22:27",
+  "modified": "2019-02-27T10:22:18",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Condiments & Kitchen Staples"
+  ],
+  "allergens": [
+    "Tree nuts"
+  ],
+  "diets": [
+    "Gluten Free"
+  ],
+  "cuisines": [
+    "Mexican"
+  ],
+  "holidays": [],
+  "sources": [
+    "Kosher.com Exclusive"
+  ],
+  "tags": [
+    "gabe garcia",
+    "Gabriel Garcia",
+    "gourmet",
+    "kosher Mexican food",
+    "Mexican",
+    "pareve",
+    "parve",
+    "sauce",
+    "tierra sur",
+    "under the hood"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "3",
+          "item": "corn on the cob",
+          "text": "3 corn on the cob"
+        },
+        {
+          "amount": "1",
+          "item": "onion, cut in quarters",
+          "text": "1 onion, cut in quarters"
+        },
+        {
+          "amount": "4",
+          "item": "garlic cloves",
+          "text": "4 garlic cloves"
+        },
+        {
+          "amount": "1 quart",
+          "item": "Gefen Almond Milk",
+          "text": "1 quart Gefen Almond Milk"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "salt",
+          "text": "3 tablespoons salt"
+        },
+        {
+          "amount": "8",
+          "item": "cilantro sprigs",
+          "text": "8 cilantro sprigs"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "cumin seed",
+          "text": "1 teaspoon cumin seed"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "coriander seed",
+          "text": "1 teaspoon coriander seed"
+        },
+        {
+          "amount": "1 quart",
+          "item": "water",
+          "text": "1 quart water"
+        },
+        {
+          "amount": "1",
+          "item": "poblano",
+          "text": "1 poblano"
+        },
+        {
+          "amount": "1",
+          "item": "lime",
+          "text": "1 lime"
+        },
+        {
+          "amount": "2 tablespoons",
+          "item": "cilantro leaves",
+          "text": "2 tablespoons cilantro leaves"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Corn Salsa Sauce",
+      "steps": [
+        "To a pot add corn, onion, garlic, almond milk, salt, cilantro, and one teaspoon each of cumin and coriander tied in a spice bag, and lastly enough water to cover the corn. Bring the pot to a boil then lower to a simmer, cover, and cook for 20 minutes.",
+        "On an open flame, grill, stovetop, or broiler, char the outside of one large poblano. Once charred and blackened place in a bowl. Cover the bowl with plastic wrap and allow to steam – this will make it easier to remove the skin. Remove the skin and seeds and cut the poblano into a small dice. Toss with fresh lime juice and set aside in a large bowl.",
+        "Remove the corn, garlic, and onion from the pot. Reserve a pint of the cooking liquid. Separate the corn from the cob and place it in a blender with the onion and garlic. Add one cup of the reserved liquid and puree until smooth. If it’s too thick, add more of the reserved liquid.",
+        "Add the corn puree to the bowl with the diced poblano and mix. Season with salt to taste and garnish with fresh cilantro."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

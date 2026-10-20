@@ -1,0 +1,132 @@
+{
+  "id": 89,
+  "source_id": 79937,
+  "name": "Mini Lemon Trifle Cups",
+  "slug": "mini-lemon-trifle-cups-9177",
+  "url": "https://www.kosher.com/recipe/mini-lemon-trifle-cups-9177/",
+  "description": "Submitted by Gitty Wolf\nSo pretty and surprisingly easy! Perfect for a Simcha!",
+  "chefs": [
+    "My Kosher Recipe Contest"
+  ],
+  "image": "https://images.kosher.com/details.slide/m/i/Mini_Lemon_Trifle_Cups.jpg",
+  "extra_images": [],
+  "published": "2020-06-04T10:18:15",
+  "modified": "2020-06-03T18:12:17",
+  "cook_time": {
+    "hours": 1,
+    "minutes": 0,
+    "total_minutes": 60
+  },
+  "servings": "12",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [
+    "Gluten",
+    "Wheat"
+  ],
+  "diets": [],
+  "cuisines": [],
+  "holidays": [],
+  "sources": [
+    "My Kosher"
+  ],
+  "tags": [
+    "desserts",
+    "Gitty Wolf",
+    "layered desserts",
+    "lemon cream",
+    "lemon curd",
+    "lemon dessert",
+    "lemon flavor",
+    "lemony",
+    "my kosher",
+    "mykosher",
+    "mykosher.com",
+    "trifles",
+    "white cake"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Cake",
+      "ingredients": [
+        {
+          "amount": null,
+          "item": "your favorite vanilla cake, crumbled into pieces. (Great way to use up leftover or imperfect cakes)",
+          "text": "your favorite vanilla cake, crumbled into pieces. (Great way to use up leftover or imperfect cakes)"
+        }
+      ]
+    },
+    {
+      "title": "Lemon Curd",
+      "ingredients": [
+        {
+          "amount": "1 cup",
+          "item": "white sugar",
+          "text": "1 cup white sugar"
+        },
+        {
+          "amount": "3",
+          "item": "whole eggs",
+          "text": "3 whole eggs"
+        },
+        {
+          "amount": "3/4 c.",
+          "item": "lemon juice (I sometimes used bottled, and it's totally fine!)",
+          "text": "3/4 c. lemon juice (I sometimes used bottled, and it's totally fine!)"
+        },
+        {
+          "amount": "1/4 c.",
+          "item": "oil or margarine",
+          "text": "1/4 c. oil or margarine"
+        }
+      ]
+    },
+    {
+      "title": "Whipped Cream",
+      "ingredients": [
+        {
+          "amount": "1",
+          "item": "rich's whip carton",
+          "text": "1 rich's whip carton"
+        },
+        {
+          "amount": "1/4 c.",
+          "item": "instant vanilla pudding powder",
+          "text": "1/4 c. instant vanilla pudding powder"
+        }
+      ]
+    },
+    {
+      "title": "For Topping",
+      "ingredients": [
+        {
+          "amount": null,
+          "item": "meringues, optional, for topping",
+          "text": "meringues, optional, for topping"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Trifle Cups",
+      "steps": [
+        "First prepare the lemon curd - in the microwave! Couldn't be easier!",
+        "Whisk sugar and eggs in a large microwave safe bowl until smooth. whisk in lemon juice and oil.",
+        "Cook in microwave for 1 minute intervals, stirring after each minute. The process will take about 5 minutes. You want it to thicken nicely, but it will continue to thicken a bit more in the fridge.",
+        "Remove from microwave, transfer to a container with a lid, and refrigerate about half hour (up to 2 weeks).",
+        "While the lemon curd cools, you can whip up the Rich's Whip in a clean mixing bowl, slowly adding the pudding powder as it whips.",
+        "Crumble the vanilla cake into 12-18 mini mousse cups, then pour in some lemon curd, and finally pipe the whip topping on top with a piping tip and piping bag. Garnish with a meringue."
+      ]
+    }
+  ],
+  "tips": null,
+  "wine_pairing": [],
+  "video": null
+}

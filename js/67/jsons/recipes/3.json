@@ -1,0 +1,106 @@
+{
+  "id": 3,
+  "source_id": 67288,
+  "name": "Strawberry Gazpacho",
+  "slug": "strawberry-gazpacho-5817",
+  "url": "https://www.kosher.com/recipe/strawberry-gazpacho-5817/",
+  "description": "Learn the recipe for this sweet, chilled strawberry dessert soup; it'll get you out of the kitchen fast, without heating up the oven.",
+  "chefs": [
+    "Paula Shoyer"
+  ],
+  "image": "https://images.kosher.com/details.slide/s/t/strawberry_gazpacho_shutterstock_1056224166.jpg",
+  "extra_images": [],
+  "published": "2012-08-05T14:17:40",
+  "modified": "2018-07-16T03:59:52",
+  "cook_time": {
+    "hours": 0,
+    "minutes": 15,
+    "total_minutes": 15
+  },
+  "servings": "5",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Pescatarian",
+    "Vegan",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Nine Days"
+  ],
+  "sources": [
+    "KosherScoop.com"
+  ],
+  "tags": [
+    "berries",
+    "cold soups",
+    "fresh",
+    "fruity",
+    "fruity desserts",
+    "gazpacho",
+    "Paula Shoyer",
+    "strawberries",
+    "strawberry",
+    "summer fruit"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "2 pounds",
+          "item": "strawberries, washed and hulled (about 1 quart plus 1/2 pint)",
+          "text": "2 pounds strawberries, washed and hulled (about 1 quart plus 1/2 pint)"
+        },
+        {
+          "amount": "14",
+          "item": "mint leaves, divided",
+          "text": "14 mint leaves, divided"
+        },
+        {
+          "amount": "1 teaspoon",
+          "item": "fresh lemon juice",
+          "text": "1 teaspoon fresh lemon juice"
+        },
+        {
+          "amount": "3 tablespoons",
+          "item": "confectioners’ sugar (or more depending on tartness of fruit)",
+          "text": "3 tablespoons confectioners’ sugar (or more depending on tartness of fruit)"
+        },
+        {
+          "amount": "2 teaspoons",
+          "item": "orange blossom water, optional",
+          "text": "2 teaspoons orange blossom water, optional"
+        },
+        {
+          "amount": "1 and 1/2 cups",
+          "item": "of 1/4-inch diced fruit, such as kiwi, mango, and/or apricot",
+          "text": "1 and 1/2 cups of 1/4-inch diced fruit, such as kiwi, mango, and/or apricot"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "For the Strawberry Gazpacho",
+      "steps": [
+        "Place the strawberries in a blender or the bowl of a food processor fitted with a metal blade and purée until smooth, scraping down the bowl to get all the pieces puréed.",
+        "Add eight of the mint leaves, the lemon juice, confectioners’ sugar, and orange blossom water if using and process again until well mixed. Taste to see if it needs any more sugar and add to taste.",
+        "Cut the remaining six mint leaves into very thin slices.",
+        "To serve, ladle the purée into small bowls and scoop up one-quarter cup of fruit and add to each bowl. Sprinkle some of the sliced mint leaves on top."
+      ]
+    }
+  ],
+  "tips": "Notes:\nStore in the refrigerator for up to three days.",
+  "wine_pairing": [],
+  "video": null
+}

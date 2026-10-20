@@ -1,0 +1,86 @@
+{
+  "id": 76,
+  "source_id": 69404,
+  "name": "2-Ingredient Lychee Blueberry Sorbet",
+  "slug": "2-ingredient-lychee-blueberry-sorbet-6343",
+  "url": "https://www.kosher.com/recipe/2-ingredient-lychee-blueberry-sorbet-6343/",
+  "description": "The credit for this recipe goes to my husband Eliahu, who helped me develop it. Lychee fruits are, in our opinion, one of the most unappreciated shehecheyanu fruits around. Their candy flavor pairs really well with the tart blueberries in this recipe to make an amazingly cool Yom Tov dessert.",
+  "chefs": [
+    "Chaia Frishman"
+  ],
+  "image": "https://images.kosher.com/details.slide/f/t/FT_607_Frishman_Two-Ingredient-Lychee-Blueberry-Sorbet-F.jpg",
+  "extra_images": [],
+  "published": "2018-12-12T01:21:04",
+  "modified": "2018-12-11T22:48:43",
+  "cook_time": {
+    "hours": 2,
+    "minutes": 0,
+    "total_minutes": 120
+  },
+  "servings": "6",
+  "difficulty": "Easy",
+  "kosher_type": "Parve",
+  "main_dish": null,
+  "categories": [
+    "Desserts"
+  ],
+  "allergens": [],
+  "diets": [
+    "Gluten Free",
+    "Low Fat",
+    "Pescatarian",
+    "Vegetarian"
+  ],
+  "cuisines": [],
+  "holidays": [
+    "Rosh Hashanah",
+    "Tu-Bishvat"
+  ],
+  "sources": [
+    "Family Table by Mishpacha Magazine"
+  ],
+  "tags": [
+    "blueberries",
+    "Chaia Frischman",
+    "Chaia Frishman",
+    "fruit",
+    "fruitplattersandmore",
+    "fruity desserts",
+    "healthy dessert",
+    "lychees",
+    "sorbet"
+  ],
+  "freezer_friendly": false,
+  "staff_favorite": false,
+  "ingredient_groups": [
+    {
+      "title": "Main ingredients",
+      "ingredients": [
+        {
+          "amount": "5 (15-oz./425-g.) cans",
+          "item": "Lieber’s whole lychees, drained, liquid reserved",
+          "text": "5 (15-oz./425-g.) cans Lieber’s whole lychees, drained, liquid reserved"
+        },
+        {
+          "amount": "2 cups",
+          "item": "fresh blueberries",
+          "text": "2 cups fresh blueberries"
+        }
+      ]
+    }
+  ],
+  "direction_groups": [
+    {
+      "title": "Prepare the Sorbet",
+      "steps": [
+        "Puree lychees in a blender till smooth. Set aside. Puree blueberries in the same blender. Set aside.",
+        "Measure two cups of lychee puree and mix with one cup of blueberry puree. Add 1/2 cup reserved lychee juice. Mix well. Refrigerate for one hour.",
+        "Pour the mixture into a blender or food processor and puree again. Pour into a metal pan and freeze until it can be easily crushed, but is not rock solid. (You don’t want to ruin the blades of your blender.) Remove from the freezer and puree again. Refreeze and repeat. Store in a tightly sealed container to prevent freezer burn.",
+        "Alternatively, you can pour the mixture into an ice cream machine as per the manufacturer’s instructions."
+      ]
+    }
+  ],
+  "tips": "Notes:\nYou’ll probably have some leftover lychee and blueberry puree and, of course, some reserved liquid. Normally I would use simple syrup for sorbet, but in this case I used the lychee juice to add more flavor. It’s a pretty mild flavor, so feel free to use in place of simple syrup for cocktails. As for the leftover puree? Use it to make an uber-trendy smoothie!\nDescription:\nPhotography: Moishe Wulliger\nFood Styling: Renee Muller",
+  "wine_pairing": [],
+  "video": null
+}
