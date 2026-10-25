@@ -4,26 +4,38 @@ const recipeNameElement = document.querySelector("#recipeName");
 const recipeImg = document.querySelector("#recipeImg");
 const ingredientList = document.querySelector("#ingredientList");
 async function getJson(url){
+    try{
     const promise = await fetch(url);
+    if(!promise.ok){
+        throw new Error(`Http error status: ${promise.status}`);
+        
+    }
     const object = await promise.json();
+    
     console.log(object);
     return object;
+    }catch(error){
+        console.log(error)
+    }
+    
 }
 async function fillSelect(){
         const json = await getJson("jsons/index.json");
         let addedText;
+        let recipe
         for(let i = 0; i<50; i++){
-            addedText += `<option id = "recipe${i}">${json.recipes[i].name}</option>`
+            recipe = json.recipes[i]
+            addedText += `<option value = "${recipe.id}">${recipe.name}</option>`
             
            
          }
           select.innerHTML += addedText
-          select.addEventListener("change", async () =>{
+          select.addEventListener("change", async e =>{
             console.log(select.selectedIndex)
             const index = select.selectedIndex - 1;
-            const recipe = await getJson(`jsons/recipes/${json.recipes[index].id}.json`);
-            console.log(recipe)
-            fillRecipeDisplay(recipe);
+            const recipeObject = await getJson(`jsons/recipes/${e.target.value}.json`);
+            console.log(recipeObject)
+            fillRecipeDisplay(recipeObject);
           })
     // json.recipes.forEach(element => {
         

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "cholent",
+        "ingredients": [
+            "meat",
+            "potatoes",
+            "barley",
+            "beans"
+        ],
+        "picture": ""
+    },
+    {
+        "id": 2,
+        "name": ""
+    }
+]
