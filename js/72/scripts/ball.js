@@ -7,7 +7,8 @@ const colorPicker = document.querySelector("#colorPicker");
 const range = document.querySelector("#size");
 const clear = document.querySelector("#clear")
 const checkbox = document.querySelector('#checkbox');
-const addDvd = document.querySelector('#addDvd')
+const addDvd = document.querySelector('#addDvd');
+
 
 
 
@@ -48,13 +49,13 @@ function GetRandomrgbColor(){
 function GetrgbPart(){
     return Math.floor(Math.random() * 256);
 }
-function game() {
+function game(timestamp) {
     context.clearRect(0, 0, theCanvas.width, theCanvas.height);
     balls.forEach (ball =>{
-        ball.move()
+        ball.move(timestamp)
     });
     logos.forEach (logo =>{
-        logo.move();
+        logo.move(timestamp);
     })
     
 
@@ -64,6 +65,8 @@ function game() {
 requestAnimationFrame(game)
 
 class ball /*extends bouncer*/{
+    speed = 200;
+    lastTime = null;
     constructor(radius, color, change) {
         //super();
         
@@ -77,11 +80,16 @@ class ball /*extends bouncer*/{
     }
     dx = 1;
     dy = 2;
-    move() {
+    move(timestamp) {
 
 
-        this.x += this.dx;
-        this.y += this.dy;
+        if(this.lastTime === null){
+            this.lastTime = timestamp;
+        }
+        const dt = (timestamp - this.lastTime) / 1000;
+        this.lastTime = timestamp;
+        this.x += this.dx * (dt * this.speed);
+        this.y += this.dy * (dt * this.speed);
         if (this.x < (this.radius + 1) || (this.x + this.radius) >= theCanvas.width) {
             this.dx = -this.dx;
             if(this.change){
@@ -107,6 +115,9 @@ class dvdLogo /*extends bouncer*/{
     i = 0;
     dx = 1;
     dy = 2;
+    speed = 200;
+    lastTime = null;
+    a = 0;
     /**
      *
      */
@@ -126,10 +137,18 @@ class dvdLogo /*extends bouncer*/{
         
 
     }
-    move(){
+    move(timestamp){
+        if(this.lastTime === null){
+            this.lastTime = timestamp;
+        }
+        const dt = (timestamp - this.lastTime) / 1000;
+        this.lastTime = timestamp;
+        
+
+
         let hit = false;
-       this.x += this.dx;
-        this.y += this.dy;
+       this.x += this.dx * (dt * this.speed);
+        this.y += this.dy * (dt * this.speed);
         if (this.x <= 0 || (this.x + this.w) >= theCanvas.width) {
             this.dx = -this.dx;
             hit = true;
