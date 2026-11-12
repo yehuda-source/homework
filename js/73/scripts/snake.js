@@ -1,15 +1,18 @@
 const theCanvas = document.getElementById("theCanvas");
 const context = theCanvas.getContext("2d");
 const popup = document.querySelector('#popup');
+const popupText = document.querySelector('#popupText')
+const background = document.querySelector('#background');
 
 
 const SNAKE_SIZE = 40;
-const speed = 250;
+let speed = 250;
 let snakeDirection = 'ArrowRight';
 const snakeHeads = [];
 const snakeBodies = [];
 const snakeTails = []
 const snakeSquares = [];
+const bufferedInputs = [];
 
 let gameOver = false;
 const emptySquares = new Set();
@@ -19,7 +22,7 @@ let isPaused = false;
 loadSnakeHeads();
 loadSnakeBodies();
 loadSnakeTails();
-loadAppleImg()
+loadAppleImg();
 
 function sizeCanvas() {
     theCanvas.width = window.innerWidth - (window.innerWidth % SNAKE_SIZE);
@@ -32,28 +35,63 @@ sizeCanvas();
 window.addEventListener("resize", sizeCanvas);
 let snakeHead = snakeHeads[0];
 
-let x = SNAKE_SIZE;
+let x = SNAKE_SIZE * 2;
 let y = 0;
-let direction = 'ArrowRight';
+//let direction = 'ArrowRight';
 let score = 0;
+loadBackground()
+fillEmptySquares();
 
-fillEmptySquares()
-
-snakeSquares.unshift(new snakeSquare(x - (SNAKE_SIZE * 2), y, snakeTails[0]));
+snakeSquares.unshift(new snakeSquare(x - (SNAKE_SIZE * 2), y, snakeTails[1]));
 emptySquares.delete(`${x - (SNAKE_SIZE * 2)}y${y}`);
 snakeSquares.unshift(new snakeSquare(x - SNAKE_SIZE, y, snakeBodies[0]));
 emptySquares.delete(`${x - SNAKE_SIZE}y${y}`);
 snakeSquares.unshift(new snakeSquare(x, y, snakeHead));
 emptySquares.delete(`${x}y${y}`);
 apple = addApple();
-context.drawImage(appleImg, apple.x, apple.y)
+context.drawImage(appleImg, apple.x, apple.y);
+console.log(snakeSquares);
+const delay = ms => new Promise(res => setTimeout(res, ms));
+await delay(1000)
+snakeSquares.forEach(square => {
+    context.drawImage(square.img, square.x, square.y)
+    console.log('drawing at x: ' + square.x + ' y: ' + square.y);
+})
 
 
+
+
+function loadBackground(){
+    let img0;
+    let k = true;
+     for (let i = 0; i < theCanvas.width / SNAKE_SIZE; i++) {
+        
+        img0 = k;
+        k = !k
+        for (let j = 0; j < theCanvas.height / SNAKE_SIZE; j++) {
+            const img = document.createElement('img');
+            if(img0){
+            img.src = 'assets/grass_0.png'
+            }
+            else{
+                img.src = 'assets/grass_1.png'
+            }
+            img0 = !img0
+            img.style.position = 'absolute';
+            img.style.left = `${i * SNAKE_SIZE}px`;
+            img.style.top = `${j * SNAKE_SIZE}px`;
+            img.style.zIndex = '0'
+            background.appendChild(img);
+        }
+    }
+    
+
+}
 
 function fillEmptySquares() {
     for (let i = 0; i < theCanvas.width / SNAKE_SIZE; i++) {
         for (let j = 0; j < theCanvas.height / SNAKE_SIZE; j++) {
-            emptySquares.add(`${j}y${i}`);
+            emptySquares.add(`${i}y${j}`);
         }
     }
 }
@@ -103,22 +141,29 @@ function loadSnakeBodies() {
 
 
 }
-const interval = setInterval(function () {
+const intervalF = function () {
     if (!isPaused) {
         //console.log(isPaused)
         context.clearRect(0, 0, theCanvas.width, theCanvas.height);
-        switch (direction) {
+        if (bufferedInputs.length >= 1) {
+            snakeDirection = bufferedInputs.shift()
+        }
+        switch (snakeDirection) {
             case 'ArrowUp':
                 y -= SNAKE_SIZE;
+                snakeHead = snakeHeads[2]
                 break;
             case 'ArrowDown':
                 y += SNAKE_SIZE
+                snakeHead = snakeHeads[3]
                 break;
             case 'ArrowLeft':
                 x -= SNAKE_SIZE;
+                snakeHead = snakeHeads[1]
                 break;
             case 'ArrowRight':
                 x += SNAKE_SIZE;
+                snakeHead = snakeHeads[0]
                 break;
 
         }
@@ -128,11 +173,11 @@ const interval = setInterval(function () {
         //snakeSquares[1].img = snakeBodies[0];
 
         if (!(apple.x === x & apple.y === y)) {
-             const tail = snakeSquares.pop();
+            const tail = snakeSquares.pop();
             //if(!(tail.x / SNAKE_SIZE < 0 | tail.y /SNAKE_SIZE < 0)){
-              emptySquares.add(`${tail.x / SNAKE_SIZE}y${tail.y / SNAKE_SIZE}`)
-              console.log('removing x: ' + tail.x / SNAKE_SIZE + ' y: ' + tail.y / SNAKE_SIZE)
-           // }
+            emptySquares.add(`${tail.x / SNAKE_SIZE}y${tail.y / SNAKE_SIZE}`)
+            console.log('removing x: ' + tail.x / SNAKE_SIZE + ' y: ' + tail.y / SNAKE_SIZE)
+            // }
 
 
         }
@@ -143,33 +188,58 @@ const interval = setInterval(function () {
         snakeSquares.forEach(square => {
             context.drawImage(square.img, square.x, square.y)
         })
-        if(apple.x === x & apple.y === y){
-                    score += 5;
+        if (apple.x === x & apple.y === y) {
+            score += 5;
+            if(score % 50 === 0){
+                if(speed > 50){
+            speed = speed  / .9
+            clearInterval(interval)
+            interval = setInterval(intervalF, speed);
+                }
+            }
             apple = addApple();
         }
-                    if(!apple){
-                return;
-            }
-        context.drawImage(appleImg, apple.x, apple.y)
-        if( calculateSelfHit(snakeSquares[0]) | calculateWallHil(snakeSquares[0])){
-            gameOver = true;
-            clearInterval(interval);
-            popup.textContent = `gameover! your score is ${score}`
-            popup.style.visiblity = 'visible'
-            console.log(`gameover! your score is ${score}`)
-
+        if (!apple) {
+            return;
         }
+        context.drawImage(appleImg, apple.x, apple.y)
+
         //add renove interval and popup
-        snakeDirection = direction;
+        //snakeDirection = direction;
         //context.drawImage(snakeHead, x, y);
-        context.fillStyle = "green";
+        context.fillStyle = "blue";
         context.font = "32px Cursive";
         const scoreText = `score: ${score}`;
         const metrics = context.measureText(scoreText);
         context.fillText(scoreText, (theCanvas.width - metrics.width) - 10, 36);
-    }
-}, speed)
+        if (calculateSelfHit(snakeSquares[0]) | calculateWallHil(snakeSquares[0])) {
+            gameOver = true;
+            clearInterval(interval);
+            popupText.textContent = `gameover! your score is ${score}`
+            popup.style.visibility = 'visible'
+            popup.style.zIndex = '1000'
+            console.log(`gameover! your score is ${score}`)
 
+        }
+    }
+}
+let interval = setInterval(intervalF, speed)
+
+function DrawGame() {
+    console.log('draewing game');
+    snakeSquares.forEach(square => {
+        context.drawImage(square.img, square.x, square.y)
+    });
+    context.drawImage(appleImg, apple.x, apple.y);
+    context.fillStyle = "green";
+    context.font = "32px Cursive";
+    const scoreText = `score: ${score}`;
+    const metrics = context.measureText(scoreText);
+    context.fillText(scoreText, (theCanvas.width - metrics.width) - 10, 36);
+    //requestAnimationFrame(DrawGame)
+}
+
+//requestAnimationFrame(DrawGame);
 
 window.addEventListener("keydown", e => {
     console.log(e.key)
@@ -177,24 +247,36 @@ window.addEventListener("keydown", e => {
         isPaused = !isPaused
         return
     }
-    if (((snakeDirection === 'ArrowRight' || snakeDirection === 'ArrowLeft') && (e.key === 'ArrowUp' || e.key === 'ArrowDown')) ||
-        ((snakeDirection === 'ArrowDown' || snakeDirection === 'ArrowUp') && (e.key === 'ArrowRight' || e.key === 'ArrowLeft'))) {
-        direction = e.key;
+    if (bufferedInputs.length >= 2) {
+        return;
+    }
+    let prevDir;
+    if (bufferedInputs.length >= 1) {
+        prevDir = bufferedInputs[0];
+    }
+    else {
+        console.log('no buffered');
+        prevDir = snakeDirection
+    }
+    if (((prevDir === 'ArrowRight' || prevDir === 'ArrowLeft') && (e.key === 'ArrowUp' || e.key === 'ArrowDown')) ||
+        ((prevDir === 'ArrowDown' || prevDir === 'ArrowUp') && (e.key === 'ArrowRight' || e.key === 'ArrowLeft'))) {
+        bufferedInputs.push(e.key)
+        //direction = e.key;
 
-        switch (direction) {
-            case 'ArrowRight':
-                snakeHead = snakeHeads[0];
-                break;
-            case 'ArrowLeft':
-                snakeHead = snakeHeads[1];
-                break;
-            case 'ArrowUp':
-                snakeHead = snakeHeads[2];
-                break;
-            case 'ArrowDown':
-                snakeHead = snakeHeads[3];
-                break;
-        }
+        // switch (e.key) {
+        //     case 'ArrowRight':
+        //         snakeHead = snakeHeads[0];
+        //         break;
+        //     case 'ArrowLeft':
+        //         snakeHead = snakeHeads[1];
+        //         break;
+        //     case 'ArrowUp':
+        //         snakeHead = snakeHeads[2];
+        //         break;
+        //     case 'ArrowDown':
+        //         snakeHead = snakeHeads[3];
+        //         break;
+        // }
         //console.log(snakeHead.src)
     }
     else {
@@ -259,21 +341,22 @@ function calculateSelfHit(head) {
     for (let i = 1; i < snakeSquares.length; i++) {
         //console.log(`head.x: ${head.x} head.y: ${head.y} i.x: ${snakeSquares[i].x} i.y: ${snakeSquares[i].y}`)
         if (head.x === snakeSquares[i].x & head.y === snakeSquares[i].y) {
+            console.log('you hit yourself ');
             return true;
         }
     }
     return false;
 }
 
-function calculateWallHil(head){
+function calculateWallHil(head) {
     //console.log(`head.x: ${head.x} head.y: ${head.y} canvas.width ${theCanvas.width} canvas.height ${theCanvas.height}`)
-    if(head.x >= theCanvas.width | head.x < 0 | head.y >= theCanvas.height | head.y < 0){
+    if (head.x >= theCanvas.width | head.x < 0 | head.y >= theCanvas.height | head.y < 0) {
         return true;
     }
 }
 function addApple() {
     let appleSquare;
-    if(emptySquares.size === 0){
+    if (emptySquares.size === 0) {
         clearInterval(interval);
         console.log(`you won!!`)
         return false;
@@ -287,7 +370,9 @@ function addApple() {
     if ((parseInt(coords[0]) === undefined) | (parseInt(coords[1]) === undefined)) {
         throw new Error(`$ this ${coords[0]} or this ${coords[1]} is not a number`)
     }
-    return { x: parseInt(coords[1]) * SNAKE_SIZE, y: parseInt(coords[0]) * SNAKE_SIZE }
+    const a = { x: parseInt(coords[0]) * SNAKE_SIZE, y: parseInt(coords[1]) * SNAKE_SIZE };
+    console.log(a);
+    return a;
 
 
 

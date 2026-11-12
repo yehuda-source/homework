@@ -16,18 +16,35 @@
         display: block;
         border: 1px solid black;
         box-sizing: border-box;
+        position: absolute;
     }
     #stopb{
         position: absolute;
     }
-    div{
-        visibility:hidden
+    #popup{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        visibility:hidden;
         position: absolute;
+        top: 40%;
+        left: 40%;
+        background-color: aqua;
+        width: 20%;
+        height: 20%;
+        text-align: center;
+        line-height: 100%;
+        border-radius: 10px;
+    }
+    div h2{
+        display: inline-block;
+        vertical-align: middle;
     }
 </style>
 <body>
+    <div id='background'></div>
     <canvas id="theCanvas"></canvas>
-    <div id="popup"></div>
+    <div id="popup"> <h2 id="popupText"></h2></div>
     <script src="scripts/snake.js" type="module"></script>
 
 </body>
