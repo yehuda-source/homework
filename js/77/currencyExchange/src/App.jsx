@@ -13,29 +13,32 @@ function App() {
 	const [currencies, setCurrencies] = useState();
 
 	const currenciesApi = "https://api.frankfurter.dev/v1/currencies";
+	
+
+
 
 	useEffect(() => {
 		(async () => {
 			if (!currencies) {
-				setCurrencies(Object.entries(await fetchFromApi(currenciesApi)));
+				setCurrencies(await fetchFromApi(currenciesApi))
 				console.log("currencies", currencies);
 				return;
 			}
 			setReadOnly(true);
-			//if (validateCurrencies(firstCurrency, secondCurrency)) {
-				const exchangeAmount = await findExchangeAmount(
+				const exchangeAmount = await findExchangeRate(
 					firstCurrency,
-					secondCurrency,
-					amount,
+					secondCurrency
+					
 				);
 				if (exchangeAmount) {
 					console.log("setting amount", exchangeAmount);
-					setResult(exchangeAmount);
+					setResult({...exchangeAmount, fullFirst: getFullCurrency(currencies, exchangeAmount.base), fullLast: getFullCurrency(currencies, exchangeAmount.quote)});
+
 				}
-			//}
 			setReadOnly(false);
 		})();
-	}, [firstCurrency, secondCurrency, amount, currencies]);
+	}, [firstCurrency, secondCurrency, currencies]);
+		const exchangedResult = (findExchangeAmount(result, amount))
 	return (
 		<>
 		<header>Currency Exchange Rate</header>
@@ -51,39 +54,39 @@ function App() {
 					/>
 				</div>
 				<div>
-					<label htmlFor="firCur">first currency: </label>
+					{/* <label htmlFor="firCur">first currency: </label>
 					<input
 						id="firCur"
 						readOnly={readonly}
 						value={firstCurrency}
 						onChange={(e) => setFirstCurrency(e.target.value)}
-					/>
+					/> */}
 					<select onChange={(e) => setFirstCurrency(e.target.value)} disabled={readonly}>
-						{currencies?.map((c, index) => (
-							<option key={c[0].toLowerCase()} value={c[0].toLowerCase()}>
+						{currencies && Object.entries(currencies)?.map((c, index) => (
+							<option key={c[0].toLowerCase()} value={c[0].toLowerCase()} cur={c[1]}>
 								{c[1]}
 							</option>
 						))}
 					</select>
 				</div>
 				<div>
-					<label htmlFor="secCur">second currency: </label>
+					{/* <label htmlFor="secCur">second currency: </label>
 					<input
 						id="secCur"
 						value={secondCurrency}
 						readOnly={readonly}
 						onChange={(e) => setSecondCurrency(e.target.value)}
-					/>
+					/> */}
 					<select onChange={(e) => setSecondCurrency(e.target.value)} disabled={readonly}>
-						{currencies?.map((c, index) => (
-							<option key={c[0].toLowerCase()} value={c[0].toLowerCase()}>
+						{currencies && Object.entries(currencies)?.map((c, index) => (
+							<option key={c[0].toLowerCase()} value={c[0].toLowerCase()} cur={c[1]}>
 								{c[1]}
 							</option>
 						))}
 					</select>
 				</div>
 			</form>
-			<Exchange result={result} />
+			{exchangedResult && <Exchange result={exchangedResult} />}
 		</>
 	);
 }
@@ -93,11 +96,12 @@ function App() {
 // 	return firstCur.length === 3 && secondCur.length === 3;
 // }
 
-async function findExchangeAmount(firstCur, secondCur, amount) {
-	let result = await findExchangeRate(firstCur, secondCur);
+ function findExchangeAmount(result, amountFirstCur) {
+	
 	if (result) {
-		result.total = result?.rate * amount;
-		result = addAmountToResult(result, amount);
+		let retval = result;
+		retval.total = result?.rate * amountFirstCur;
+		retval = addAmountToResult(retval, amountFirstCur);
 		return result;
 	}
 }
@@ -128,9 +132,13 @@ async function fetchFromApi(api) {
 		console.log(e.message);
 	}
 }
-function addAmountToResult(result, amount) {
-	result.amount = amount;
+function addAmountToResult(result, amountFirsrCur) {
+	result.amount = amountFirsrCur;
 	return result;
+}
+
+function getFullCurrency(currencies, currency){
+	return(currencies?.[currency])
 }
 
 export default App;
